@@ -4,7 +4,7 @@ Note: If you have a Github account, you can visit this link (sorry, its not hype
 
 Gear Wheel:
   Drop X - Forces Llama to drop the equipped item. An option does not exist for Shield. Drop Weapon does not exist for the Barbarian for balance reasons. Llama gets to choose the item dropped if Llama has equipped multiple of that item (weapons or rings). Llama is not allowed to sell the item for gold. If Llama is not wearing an an item on the X slot, or it is the helmet slot and Llama is wearing the Shame Cap, the wheel gets rerolled.
-  Drop Item Chat Choice - Forces Llama to drop an equipped item of chat's choice. Dropping the shield is a permitted choice. Dropping weapons is not a permitted choice when the character is a Barbarian. Llama is not allowed to sell the item for gold.
+  Drop Item Chat Choice - Forces Llama to drop an equipped item of chat's choice. Dropping the shield is a permitted choice. Dropping weapons is not a permitted choice when the character is a Barbarian. Dropping the Shame Cap is not a permitted choice. Llama is not allowed to sell the item for gold.
   Gamble/Replace X - Forces Llama to gamble a new X item. If Llama already has the X slot filled with an item, Llama is forced to get rid of it. Llama is allowed to sell the item for gold. If the option rolled is the helmet slot and Llama is wearing the Shame Cap, Llama replaces the helmet he was originally using instead of Shame Cap. The Shame Cap stays on.
   Drop 1/2 Charms - Forces Llama to drop half of his charms. If he only has one charm, he drops that. If Llama has no charms, the wheel gets rerolled.
 
