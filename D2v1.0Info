@@ -18,6 +18,7 @@ Functionality:
   - Act 5, the Assassin, and the Druid do not exist.
   - Upon killing Diablo, the game forcibly ends in 2 minutes.
   - There is no /players command.
+  - The Nightmare and Hell resistance penalty are -20, -50 respectively.
 
 Items:
   - No runes.
