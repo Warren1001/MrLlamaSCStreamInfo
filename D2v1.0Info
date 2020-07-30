@@ -92,6 +92,7 @@ NPCs:
 
 Monsters:
   - They have less life.
+  - Do not have any immunities. Instead, they can have insanely high resistances.
   - All monsters 4x the intended amount of attack rating.
     - This makes defense useless. Casters do not want to get hit. Meleers build around leeching.
   - Monsters give significantly less experience.
