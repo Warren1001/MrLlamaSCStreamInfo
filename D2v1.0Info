@@ -55,6 +55,8 @@ Affixes:
   - FCR is listed in tiers of 'Faster Cast Rate' and 'Fastest Cast Rate'.
   - FHR is listed in tiers of 'Faster Hit Recovery' and 'Fastest Hit Recovery'.
   - FRW is listed in tiers of 'Faster Run/Walk' and 'Fastest Run/Walk'.
+  - There are no steal/leech penalities.
+    - Undead monsters in Hell can be leeched off of at full effectiveness.
 
 Skills:
   - There are no cooldowns for skills.
@@ -69,6 +71,7 @@ Skills:
     - Fire Wall also benefits from having no cooldown and has decent damage in this patch. I do not fully comprehend Fire Wall, but the general gist of it is that the damage applied is continuously while in it. It may reach 1fpa like Whirlwind does. However, the damage stated on the skill tooltip is divided by the amount of times it hits in a second, unlike Whirlwind. Still a good skill in this version, since you can stack Fire Walls ontop of each other at a quick rate.
     - Lightning Mastery reduces the mana cost of lightning spells.
     - Charged Bolt does poor damage.
+    - Static Field does not have a penalty in Nightmare or Hell.
     - AoE skills like Frozen Orb, Frozen Nova, and Nova are better in this patch as a result of monsters not having as much health.
 
 NPCs:
@@ -111,7 +114,8 @@ Monsters:
   - Maggot Young give experience and drop items in this version.
     - Coupled with infinite AI range, avoiding all the Maggot Parents in the River of Flame will cause nonstop
   - Lord de Seis has the attribute 'Thief'.
-    - Thief in this version allowed Seis to forcibly drop any equipped item or potions. It was later nerfed to only drop potions.
+    - Thief forcibly drops potions. It is known to be buggy and crash the game.
+      - It is understood that Thief once allowed Seis to forcibly drop equipped items. This may have been apart of a Beta version, as 1.00 does not have this.
   - Lord de Seis spawns with an Oblivion Knight pack (the mages), instead of a Doom Knight pack (the meleers).
   - Oblivion Knights can cast Iron Maiden. Yes, the Chaos Sanctuary has Iron Maiden, the ultimate Barbarian slayer.
 
