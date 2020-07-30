@@ -6,7 +6,7 @@ Since the topic seems to confuse people, LoD did not exist in 1.00. This is Clas
 
 Functionality:
   - You cannot shift click potions into the belt.
-  - You cannot directly insert items into the cube by dropping it onto the cube.
+  - You cannot directly insert items into the cube by dropping it onto the cube if the item is larger than 2x2 in space.
   - Maximum resolution of 640x480.
   - It always minimizes on Windows 10 if you click outside the window in windowed mode.
   - Hardcore is not an option until you have completed Normal difficulty once on Softcore.
