@@ -1,0 +1,129 @@
+Diablo 2 v1.00 (the version the game released as) (7/29/20) (list in progress)
+
+Note: If you have a Github account, you can visit this link (sorry, its not hyperlink-able) https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/D2v1.0Info and submit a PR with any edits incase of any additional information or inaccuracies. Be sure you change the date to the current date of the edit (mm/dd/yy).
+
+Since the topic seems to confuse people, LoD did not exist in 1.00. This is Classic, however Classic today and 1.00 are completely different. He is not playing LoD 1.00.
+
+Functionality:
+  - You cannot shift click potions into the belt.
+  - You cannot directly insert items into the cube by dropping it onto the cube.
+  - Maximum resolution of 640x480.
+  - It always minimizes on Windows 10 if you click outside the window in windowed mode.
+  - Hardcore is not an option until you have completed Normal difficulty once on Softcore.
+  - Insanely small stash. 7x4?
+  - The Cow Level DOES exist.
+    - In this version, killing the Cow King does NOT prevent you from making the portal again.
+  - Weather has lightning and thunder. The thunder sound effect still exists for the Sorceress skill Thunderstorm. However, 1.00 has a bright flash where the entire screen flickers white once or twice.
+    - Likely got removed to either seizure issues or the fact that people figured out how to force this effect onto others' screens permanently (called flashing, a very annoying hack, you had to hack yourself to avoid being permanently blinded with lightning flashes flickering on and off, or avoid the hacker).
+  - Act 5, the Assassin, and the Druid do not exist.
+  - Upon killing Diablo, the game forcibly ends in 2 minutes.
+  - There is no /players command.
+
+Items:
+  - No runes.
+  - No charms.
+  - No jewels.
+  - No charges.
+  - No elite items.
+  - Gems are weaker and can only drop up to normal tier. You have to cube for Flawless and Perfect (with the exception of the Hellforge).
+  - No class-only items.
+    - Necromancer heads, Sorceress orbs, Paladin shields, Barbarian helms, and so forth do not exist at all.
+  - No unique exceptional items (only normal tier uniques).
+  - Sockets appear differently visually. Instead of being placed in the center of the item, they are aligned with the grid that the item takes the place of, starting at the bottom left and filling upward.
+  - Two-handed maces are bugged. All two-handed maces do their one-handed damage, which is 1-1 damage. Thus, mauls and such are useless.
+  - Enhanced damage does not contribute to bow damage properly.
+  - Failed uniques roll as a rare item with 5x durability.
+  - Failed sets roll as a magic item with 3x durability.
+  - Sell values of items are different, and depend on durability a lot. It is recommended to repair items before selling them, unless the repair cost + the sell value is less than the maximum sell value of that act.
+  - The unique item tier is treated literally. If a unique item exists in the game on any character (stash, equipped, or inventory) or has previously dropped, it will not drop in that game. If you are using a Stone of Jordan, you will never find another.
+  - However, taken the above note into account, there is a predetermined order for unique items with similar bases (rings or amulets). The order for unique rings will always be Manald -> Nagel -> SoJ. If you have a Manald and Nagel somewhere in your possession, your next unique ring will be a SoJ. If you have all three, the unique fails and rolls rare.
+  - The odds to gamble sets and uniques are significantly greater.
+    - 3% for Unique
+    - 5% for Set
+    - 7% for Rare
+    - 85% for Magic
+  - Gold is significantly harder to come by, as items do not sell for near as much.
+  - Only normal rarity items can have sockets.
+
+Affixes:
+  - The rare affix pool is significantly smaller. This means good affixes like +stats and +res spawn much more often.
+  - There are no 'Magic only' affixes, so a rare item can always be better than a magic item.
+    - The same generally applies to the affixes Set items have.
+  - Speed stats for animations like IAS and FCR do not use specific numbers, but variations of "Faster Speed".
+    - The variations vary between the animation that is being sped up.
+  - IAS is listed in tiers of 'Faster Attack Speed' and 'Fastest Attack Speed'.
+  - FCR is listed in tiers of 'Faster Cast Rate' and 'Fastest Cast Rate'.
+  - FHR is listed in tiers of 'Faster Hit Recovery' and 'Fastest Hit Recovery'.
+  - FRW is listed in tiers of 'Faster Run/Walk' and 'Fastest Run/Walk'.
+
+Skills:
+  - There are no cooldowns for skills.
+  - There are no synergies for skills.
+  Barbarian:
+    - Whirlwind at its most broken state. It hits a whopping 25 times per second. This makes IAS not needed. The ideal weapon in this version is a Pike with high damage. Combined with adequate life and mana steal, the Barbarian can achieve near-immortality while dishing out insane damage. The downside is these weapons break at an insane pace.
+    - Leap Attack is considered a spell. It cannot miss and it does not suffer penalties from reflect damage, such as Iron Maiden.
+    - Due to the lack of synergies, passive buff shouts have very little duration. In this version, Battle Orders is the only shout worth more than 1 point.
+  Sorceress:
+    - Warmth is actually useful. Nothing is different, but without synergies, you have nowhere else to put your skills. Without mana potions, you need every bit of mana you can get.
+    - Frozen Orb is powerful in this version with no cooldowns, however its spell works differently. With NoHit also being different as well as synergies not existing to boost damage, to gain maximum damage potential from Frozen Orb, you have to aim it to where the orb explodes directly on your target for you to have decent damage. Frozen Orb also tanks your mana. It is expected to have max Warmth and utilize Energy Shield with stat points in Energy to effectively use Frozen Orb. Blizzard is also decent, but doesn't compare to Frozen Orb.
+    - Fire Wall also benefits from having no cooldown and has decent damage in this patch. I do not fully comprehend Fire Wall, but the general gist of it is that the damage applied is continuously while in it. It may reach 1fpa like Whirlwind does. However, the damage stated on the skill tooltip is divided by the amount of times it hits in a second, unlike Whirlwind. Still a good skill in this version, since you can stack Fire Walls ontop of each other at a quick rate.
+    - Lightning Mastery reduces the mana cost of lightning spells.
+    - Charged Bolt does poor damage.
+    - AoE skills like Frozen Orb, Frozen Nova, and Nova are better in this patch as a result of monsters not having as much health.
+
+NPCs:
+  - Vendors do NOT sell mana potions. This makes all caster builds inferior to melee builds in this version!
+  - Vendors have a limited supply of all items. An NPC inventory may have 10 individual health potions. This means you can only buy these 10 health potions.
+  - 'Repair All' button does not exist. You have to manually repair each item.
+  - Atma does not heal you in this version.
+  - Natalya does not exist in this version.
+  - Mercenaries suck.
+    - They cannot wear gear.
+    - They cannot be taken between acts.
+    - They cannot be resurrected.
+    - You cannot pass through your mercenary.
+    - The Act 2 mercenary has slightly different animations for moving around. They also wear a helmet.
+    - The skills and benefits of a merc vary now. In the current version, they were always one or the other of some kind. In 1.00, it's random.
+    - They are generally weaker compared to modern versions because their AI is less aggressive.
+
+Monsters:
+  - They have less life.
+  - All monsters 4x the intended amount of attack rating.
+    - This makes defense useless. Casters do not want to get hit. Meleers build around leeching.
+  - Monsters give significantly less experience.
+    - Leveling in 1.00 is slow. You are expected to finish Hell at around level 35.
+    - Minions of unique monsters do not give bonus experience. Only the unique monster does.
+  - MF only works on normal monsters. Not bosses, superuniques, uniques, or champions.
+    - Additionally, Act bosses (with the exception quest kill) are not worth farming at all. They have terrible drops outside of their quest kill.
+      - However, the Cow King has insanely good drops and is one of the best places to farm, if not the best.
+  - You cannot break hostility with a monster except for changing areas through load screens. This means every monster will chase you once they have seen you to the ends of the earth until they cannot physically follow you anymore (town or through a load screen level).
+  - Superunique monsters do not have pre-defined coloring anymore. They can be any color. Green Rakanishu!
+  - Superunique revivors are capable of reviving their same monster type. Meaning Bishibosh can resurrect Fallen Shamans. This may only apply to their minions.
+  - Modern versions of D2 have a bug where some colors for unique monsters are not chosen. More colors are available for unique monsters in this version.
+  - Flamespike the Crawler exists in this version. He is the first run killer. He spawns on the Inner Cloister waypoint and is always Fire Enchanted Cursed.
+  - Andariel spawns closer to the door in Level 4. If you walk through the large double door, her aggression is drawn immediately.
+  - The Summoner is a frequent run killer, due to Fire Wall being powerful and the Summoner having a high level Fire Wall. If Summoner casts a Fire Wall on you, you will be killed nearly instantly.
+  - The little Flayer dudes have a sound effect that is not present in modern versions.
+  - Monster packs with ranged skills will all follow the same AI when first encountering the player.
+    - This means monsters like Heirophants and Blood Lords will all cast Blizzard or Meteor respectively at the same time. You will see 3-4 Blizzards stacked on top of each other casted directly on to you.
+  - Unique monsters with the 'Teleportation' enchant will teleport often at low health. Each time they teleport, they gain health.
+  - MSLE bug exists in this version. To my understanding, hitting a monster with Multishot and Lightning Enchanted caused the lightning bolts to be multishotted, tripling the amount of bolts normally spawned.
+  - Maggot Young give experience and drop items in this version.
+    - Coupled with infinite AI range, avoiding all the Maggot Parents in the River of Flame will cause nonstop
+  - Lord de Seis has the attribute 'Thief'.
+    - Thief in this version allowed Seis to forcibly drop any equipped item. It was later nerfed to only drop potions.
+  - Lord de Seis spawns with an Oblivion Knight pack (the mages), instead of a Doom Knight pack (the meleers).
+  - Oblivion Knights can cast Iron Maiden. Yes, the Chaos Sanctuary has Iron Maiden, the ultimate Barbarian slayer.
+
+
+
+
+
+
+
+
+
+
+
+
+
