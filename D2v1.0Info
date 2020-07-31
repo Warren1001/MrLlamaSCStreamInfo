@@ -1,8 +1,10 @@
-Diablo 2 v1.00 (the version the game released as) (7/31/20) (list in progress)
+Diablo 2 v1.00 (the version the game released publicly as, without any additional patches) (7/31/20) (list in progress)
 
 Note: If you have a Github account, you can visit this link (sorry, its not hyperlink-able) https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/D2v1.0Info and submit a PR with any edits incase of any additional information or inaccuracies. Be sure you change the date to the current date of the edit (mm/dd/yy).
 
 Since the topic seems to confuse people, LoD did not exist in 1.00. This is Classic, however Classic today and 1.00 are completely different. He is not playing LoD 1.00.
+If you are wanting to play an old school version of Diablo 2, consider playing 1.06b instead of 1.00. 1.06b has nearly all of these differences but without as many game breaking bugs.
+If you are wanting to play with bugs, then so be it. You can find a guide to play with 1.00 or 1.06b on MrLlama's Discord in the #mods text channel: https://discord.gg/BePVw9e
 
 Functionality:
   - You cannot shift click potions into the belt.
@@ -10,15 +12,18 @@ Functionality:
   - Maximum resolution of 640x480.
   - It always minimizes on Windows 10 if you click outside the window in windowed mode.
   - Hardcore is not an option until you have completed Normal difficulty once on Softcore.
-  - Insanely small stash. 6x4. 24 slots. In current versions, it is roughly 10x10. Roughly 100 slots.
+  - Insanely small stash. 6x4. 24 slots. Four times smaller than the current version.
   - The Cow Level DOES exist.
-    - In this version, killing the Cow King does NOT prevent you from making the portal again.
+    - Killing the Cow King does NOT prevent you from making the portal again.
   - Weather has lightning and thunder. The thunder sound effect still exists for the Sorceress skill Thunderstorm. However, 1.00 has a bright flash where the entire screen flickers white once or twice.
     - Likely got removed to either seizure issues or the fact that people figured out how to force this effect onto others' screens permanently (called flashing, a very annoying hack, you had to hack yourself to avoid being permanently blinded with lightning flashes flickering on and off, or avoid the hacker).
   - Act 5, the Assassin, and the Druid do not exist.
   - Upon killing Diablo, the game forcibly ends in 2 minutes.
   - There is no /players command.
   - The Nightmare and Hell resistance penalties are -20, -50 respectively.
+  - Dexterity does not affect block chance. Only the shield block chance (and Holy Shield) can modify block chance.
+  - There are no leech penalities.
+    - Undead monsters in Hell can be leeched at full effectiveness.
 
 Items:
   - No runes.
@@ -52,31 +57,50 @@ Affixes:
     - The same generally applies to the affixes Set items have.
   - Speed stats for animations like IAS and FCR do not use specific numbers, but variations of "Faster Speed".
     - The amount of speed differences vary between the animation that is being sped up.
-  - There are no steal/leech penalities.
-    - Undead monsters in Hell can be leeched at full effectiveness.
 
 Skills:
   - There are no cooldowns for skills.
   - There are no synergies for skills.
   Barbarian:
-    - Whirlwind at its most broken state. It hits a whopping 25 times per second. This makes IAS not needed. The ideal weapon in this version is a Pike with high damage. Combined with adequate life and mana steal, the Barbarian can achieve near-immortality while dishing out insane damage. The downside is these weapons break at an insane pace.
-    - Leap Attack is considered a spell. It cannot miss and it does not suffer penalties from reflect damage, such as Iron Maiden.
-    - Due to the lack of synergies, passive buff shouts have very little duration. In this version, Battle Orders is the only shout worth more than 1 point.
+    - Whirlwind at its most broken state. It hits a whopping 25 times per second. This makes IAS not needed. The ideal weapon is a failed Unique (becomes Rare with 5x durability) Pike with high damage. Combined with adequate life and mana steal, the Barbarian can achieve near-immortality while dishing out insane damage. The downside is these weapons break at an insane pace.
+    - Leap Attack is considered a spell. It cannot miss and it does not suffer penalties from reflect damage, such as being cursed with Iron Maiden.
+    - Due to the lack of synergies, passive buff shouts have very little duration. Battle Orders is the only shout worth more than 1 point. It also has massive diminishing returns from skill points, so it should be lower priority to max.
   Sorceress:
     - Warmth is actually useful. Nothing is different, but without synergies, you have nowhere else to put your skills. Without mana potions, you need every bit of mana you can get.
-    - Frozen Orb is powerful in this version with no cooldowns, however its spell works differently. With NoHit also being different as well as synergies not existing to boost damage, to gain maximum damage potential from Frozen Orb, you have to aim it to where the orb explodes directly on your target for you to have decent damage. Frozen Orb also tanks your mana. It is expected to have max Warmth and utilize Energy Shield with stat points in Energy to effectively use Frozen Orb. Blizzard is also decent, but doesn't compare to Frozen Orb.
+    - Frozen Orb is powerful with no cooldowns, however its spell works differently. With NoHit also being different as well as synergies not existing to boost damage, to gain maximum damage potential from Frozen Orb, you have to aim it to where the orb explodes directly on your target for you to have decent damage. Frozen Orb also tanks your mana. It is expected to have max Warmth and utilize Energy Shield with stat points in Energy to effectively use Frozen Orb. Blizzard is also decent, but doesn't compare to Frozen Orb.
     - Fire Wall also benefits from having no cooldown and has decent damage in this patch. I do not fully comprehend Fire Wall, but the general gist of it is that the damage applied is continuously while in it. It may reach 1fpa like Whirlwind does. However, the damage stated on the skill tooltip is divided by the amount of times it hits in a second, unlike Whirlwind. Still a good skill in this version, since you can stack Fire Walls ontop of each other at a quick rate.
     - Lightning Mastery reduces the mana cost of lightning spells.
     - Charged Bolt does poor damage.
     - Static Field does not have a penalty in Nightmare or Hell.
     - AoE skills like Frozen Orb, Frozen Nova, and Nova are better in this patch as a result of monsters not having as much health.
+  Necromancer:
+    - Skelebros aren't great.
+      - They do less damage.
+      - The AI sucks.
+      - If you get too far from your skeletons, they die. They will not teleport to you if they get stuck.
+      - Supposedly, getting some skills into Skeleton Mastery helps, but the build overall is not that strong.
+    - Corpse Explosion is significantly more powerful. It scales with players in the game and it gains a yard of area of effect for every hard point.
+      - A maxed Corpse Explosion can kill monsters off screen.
+    - A bug exists with Blood Golem where reflect damage counts as the damage that the golem does, which heals you and him.
+      - Using Blood Golem and casting Iron Maiden of those who attack it will grant near-immortality to you and your Blood Golem.
+  Amazon:
+    - Overall sucks.
+    - With the bug of ED% not affecting bows, physical damage bow skills suck, as you are stuck on the base damage the bow does.
+      - However, Guided Arrow pierces nearly infinitely.
+    - Javelin skills and Elemental Bow skills are not as powerful without the synergies, and are generally a worse version of the Sorceress, since you do not have access to Warmth and do less damage and mana steal will not scale well with no ED%.
+    - Spear skills suck the same they do in the current version.
+  Paladin:
+    - The Hammerdin build is alright, but not near as powerful as it is in the current version since there are no synergies.
+    - Zeal suffers the zeal bug. If a swing misses, every subsequent swing also misses.
+    - The offensive auras do not grant additional damage to weapons. They only do their AoE damage.
+    - Conversion + Thorns is particularly useful, as the monster stats in this version make Thorns decent.
 
 NPCs:
-  - Vendors do NOT sell mana potions. This makes all caster builds inferior to melee builds in this version!
+  - Vendors do NOT sell mana potions. This makes all caster builds inferior to melee builds!
   - Vendors have a limited supply of all items. An NPC inventory may have 10 individual health potions. This means you can only buy these 10 health potions.
   - 'Repair All' button does not exist. You have to manually repair each item.
-  - Atma does not heal you in this version.
-  - Natalya does not exist in this version.
+  - Atma does not heal you.
+  - Natalya does not exist.
   - Mercenaries suck.
     - They cannot wear gear.
     - They cannot be taken between acts.
@@ -100,16 +124,16 @@ Monsters:
   - You cannot break hostility with a monster except for changing areas through load screens. This means every monster will chase you to the ends of the earth once they have seen you until they cannot physically follow you anymore.
   - Superunique monsters do not have pre-defined coloring. They can be any color. Green Rakanishu!
   - Superunique revivors are capable of reviving their same monster type. Meaning Bishibosh can resurrect Fallen Shamans. This might only apply to their minions.
-  - Modern versions of D2 have a bug where some colors for unique monsters are not chosen. More colors are available for unique monsters in this version. Purple monsters!
-  - Flamespike the Crawler exists in this version. He is the first run killer. He spawns on the Inner Cloister waypoint and is always Fire Enchanted Cursed.
+  - Modern versions of D2 have a bug where some colors for unique monsters are not chosen. More colors are available for unique monsters. Purple monsters!
+  - Flamespike the Crawler exists. He is the first run killer. He spawns on the Inner Cloister waypoint and is always Fire Enchanted Cursed.
   - Andariel spawns closer to the door in Level 4. If you walk through the large double door, her aggression is drawn immediately.
   - The Summoner is the second run killer, due to Fire Wall being powerful and the Summoner having a high level Fire Wall. If Summoner casts a Fire Wall on you, you will be killed nearly instantly.
   - The little Flayer dudes have a sound effect that is not present in modern versions.
   - Monster packs with ranged skills will all follow the same AI when first encountering the player.
     - This means monsters like Heirophants and Blood Lords will all cast Blizzard or Meteor respectively at the same time. You will see 3-4 Blizzards stacked on top of each other casted directly on to you.
   - Unique monsters with the 'Teleportation' enchant will teleport often at low health. Each time they teleport, they gain health.
-  - MSLE bug exists in this version. To my understanding, hitting a monster with Multishot and Lightning Enchanted caused the lightning bolts released to be multishotted, tripling the amount of bolts normally spawned.
-  - Maggot Young give experience and drop items in this version.
+  - MSLE bug exists. To my understanding, hitting a monster with Multishot and Lightning Enchanted caused the lightning bolts released to be multishotted, tripling the amount of bolts normally spawned.
+  - Maggot Young give experience and drop items.
     - Coupled with infinite AI range, not killing any of the Maggot Parents will cause nonstop spawns of Maggot Young, which can make infinite (and optimal) farming of experience, especially in the River of Flame.
   - Lord de Seis has the attribute 'Thief'.
     - Thief forcibly drops potions from your belt. It is known to be buggy and crash the game.
