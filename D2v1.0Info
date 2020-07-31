@@ -24,7 +24,6 @@ Items:
   - No runes.
   - No charms.
   - No jewels.
-  - No charges.
   - No elite items.
   - Gems are weaker and can only drop up to normal tier. You have to cube for Flawless and Perfect (with the exception of the Hellforge).
   - No class-only items.
@@ -47,17 +46,14 @@ Items:
   - Only normal rarity items can have sockets.
 
 Affixes:
+  - Charges of skills (tp staff) do not exist.
   - The rare affix pool is significantly smaller. This means good affixes like +stats and +res spawn much more often.
   - There are no 'Magic only' affixes, so a rare item can always be better than a magic item.
     - The same generally applies to the affixes Set items have.
   - Speed stats for animations like IAS and FCR do not use specific numbers, but variations of "Faster Speed".
-    - The variations vary between the animation that is being sped up.
-  - IAS is listed in tiers of 'Faster Attack Speed' and 'Fastest Attack Speed'.
-  - FCR is listed in tiers of 'Faster Cast Rate' and 'Fastest Cast Rate'.
-  - FHR is listed in tiers of 'Faster Hit Recovery' and 'Fastest Hit Recovery'.
-  - FRW is listed in tiers of 'Faster Run/Walk' and 'Fastest Run/Walk'.
+    - The amount of speed differences vary between the animation that is being sped up.
   - There are no steal/leech penalities.
-    - Undead monsters in Hell can be leeched off of at full effectiveness.
+    - Undead monsters in Hell can be leeched at full effectiveness.
 
 Skills:
   - There are no cooldowns for skills.
@@ -92,33 +88,33 @@ NPCs:
 
 Monsters:
   - They have less life.
-  - Do not have any immunities. Instead, they can have insanely high resistances.
-  - All monsters 4x the intended amount of attack rating.
-    - This makes defense useless. Casters do not want to get hit. Meleers build around leeching.
+  - Do not have any immunities. Instead, they can have insanely high resistances (but not greater than or equal to 100).
+  - All monsters have four times the intended amount of attack rating.
+    - This makes defense useless. Casters do not want to get hit. Melee builds build around leeching.
   - Monsters give significantly less experience.
     - Leveling in 1.00 is slow. You are expected to finish Hell at around level 35.
     - Minions of unique monsters do not give bonus experience. Only the unique monster does.
   - MF only works on normal monsters. Not bosses, superuniques, uniques, or champions.
-    - Additionally, Act bosses (with the exception quest kill) are not worth farming at all. They have terrible drops outside of their quest kill.
+    - Additionally, Act bosses (with the exception of quest kill) have terrible drops outside of their quest kill. They are not worth farming at all.
       - However, the Cow King has insanely good drops and is one of the best places to farm, if not the best.
-  - You cannot break hostility with a monster except for changing areas through load screens. This means every monster will chase you once they have seen you to the ends of the earth until they cannot physically follow you anymore (town or through a load screen level).
-  - Superunique monsters do not have pre-defined coloring anymore. They can be any color. Green Rakanishu!
-  - Superunique revivors are capable of reviving their same monster type. Meaning Bishibosh can resurrect Fallen Shamans. This may only apply to their minions.
-  - Modern versions of D2 have a bug where some colors for unique monsters are not chosen. More colors are available for unique monsters in this version.
+  - You cannot break hostility with a monster except for changing areas through load screens. This means every monster will chase you to the ends of the earth once they have seen you until they cannot physically follow you anymore.
+  - Superunique monsters do not have pre-defined coloring. They can be any color. Green Rakanishu!
+  - Superunique revivors are capable of reviving their same monster type. Meaning Bishibosh can resurrect Fallen Shamans. This might only apply to their minions.
+  - Modern versions of D2 have a bug where some colors for unique monsters are not chosen. More colors are available for unique monsters in this version. Purple monsters!
   - Flamespike the Crawler exists in this version. He is the first run killer. He spawns on the Inner Cloister waypoint and is always Fire Enchanted Cursed.
   - Andariel spawns closer to the door in Level 4. If you walk through the large double door, her aggression is drawn immediately.
-  - The Summoner is a frequent run killer, due to Fire Wall being powerful and the Summoner having a high level Fire Wall. If Summoner casts a Fire Wall on you, you will be killed nearly instantly.
+  - The Summoner is the second run killer, due to Fire Wall being powerful and the Summoner having a high level Fire Wall. If Summoner casts a Fire Wall on you, you will be killed nearly instantly.
   - The little Flayer dudes have a sound effect that is not present in modern versions.
   - Monster packs with ranged skills will all follow the same AI when first encountering the player.
     - This means monsters like Heirophants and Blood Lords will all cast Blizzard or Meteor respectively at the same time. You will see 3-4 Blizzards stacked on top of each other casted directly on to you.
   - Unique monsters with the 'Teleportation' enchant will teleport often at low health. Each time they teleport, they gain health.
-  - MSLE bug exists in this version. To my understanding, hitting a monster with Multishot and Lightning Enchanted caused the lightning bolts to be multishotted, tripling the amount of bolts normally spawned.
+  - MSLE bug exists in this version. To my understanding, hitting a monster with Multishot and Lightning Enchanted caused the lightning bolts released to be multishotted, tripling the amount of bolts normally spawned.
   - Maggot Young give experience and drop items in this version.
-    - Coupled with infinite AI range, avoiding all the Maggot Parents in the River of Flame will cause nonstop
+    - Coupled with infinite AI range, not killing any of the Maggot Parents will cause nonstop spawns of Maggot Young, which can make infinite (and optimal) farming of experience, especially in the River of Flame.
   - Lord de Seis has the attribute 'Thief'.
-    - Thief forcibly drops potions. It is known to be buggy and crash the game.
+    - Thief forcibly drops potions from your belt. It is known to be buggy and crash the game.
       - It is understood that Thief once allowed Seis to forcibly drop equipped items. This may have been apart of a Beta version, as 1.00 does not have this.
-  - Lord de Seis spawns with an Oblivion Knight pack (the mages), instead of a Doom Knight pack (the meleers).
+  - Lord de Seis spawns with an Oblivion Knight pack (the mages) instead of a Doom Knight pack (the meleers).
   - Oblivion Knights can cast Iron Maiden. Yes, the Chaos Sanctuary has Iron Maiden, the ultimate Barbarian slayer.
 
 More info: https://www.diabloii.net/forums/threads/the-time-travelers-vortex-part-1-a-guide-to-spf-time-travel.933724/
