@@ -58,7 +58,7 @@
 		- `Thundawg` Dog barking remix of Thunder by Imagine Dragons, Gabe included. [Original video](https://www.youtube.com/watch?v=9Kb_b3uC87k).
 		- `RaDoggoActive` Dog barking remix of Radioactive by Imagine Dragons, Gabe included. [Original video](https://www.youtube.com/watch?v=kx4PpeP9XrQ).
 	- `Epic Llama` A bunch of mrllamaArmy emotes chase Llama's Diablo 2 cursor. If the Llamas get to the cursor, they start growing in size. As the overlay progresses, more mrllamaArmy emotes spawn and they get faster. The background song is [Grieg - In the Hall of the Mountain King](https://www.youtube.com/watch?v=kLp_Hh6DKWc).
-	- `D2 Rap (Aww Jeez)` [A Diablo 2 rap made by JeeZLawayZ made for Llama](https://www.youtube.com/watch?v=_Uwr1Uplmv0).
+	- `D2 Rap (Aww Jeez)` A [Diablo 2 rap made by JeeZLawayZ](https://www.youtube.com/watch?v=_Uwr1Uplmv0) for Llama.
 	- `Enhance` The entire Diablo 2 window becomes blurry except for a box around his cursor which is still clear. Videos of crime shows where they are looking at images or videos asking the tech guy to "enhance the image" are overlayed on the window.
 	- `Diablo 0` An overlay replicating old film visual quality, where the colors are black and white, grainy, and has bars moving across the screen with an old song as the background music.
 	- `Diablo 1` Tristram music plays during the overlay while the main UI bar is redesigned to look like Diablo 1's main UI bar. A massive image blocks Llama's view if he is running ingame during this overlay, as you can only walk in Diablo 1. The image disappears when Llama starts walking.
