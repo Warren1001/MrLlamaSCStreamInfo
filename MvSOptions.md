@@ -1,7 +1,7 @@
 # Man vs Stream Options (7/31/20) (Season 6) (list in progress)
 
 
-###### Note If you have a Github account, you can submit a PR with any edits incase of any additional information, inaccuracies, or missing options. Be sure you change the date to the current date of the edit (mm/dd/yy).
+###### Note: If you have a Github account, you can submit a PR with any edits incase of any additional information, inaccuracies, or missing options. Be sure you change the date to the current date of the edit (mm/dd/yy).
 
 
 - **Gear Wheel**
