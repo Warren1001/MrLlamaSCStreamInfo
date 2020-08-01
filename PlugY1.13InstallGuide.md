@@ -34,7 +34,7 @@
 6. **Open the `PlugY_The_Survival_Kit_v11.02.zip` file.**
 7. **Drag and all the files from this file into the Diablo 2 folder.**
 	- We do not care about the any of the `.txt`, the `PatchD2File.exe`, or the `RestoreD2File.exe` files. You can get rid of them if you wish.
-8. **Perform the settings we did in Step 3.ii to `PlugY.exe` in your Diablo 2 folder.**
+8. **Perform the settings we did in Step `3.ii` to `PlugY.exe` in your Diablo 2 folder.**
 9. **Right click `PlugY.exe` and press `Send to > Desktop (create shortcut)`.**
 10. **Go to your Desktop, right click the new shortcut, go to `Properties` and click on the `Shortcut` tab.**
 11. **In the `Target:` box, add `-w` to the end.**
