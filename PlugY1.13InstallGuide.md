@@ -5,6 +5,8 @@
 
 #### Additionally, there has been a third-party update of PlugY for 1.14d (the current latest version of Diablo 2). However, it has neither stood the test of time nor was it reviewed by the original author of PlugY, Yohann. If you are still interested in using the updated version, you can find the guide [here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/PlugY1.14InstallGuide.md).
 
+#### Finally, there is [a video guide](https://www.youtube.com/watch?v=czO1LYKytG8) you can use instead of text guide, but people have reported issues with some of the steps he has shown in the guide. It is also a a little over-complicated.
+
 
 1. **You will need to obtain a legacy online installer.**
 	- The reason is because you cannot downgrade from 1.14, as it has undergone too many changes.
