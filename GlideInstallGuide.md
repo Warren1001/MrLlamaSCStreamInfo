@@ -28,7 +28,7 @@
 	- `remember position` will put Diablo 2 back in the position it was last in when it was previously run.
 7. **You can click `Test` to ensure everything runs smoothly.**
 	- After you've tested it, simply click the red Exit circle.
-8. **Navigate to the shortcut you use to start Diablo 2.**
+8. **Navigate to the shortcut you use to start Diablo 2, right click it, and press `Properties`.**
 9. **Go to the `Shortcut` tab and add `-3dfx` to the end of the `Target:` dialog box, the same way you have added `-w`.**
 	- For most users, the `Target:` dialog box will read `"C:\Program Files (x86)\Diablo II\Diablo II.exe" -w -3dfx`.
 10. **Run Diablo 2 using the shortcut!**
