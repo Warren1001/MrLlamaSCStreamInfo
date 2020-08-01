@@ -26,6 +26,7 @@
 8. **Go to the `Shortcut` tab of the Properties window. In the `Target:` box, add `-w` to the end.**
 	- This will launch PlugY in windowed mode.
 	- Your `Target:` box should read something similar to `"C:\Program Files (x86)\Diablo II\PlugYRun.exe" -w`.
+		- The `"` at both ends of the path are required to add `-w` to the end.
 9. **Use the shortcut on your desktop to play Diablo 2 with PlugY!**
 
 ##### Enjoy! :)
