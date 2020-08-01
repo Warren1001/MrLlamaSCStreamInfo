@@ -10,7 +10,7 @@
 	- The reason is because you cannot downgrade from 1.14, as it has undergone too many changes.
 	1. *You can find links to the legacy online installer [here](https://www.reddit.com/r/pathofdiablo/comments/4b48oz/how_to_download_and_install_version_113/d160fdh/) or [here](https://www.reddit.com/r/slashdiablo/wiki/index/setup)*.
 		- Here are the links to the hosting sites linked at the above links:
-			- [Mega.nz](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#file/e9thyD6A#ExGJuZUtvRJ2c8DrxSL0ihCouh-ARbdVxODXIqVt3dc)
+			- [Mega.nz](https://mega.nz/#!e9thyD6A!ExGJuZUtvRJ2c8DrxSL0ihCouh-ARbdVxODXIqVt3dc)
 			- [Google Drive](https://drive.google.com/file/d/0BwtmRlAuN2x8X2FoWmhoR2pWQ2s/view)
 			- [One Drive](https://onedrive.live.com/redir?resid=C9512C8BBA34920C!1795&authkey=!AHKYNghIssoWWVs&ithint=file%2czip)
 			- [Mediafire](http://www.mediafire.com/file/51r3c5s6hezsruz/DiabloII_113c_Installer.zip/file)
