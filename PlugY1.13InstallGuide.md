@@ -1,7 +1,7 @@
 # How to install PlugY for Diablo 2 version 1.13d
 
 
-#### Because this is for an outdated version of Diablo 2, if you also want to play Battle.net too, you will need two separate installations.
+#### Because this is for an outdated version of Diablo 2, if you also want to play Battle.net, you will need two separate installations.
 
 #### Additionally, there has been a third-party update of PlugY for 1.14d (the current latest version of Diablo 2). However, it has neither stood the test of time nor was it reviewed by the original author of PlugY, Yohann. If you are still interested in using the updated version, you can find the guide [here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/PlugY1.14InstallGuide.md).
 
