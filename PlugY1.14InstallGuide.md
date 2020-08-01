@@ -18,6 +18,7 @@
 3. **[Download PlugY v12.00 for Diablo 2 1.14d](https://github.com/haxifix/PlugY/raw/master/PlugY%20v12.00.zip).**
 	- In the event the above link breaks, [visit here](https://github.com/haxifix/PlugY). Look for a `PlugY v12.00.zip` file. It may have been moved to *Releases*.
 		- You can also view the current bugs with this version of PlugY [here](https://github.com/haxifix/PlugY/issues).
+		- You can view the original PlugY site [here](http://plugy.free.fr/).
 4. **Open `PlugY v12.00.zip`.**
 5. **Take all of the files inside this .zip file and place them into your Diablo 2 folder.**
 6. **Right click the `PlugYRun.exe` file that you just placed in your Diablo 2 folder. Press `Send to > Desktop (create shortcut)`.**
