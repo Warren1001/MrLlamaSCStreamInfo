@@ -17,8 +17,8 @@
 			- [Torrent](https://cdn.discordapp.com/attachments/157962768534863872/160784109642186753/DiabloII_113c_Installer.zip.torrent)
 2. **Install Diablo 2 using the legacy online installer.**
 	- In the event that loading up the installer says "Play Diablo 2" instead of "Install Diablo 2", you will have to rename your current Diablo 2 folder.
-		- Find your current Diablo 2 folder and either delete it if you do not plan to use it at all or rename the folder to something else so that you can install Diablo 2 again.
-3. **Your Diablo 2 is now at 1.12a, however, we want to be at 1.13d, so we need to patch Diablo 2 to 1.13d.**
+		- Find your current Diablo 2 folder and either delete it if you do not plan to use it at all or rename the folder to something else so that you can install Diablo 2 again. Then restart the installer and install as normal.
+3. **Your Diablo 2 is now at 1.12a. However, we want to be at 1.13d, so we need to patch Diablo 2 to 1.13d.**
 	1. To do this, we will download the standalone patch from Blizzard's website, which you can find [here](http://ftp.blizzard.com/pub/diablo2exp/patches/PC/LODPatch_113d.exe).
 	2. To ensure everything goes smoothly, go to your Diablo 2 folder and apply the following settings to both `Diablo II.exe` and `Game.exe`:
 		1. Right click the executable and go to `Properties`.
