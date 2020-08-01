@@ -51,13 +51,13 @@
 	- The crazy overlay options. Most options do not stack with each other.
 	- All overlays and chat interactions of MvS are made by evo_Demon.
 	- `Slightly Intoxicated Boat Guy` Diablo 2 screen rotates and sways side to side like a boat would on the ocean with [this music](https://www.youtube.com/watch?v=0UX25HFxCoc) in the background.
-		- [This one is 'slightly' because the old version was insane and a lot of people complained](https://youtu.be/lJy1uN0nr1w?t=479).
+		- This one is 'slightly' because the [old version](https://youtu.be/lJy1uN0nr1w?t=479) was insane and a lot of people complained.
 	- *Dog Songs*
 		- These three songs usually accompany each other. The songs are accompanied by random images or gifs of dogs overlaying Diablo 2.
 		- `Gabe-acito` Dog barking remix of Despacito by Luis Fonsi. By the famous Gabe the dog (RIP). [Original video](https://www.youtube.com/watch?v=eLrsR_0yerI).
 		- `Thundawg` Dog barking remix of Thunder by Imagine Dragons, Gabe included. [Original video](https://www.youtube.com/watch?v=9Kb_b3uC87k).
 		- `RaDoggoActive` Dog barking remix of Radioactive by Imagine Dragons, Gabe included. [Original video](https://www.youtube.com/watch?v=kx4PpeP9XrQ).
-	- `Epic Llama` [A bunch of mrllamaArmy emotes chase Llama's Diablo 2 cursor. If the Llamas get to the cursor, they start growing in size. As the overlay progresses, more mrllamaArmy emotes spawn and they get faster. The background song is 'Grief - In the Hall of the Mountain King'](https://www.youtube.com/watch?v=kLp_Hh6DKWc).
+	- `Epic Llama` A bunch of mrllamaArmy emotes chase Llama's Diablo 2 cursor. If the Llamas get to the cursor, they start growing in size. As the overlay progresses, more mrllamaArmy emotes spawn and they get faster. The background song is [Grieg - In the Hall of the Mountain King](https://www.youtube.com/watch?v=kLp_Hh6DKWc).
 	- `D2 Rap (Aww Jeez)` [A Diablo 2 rap made by JeeZLawayZ made for Llama](https://www.youtube.com/watch?v=_Uwr1Uplmv0).
 	- `Enhance` The entire Diablo 2 window becomes blurry except for a box around his cursor which is still clear. Videos of crime shows where they are looking at images or videos asking the tech guy to "enhance the image" are overlayed on the window.
 	- `Diablo 0` An overlay replicating old film visual quality, where the colors are black and white, grainy, and has bars moving across the screen with an old song as the background music.
