@@ -1,6 +1,6 @@
 # How to Install Glide (any Diablo 2 version)
 
-Differences with using Glide:
+*Differences with using Glide*:
 - The game looks nicer and better utilizes color.
 - The game runs and feels smoother.
 - The game takes slightly longer to load in load screens.
@@ -31,7 +31,7 @@ Differences with using Glide:
 8. **Navigate to the shortcut you use to start Diablo 2.**
 9. **Go to the `Shortcut` tab and add `-3dfx` to the end of the `Target:` dialog box, the same way you have added `-w`.**
 	- For most users, the `Target:` dialog box will read `"C:\Program Files (x86)\Diablo II\Diablo II.exe" -w -3dfx`.
-10. Run Diablo 2 using the shortcut!
+10. **Run Diablo 2 using the shortcut!**
 
 #### Note: Some people have reported that Glide makes their Diablo 2 run extremely slow. Sometimes this is the case, and you simply cannot use Glide. To stop using Glide, simply remove the `-3dfx` command from the `Target:` dialog box mentioned in Step 9.
 
