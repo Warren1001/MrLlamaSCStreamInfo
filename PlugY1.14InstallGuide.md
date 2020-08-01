@@ -5,10 +5,11 @@
 
 
 1. **Install Diablo 2 as normal.**
-	a. If you already have Diablo 2 1.14d installed, you can simply copy and paste the Diablo 2 folder and rename it to something that indicates it is your Diablo 2 for Battle.net.
+	1. If you already have Diablo 2 1.14d installed, you can simply copy and paste the Diablo 2 folder and rename it to something that indicates it is your Diablo 2 for Battle.net.
 		- They way PlugY works, PlugY has to be installed to the Diablo 2 path that was most recently listed in the installer. If you install PlugY into the folder that you copy and paste, you will run into errors. So make the Diablo 2 folder that you copy and paste your unmodded Diablo 2, and the original folder will become the modded Diablo 2.
 			- However, any pre-existing shortcuts for unmodded Diablo 2 will link back to the PlugY version, which can have issues listed in the warning above. Delete pre-existing shortcuts for Diablo 2, and create a new one from the unmodded Diablo 2 folder in the same way that is shown at the end of this guide.
 		- So, if you have taken this step, your Diablo 2 folder for installing PlugY will be the original folder.
+	2. Otherwise, install it normally however you'd like. It does not matter.
 2. **Navigate to your Diablo 2 folder.**
 	- For most users, your Diablo 2 folder will be located at `C:\Program Files (x86)\Diablo II\`.
 3. **[Download PlugY v12.00 for Diablo 2 1.14d](https://github.com/haxifix/PlugY/raw/master/PlugY%20v12.00.zip).**
