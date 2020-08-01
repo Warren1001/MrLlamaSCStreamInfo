@@ -3,12 +3,14 @@
 
 ###### It's a lot of steps, but most of them are very quick, such as clicking buttons or opening folders.
 
+##### Something worth nothing, while these files do not directly change the game, logging into Battle.net with these files in your Diablo 2 folder may or may not get you banned. Caution should be exercised. It is recommended that you have a separate installation for playing on Battle.net. A simple copy and paste of your current Diablo 2 folder should be enough to install this version-switcher into Diablo 2.
+
 
 1. **Install Diablo 2 as normal.**
 	- The version does not matter. It can be 1.12 or 1.13 or 1.14d.
 	- It should be unmodded though.
 2. [**Download Cactus**](https://github.com/fearedbliss/Cactus/archive/master.zip)**.**
-	- You can find more information about Cactus [here](https://github.com/fearedbliss/Cactus).
+	- Cactus is a version-switcher. You can find more information about Cactus [here](https://github.com/fearedbliss/Cactus).
 3. **Open `cactus-master.zip`.**
 4. **Navigate to and open the `1. Files` folder.**
 5. **Take every file in the above folder and drag and drop it into your Diablo 2 folder.**
