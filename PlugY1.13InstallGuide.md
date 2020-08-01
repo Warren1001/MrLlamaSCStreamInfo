@@ -30,7 +30,7 @@
 	- This will update your Diablo 2. HOWEVER, Diablo 2 will try to start immediately. If it loads successfully, it will try to connect to Battle.net and get the latest patch. Obviously, we do not want this! *If Diablo 2 begins loading, spam `Esc` until it closes!*
 	- Sometimes, Diablo 2 will not load properly, which is okay. If you suspect the Diablo 2 application hung, go to your Task Manager and force `Game.exe` to close. Or restart your computer.
 5. **Now we are at the proper Diablo 2 version, so we can begin installing PlugY. You can obtain [PlugY v11.02 here](http://plugy.free.fr/PlugY_The_Survival_Kit_v11.02.zip).**
-	- You can view the official PlugY site [here](http://plugy.free.fr/en/index.html). We will be using the `Zip version` as the installer version tends to create more issues than it solves.
+	- You can view the official PlugY site [here](http://plugy.free.fr/). We will be using the `Zip version` as the installer version tends to create more issues than it solves.
 6. **Open the `PlugY_The_Survival_Kit_v11.02.zip` file.**
 7. **Drag and all the files from this file into the Diablo 2 folder.**
 	- We do not care about the any of the `.txt`, the `PatchD2File.exe`, or the `RestoreD2File.exe` files. You can get rid of them if you wish.
