@@ -12,9 +12,9 @@
 		- Here are the links to the hosting sites linked at the above links:
 			- [Mega.nz](https://mega.nz/#!e9thyD6A!ExGJuZUtvRJ2c8DrxSL0ihCouh-ARbdVxODXIqVt3dc)
 			- [Google Drive](https://drive.google.com/file/d/0BwtmRlAuN2x8X2FoWmhoR2pWQ2s/view)
-			- [One Drive](https://onedrive.live.com/redir?resid=C9512C8BBA34920C!1795&authkey=!AHKYNghIssoWWVs&ithint=file%2czip)
+			- [OneDrive](https://onedrive.live.com/redir?resid=C9512C8BBA34920C!1795&authkey=!AHKYNghIssoWWVs&ithint=file%2czip)
 			- [Mediafire](http://www.mediafire.com/file/51r3c5s6hezsruz/DiabloII_113c_Installer.zip/file)
-			- [From Torrent](https://cdn.discordapp.com/attachments/157962768534863872/160784109642186753/DiabloII_113c_Installer.zip.torrent)
+			- [Torrent](https://cdn.discordapp.com/attachments/157962768534863872/160784109642186753/DiabloII_113c_Installer.zip.torrent)
 2. **Install Diablo 2 using the legacy online installer.**
 	- In the event that loading up the installer says "Play Diablo 2" instead of "Install Diablo 2", you will have to rename your current Diablo 2 folder.
 		- Find your current Diablo 2 folder and either delete it if you do not plan to use it at all or rename the folder to something else so that you can install Diablo 2 again.
