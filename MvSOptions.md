@@ -5,7 +5,7 @@
 
 
 - **Gear Wheel**
-	- `Drop X` Forces Llama to drop the equipped item.
+	- `Drop X Item` Forces Llama to drop the equipped item.
 		- If he has more than one of that item equipped, he chooses which one he wants to drop.
 		- If Llama does not have an item that is allowed to be dropped, the wheel gets rerolled.
 		- Llama is not allowed to sell the item for gold.
@@ -13,7 +13,7 @@
 		- Dropping the Shame Cap is not allowed.
 		- Dropping weapons is not allowed on the Barbarian.
 		- Llama is not allowed to sell the item for gold.
-	- `Gamble/Replace X` Forces Llama to gamble the new item and wear the item if allowed. If Llama already has that item slot filled with an item, Llama is forced to get rid of it.
+	- `Gamble/Replace X Item` Forces Llama to gamble the new item and wear the item if allowed. If Llama already has that item slot filled with an item, Llama is forced to get rid of it.
 		- Llama is allowed to sell the item for gold.
 	- `Drop 1/2 Charms` Forces Llama to drop half of his charms.
 		- If he only has one charm, he drops it.
