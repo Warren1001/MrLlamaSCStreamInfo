@@ -34,7 +34,7 @@
 	- Choose what you want. Most users will just want `-w`.
 14. **The `Expansion` checkbox should be *un*checked if:**
 	1. You do not own the expansion.
-	2. You want to play without LoD features.
+	2. You want to play without LoD features (Classic Diablo 2).
 	3. You are playing a version less than `1.07`. All versions from `1.00` to `1.06b` are Classic only.
 15. **Press `Add` to finish creating the profile.**
 16. **Click on your newly created profile and press `Launch`.**
