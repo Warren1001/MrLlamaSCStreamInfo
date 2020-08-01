@@ -40,6 +40,7 @@
 3. **Lastly, you will have one or two `x_SharedStashSave.sss` files, depending on if you did or did not play both softcore and hardcore. You will need to rename one or both of them to have a `_` in front of the file name.**
 	- For softcore, you will originally have a file named `LOD_SharedStashSave.sss`. It should be changed to read `_LOD_SharedStashSave.sss`.
 	- For hardcore, you will originally have a file named `LOD_HC_SharedStashSave.sss`. It should be changed to read `_LOD_HC_SharedStashSave.sss`.
+	- If your files already have a `_` in front, then you're all good!
 
 ##### Now you have your old saves moved over too! But be warned, PlugY v12.00 for Diablo 2 1.14d is relatively new. It has bugs. You should **DEFINITELY** back up your save files, including the `x_SharedStashSave.sss` files in the case something breaks.
 
