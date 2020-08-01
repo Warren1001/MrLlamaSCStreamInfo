@@ -1,15 +1,18 @@
 # How to Install PlugY for Diablo 2 version 1.14d
 
 
+###### Note: This version of PlugY has been unofficially updated for 1.14d by a third party. It was not released or reviewed by the original PlugY author, Yohann. Be careful of bugs and backup your saves regularly!
+
+
 #### As usual, the PlugY files being in your Diablo 2 folder may risk you getting banned if you connect to the Battle.net even without PlugY loaded. As such, you should have a separate installation for PlugY if you also want to play on Battle.net.
 
 
 1. **Install Diablo 2 as normal.**
-	1. If you already have Diablo 2 1.14d installed, you can simply copy and paste the Diablo 2 folder and rename it to something that indicates it is your Diablo 2 for Battle.net.
+	1. *If you already have Diablo 2 1.14d installed, you can simply copy and paste the Diablo 2 folder and rename it to something that indicates it is your Diablo 2 for Battle.net.*
 		- They way PlugY works, PlugY has to be installed to the Diablo 2 path that was most recently listed in the installer. If you install PlugY into the folder that you copy and paste, you will run into errors. So make the Diablo 2 folder that you copy and paste your unmodded Diablo 2, and the original folder will become the modded Diablo 2.
 			- However, any pre-existing shortcuts for unmodded Diablo 2 will link back to the PlugY version, which can have issues listed in the warning above. Delete pre-existing shortcuts for Diablo 2, and create a new one from the unmodded Diablo 2 folder in the same way that is shown at the end of this guide.
 		- So, if you have taken this step, your Diablo 2 folder for installing PlugY will be the original folder.
-	2. Otherwise, install it normally however you'd like. It does not matter.
+	2. *Otherwise, install it normally however you'd like. It does not matter.*
 2. **Navigate to your Diablo 2 folder.**
 	- For most users, your Diablo 2 folder will be located at `C:\Program Files (x86)\Diablo II\`.
 3. **[Download PlugY v12.00 for Diablo 2 1.14d](https://github.com/haxifix/PlugY/raw/master/PlugY%20v12.00.zip).**
@@ -30,10 +33,10 @@
 
 ## If you are upgrading from 1.13 PlugY to 1.14 PlugY and wish to use your old saves, you will need to follow these steps as well:
 
-1. Go to your old PlugY installation. Your character saves will be in the Diablo 2 folder in the Save folder.
-2. Move all these files to the 1.14 save location. This is found in your Saved Games folder.
+1. **Go to your old PlugY installation. Your character saves will be in the Diablo 2 folder in the Save folder.**
+2. **Move all these files to the 1.14 save location. This is found in your Saved Games folder.**
 	- The Saved Games folder is usually located at `C:\Users\[your user]\Saved Games\Diablo II\`
-3. Lastly, you will have one or two `x_SharedStashSave.sss` files, depending on if you did or did not play both softcore and hardcore. You will need to rename both of them to have a `_` in front of the file name.
+3. **Lastly, you will have one or two `x_SharedStashSave.sss` files, depending on if you did or did not play both softcore and hardcore. You will need to rename one or both of them to have a `_` in front of the file name.**
 	- For softcore, you will originally have a file named `LOD_SharedStashSave.sss`. It should be changed to read `_LOD_SharedStashSave.sss`.
 	- For hardcore, you will originally have a file named `LOD_HC_SharedStashSave.sss`. It should be changed to read `_LOD_HC_SharedStashSave.sss`.
 
