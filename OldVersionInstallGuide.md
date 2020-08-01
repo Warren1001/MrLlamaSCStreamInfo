@@ -41,4 +41,4 @@
 	- This will launch Diablo 2 with the profile you just created. This is how you will launch the older version of Diablo 2 every time.
 
 
-##### Enjoy! If you have issues, @mention or DM Warren1001 on [MrLlama's Discord](https://discord.gg/BePVw9e). If you are intending to play v1.00, you can check a list of differences [here](https://raw.githubusercontent.com/Warren1001/MrLlamaSCStreamInfo/master/D2v1.0Info).
+##### Enjoy! If you have issues, @mention or DM Warren1001 on [MrLlama's Discord](https://discord.gg/BePVw9e). If you are intending to play v1.00, you can check a list of differences [here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/D2v1.0Info.md).
