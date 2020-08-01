@@ -51,7 +51,7 @@
 	- The crazy overlay options. Most options do not stack with each other.
 	- All overlays and chat interactions of MvS are made by evo_Demon.
 	- `Slightly Intoxicated Boat Guy` Diablo 2 screen rotates and sways side to side like a boat would on the ocean with [this music](https://www.youtube.com/watch?v=0UX25HFxCoc) in the background.
-		- This one is 'slightly' because the [old version](https://youtu.be/lJy1uN0nr1w?t=479) was insane and a lot of people complained.
+		- This one is 'slightly' because the [old version](https://youtu.be/lJy1uN0nr1w?t=480) was insane and a lot of people complained. It gets worse.
 	- *Dog Songs*
 		- These three songs usually accompany each other. The songs are accompanied by random images or gifs of dogs overlaying Diablo 2.
 		- `Gabe-acito` Dog barking remix of Despacito by Luis Fonsi. By the famous Gabe the dog (RIP). [Original video](https://www.youtube.com/watch?v=eLrsR_0yerI).
