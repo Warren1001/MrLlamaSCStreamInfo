@@ -70,7 +70,7 @@
 	- `Diablo Immortal (Diablo Immobile)` An overlay of someone playing a game on a phone where a finger swipes back and forth, but Llama's Diablo 2 window is on the phone screen.
 	- `Sham Wow` Clips taken from a long Sham Wow commercial presented by Vince. Between every video segment, Llama's cursor is replaced with a Sham Wow which erases the pixels on screen by drawing white pixels over the Diablo 2 window where the cursor has been. Toward the end, when the special offer is presented for 8 Sham Wows, Llama's cursor is replaced with 8 Sham Wows that erase the pixels on screen.
 	- `Half Screen` Random boxes are placed on Llama's Diablo 2 window to block half of his screen.
-	- `Buzzwords` A robot with the voice of a non-English-dominant ethnicity speaking random English words that somehow sounds cohesive.
+	- `Buzzwords` A robot speaking random English words that somehow forms grammatically correct sentences.
 
 - **Separate Options**
 	- `Slap Chop` Clips taken from the long Slap Chop commercial presented by Vince. Every time Vince uses the Slap Chop in the video, Llama's Diablo 2 is chopped. A chop is when the screen is cut in half horizontally and vertically in four even corners and then the corners are randomized. It is possible for the four corners to randomize to their original spots.
@@ -89,8 +89,8 @@
 	- `Help Llama` Gives Llama an option to take half a duration from the maximum time of any punishment. He can reserve these. Two Help Llamas will remove 1 punishment entirely. Rules for this vary. Llama usually only ever uses these for Wheel punishments. Llama rarely, if ever, uses them for the Separate punishments.
 
 - **Time/Sum Options**
-	- `Shame Cap
-		- Shame Cap is a IRL Llama hat that looks like a Camel and an editted ingame item with negative stats. The Shame Cap takes away Run/Walk, Cast Rate, Vitality, All Resistances, and Light Radius. It gives Energy.
+	- `Shame Cap`
+		- Shame Cap is a IRL Llama hat that looks like a Camel and an edited ingame item with negative stats. The Shame Cap takes away Run/Walk, Cast Rate, Vitality, All Resistances, and Light Radius. It gives Energy.
 		- `Wear Shame Cap` From dollar donations, which includes subscriptions, Llama is forced to wear the Shame Cap for 10 minutes once the bar is filled. If the Shame Cap is already on, the timer is increased by 10 minutes.
 		- `Upgrade Shame Cap` From bit donations, all stats present on the Shame Cap get increased once the bar is filled. More are added eventually.
 	- `Negative Split on Timer` If Llama gets a negative split on a timer (Red in color) in comparison to the previous MvS character run, Llama must do 20 situps and pushups.
