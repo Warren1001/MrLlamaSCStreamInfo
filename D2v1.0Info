@@ -107,8 +107,8 @@ NPCs:
     - They cannot be resurrected.
     - You cannot pass through your mercenary.
     - The Act 2 mercenary has slightly different animations for moving around. They also wear a helmet.
-    - The skills and benefits of a merc vary now. In the current version, they were always one or the other of some kind. In 1.00, it's random.
-    - They are generally weaker compared to modern versions because their AI is less aggressive.
+    - The skills and benefits of a mercenary vary. In the current version, every mercenary has an ability. In 1.00, they can have zero skills and the skill selection is different.
+    - They are generally weaker compared to the current version because their AI is less aggressive.
 
 Monsters:
   - They have less life.
@@ -124,11 +124,11 @@ Monsters:
   - You cannot break hostility with a monster except for changing areas through load screens. This means every monster will chase you to the ends of the earth once they have seen you until they cannot physically follow you anymore.
   - Superunique monsters do not have pre-defined coloring. They can be any color. Green Rakanishu!
   - Superunique revivors are capable of reviving their same monster type. Meaning Bishibosh can resurrect Fallen Shamans. This might only apply to their minions.
-  - Modern versions of D2 have a bug where some colors for unique monsters are not chosen. More colors are available for unique monsters. Purple monsters!
+  - The current version of D2 have a bug where some colors for unique monsters are not chosen. More colors are available for unique monsters. Purple monsters!
   - Flamespike the Crawler exists. He is the first run killer. He spawns on the Inner Cloister waypoint and is always Fire Enchanted Cursed.
   - Andariel spawns closer to the door in Level 4. If you walk through the large double door, her aggression is drawn immediately.
   - The Summoner is the second run killer, due to Fire Wall being powerful and the Summoner having a high level Fire Wall. If Summoner casts a Fire Wall on you, you will be killed nearly instantly.
-  - The little Flayer dudes have a sound effect that is not present in modern versions.
+  - The little Flayer dudes have a sound effect that is not present in the current version.
   - Monster packs with ranged skills will all follow the same AI when first encountering the player.
     - This means monsters like Heirophants and Blood Lords will all cast Blizzard or Meteor respectively at the same time. You will see 3-4 Blizzards stacked on top of each other casted directly on to you.
   - Unique monsters with the 'Teleportation' enchant will teleport often at low health. Each time they teleport, they gain health.
