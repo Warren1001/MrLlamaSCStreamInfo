@@ -50,15 +50,15 @@
 - **Evo Wheel**
 	- The crazy overlay options. Most options do not stack with each other.
 	- All overlays and chat interactions of MvS are made by evo_Demon.
-	- `Slightly Intoxicated Boat Guy` Diablo 2 screen rotates and sways side to side like a boat would on the ocean with this music in the background https//www.youtube.com/watch?v=0UX25HFxCoc
-		- This one is 'slightly' because the old version was insane and a lot of people complained https//youtu.be/lJy1uN0nr1w?t=479
+	- `Slightly Intoxicated Boat Guy` Diablo 2 screen rotates and sways side to side like a boat would on the ocean with [this music](https://www.youtube.com/watch?v=0UX25HFxCoc) in the background.
+		- [This one is 'slightly' because the old version was insane and a lot of people complained](https://youtu.be/lJy1uN0nr1w?t=479).
 	- *Dog Songs*
 		- These three songs usually accompany each other. The songs are accompanied by random images or gifs of dogs overlaying Diablo 2.
-		- `Gabe-acito` Dog barking remix of Despacito by Luis Fonsi. By the famous Gabe the dog (RIP). https//www.youtube.com/watch?v=eLrsR_0yerI
-		- `Thundawg` Dog barking remix of Thunder by Imagine Dragons, Gabe included. https//www.youtube.com/watch?v=9Kb_b3uC87k
-		- `RaDoggoActive` Dog barking remix of Radioactive by Imagine Dragons, Gabe included. https//www.youtube.com/watch?v=kx4PpeP9XrQ
-	- `Epic Llama` A bunch of mrllamaArmy emotes chase Llama's Diablo 2 cursor. If the Llamas get to the cursor, they start growing in size. As the overlay progresses, more mrllamaArmy emotes spawn and they get faster. The background song is 'Grief` In the Hall of the Mountain King'` https//www.youtube.com/watch?v=kLp_Hh6DKWc.
-	- `D2 Rap (Aww Jeez)` A Diablo 2 rap made by JeeZLawayZ made for Llama. https//www.youtube.com/watch?v=_Uwr1Uplmv0
+		- `Gabe-acito` Dog barking remix of Despacito by Luis Fonsi. By the famous Gabe the dog (RIP). [Original video](https://www.youtube.com/watch?v=eLrsR_0yerI).
+		- `Thundawg` Dog barking remix of Thunder by Imagine Dragons, Gabe included. [Original video](https://www.youtube.com/watch?v=9Kb_b3uC87k).
+		- `RaDoggoActive` Dog barking remix of Radioactive by Imagine Dragons, Gabe included. [Original video](https://www.youtube.com/watch?v=kx4PpeP9XrQ).
+	- `Epic Llama` [A bunch of mrllamaArmy emotes chase Llama's Diablo 2 cursor. If the Llamas get to the cursor, they start growing in size. As the overlay progresses, more mrllamaArmy emotes spawn and they get faster. The background song is 'Grief - In the Hall of the Mountain King'](https://www.youtube.com/watch?v=kLp_Hh6DKWc).
+	- `D2 Rap (Aww Jeez)` [A Diablo 2 rap made by JeeZLawayZ made for Llama](https://www.youtube.com/watch?v=_Uwr1Uplmv0).
 	- `Enhance` The entire Diablo 2 window becomes blurry except for a box around his cursor which is still clear. Videos of crime shows where they are looking at images or videos asking the tech guy to "enhance the image" are overlayed on the window.
 	- `Diablo 0` An overlay replicating old film visual quality, where the colors are black and white, grainy, and has bars moving across the screen with an old song as the background music.
 	- `Diablo 1` Tristram music plays during the overlay while the main UI bar is redesigned to look like Diablo 1's main UI bar. A massive image blocks Llama's view if he is running ingame during this overlay, as you can only walk in Diablo 1. The image disappears when Llama starts walking.
@@ -66,7 +66,7 @@
 	- `Flip Screen` Flips the screen on the vertical axis. Crazier than it seems.
 	- `Defend Timmy (Run, Timmy, Run!)` Llama's cursor is Timmy and a bunch of passive-aggressive or angry Llamas are floating around, which Timmy has to dodge. If Timmy gets hit, an OOF noise plays. If Timmy gets hit by Llama too many times, Slap Chop is given as punishment.
 	- `Adopt Timmy` Llama's cursor is Timmy and Timmy and Llama are next to a busy highway in which trash is thrown from the vehicles and overlay his screen. Timmy has to pickup the trash to clear it from the screen. Occasionally, garbage trucks crash and unleash a ton of garbage.
-	- `Janet (Backseat Gamer)` An overlay of a video of a lady dubbed Janet using a Mac, who starts off playing Diablo 2 (which is actually Llama's Diablo 2 window). It eventually progresses to Janet watching Llama stream Diablo 2, which the Diablo 2 window on the stream is Llama's actual Diablo 2 window. Then it starts to becoming inceptual and we see Janet looking at a stream of Janet looking at a stream of Llama playing Diablo 2. This Diablo 2 window is where Llama's real Diablo 2 window is. Other funny image/gif placements exist, such as 'X for Dummies` by Y' book images and Llama's !firesuit dance video.
+	- `Janet (Backseat Gamer)` An overlay of a video of a lady dubbed Janet using a Mac, who starts off playing Diablo 2 (which is actually Llama's Diablo 2 window). It eventually progresses to Janet watching Llama stream Diablo 2, which the Diablo 2 window on the stream is Llama's actual Diablo 2 window. Then it starts to becoming inceptual and we see Janet looking at a stream of Janet looking at a stream of Llama playing Diablo 2. This Diablo 2 window is where Llama's real Diablo 2 window is. Other funny image/gif placements exist, such as *X for Dummies - by Y* book images and [Llama's firesuit dance video](https://clips.twitch.tv/TenuousSoftOysterSaltBae).
 	- `Diablo Immortal (Diablo Immobile)` An overlay of someone playing a game on a phone where a finger swipes back and forth, but Llama's Diablo 2 window is on the phone screen.
 	- `Sham Wow` Clips taken from a long Sham Wow commercial presented by Vince. Between every video segment, Llama's cursor is replaced with a Sham Wow which erases the pixels on screen by drawing white pixels over the Diablo 2 window where the cursor has been. Toward the end, when the special offer is presented for 8 Sham Wows, Llama's cursor is replaced with 8 Sham Wows that erase the pixels on screen.
 	- `Half Screen` Random boxes are placed on Llama's Diablo 2 window to block half of his screen.
