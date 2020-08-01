@@ -24,6 +24,7 @@ Functionality:
   - Dexterity does not affect block chance. Only the shield block chance (and Holy Shield) can modify block chance.
   - There are no leech penalities.
     - Undead monsters in Hell can be leeched at full effectiveness.
+  - There are no respecs at all. No tokens and no Akara respecs.
 
 Items:
   - No runes.
