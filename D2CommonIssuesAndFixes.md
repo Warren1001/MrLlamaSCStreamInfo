@@ -85,5 +85,5 @@ If I were wanting to try to use the IP `199.108.55.59` to connect to USEast, I w
 If this fix ultimately ends up not helping you, you should remove the entry from the HOSTS file, as you generally do not want to modify the HOSTS file unless you need to. If this fix does work for you, and after some time it stops working, try removing the HOSTS file entry and connecting without it to see if it works.
 
 \
-\
+
 ##### If these fixes do not help resolve your issue, @mention or DM Warren1001 or post in the `# technical-support` detailing your issue on [MrLlama's Discord](https://discord.gg/BePVw9e).
