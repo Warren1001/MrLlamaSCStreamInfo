@@ -9,7 +9,7 @@
 1. **Install Diablo 2 as normal.**
 	- The version does not matter. It can be 1.12 or 1.13 or 1.14d.
 	- It should be unmodded though.
-2. [**Download Cactus**](https://github.com/fearedbliss/Cactus/archive/master.zip)**.**
+2. **[Download Cactus](https://github.com/fearedbliss/Cactus/archive/master.zip) (115 MB).**
 	- Cactus is a version-switcher. You can find more information about Cactus [here](https://github.com/fearedbliss/Cactus).
 3. **Open `Cactus-master.zip`.**
 4. **Navigate to and open the `1. Files` folder.**
