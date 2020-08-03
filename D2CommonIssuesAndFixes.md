@@ -54,7 +54,7 @@ This issue happens because a game server crashed while you were in the game. As 
 
 1. The ladder is resetting or there is a server issue.
 2. Similar to the tempban, however usually longer for repeat offenders. This is called a realm down (r/d). See #1 for "Unable to connect to Battle.net".
-		- Can last anywhere from 5 minutes to 48 hours.
+	- Can last anywhere from 5 minutes to 48 hours.
 	
 ### `Gateway: None` (In the main menu)
 
@@ -73,14 +73,14 @@ Fzarg (06/16/2018):
 
 This fix can be applied to other realms as well. There are multiple IPs you can try incase one does not solve it.
 
-`useast.battle.net`: `199.108.55.59`, `199.108.55.58`, `199.108.55.57`
-`uswest.battle.net`: `12.129.236.19`, `12.129.236.18`, `12.129.236.17`
-`europe.battle.net`: `5.42.181.18`, `5.42.181.17`, `5.42.181.16`, `5.42.181.15`, `5.42.181.14`
-`asia.battle.net`: `121.254.164.19`, `121.254.164.18`, `121.254.164.17`
+`useast.battle.net`: `199.108.55.59`, `199.108.55.58`, `199.108.55.57`  
+`uswest.battle.net`: `12.129.236.19`, `12.129.236.18`, `12.129.236.17`  
+`europe.battle.net`: `5.42.181.18`, `5.42.181.17`, `5.42.181.16`, `5.42.181.15`, `5.42.181.14`  
+`asia.battle.net`: `121.254.164.19`, `121.254.164.18`, `121.254.164.17`  
 
-To apply this fix, you need to edit your HOSTS file which can be found at `C:\Windows\System32\drivers\etc\hosts`. You can use the `Run` program to open this file (Windows button + R). Open it with any text editor.
-At the end of the file, you write the numerical IP that you are trying, then a space, then the letter IP.
-If I were wanting to try to use the IP `199.108.55.59` to connect to USEast, I would write `199.108.55.59 useast.battle.net` to the end of the HOSTS file and then save it.
+To apply this fix, you need to edit your HOSTS file which can be found at `C:\Windows\System32\drivers\etc\hosts`. You can use the `Run` program to open this file (Windows button + R). Open it with any text editor.  
+At the end of the file, you write the numerical IP that you are trying, then a space, then the letter IP.  
+If I were wanting to try to use the IP `199.108.55.59` to connect to USEast, I would write `199.108.55.59 useast.battle.net` to the end of the HOSTS file and then save it.  
 
 If this fix ultimately ends up not helping you, you should remove the entry from the HOSTS file, as you generally do not want to modify the HOSTS file unless you need to. If this fix does work for you, and after some time it stops working, try removing the HOSTS file entry and connecting without it to see if it works.
 
