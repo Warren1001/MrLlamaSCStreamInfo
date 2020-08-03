@@ -6,7 +6,7 @@
 
 - **Gear Wheel**
 	- `Drop X Item` Forces Llama to drop the equipped item.
-		- If he has more than one of that item equipped, he chooses which one he wants to drop.
+		- If Llama has more than one of that item equipped, he chooses which one he wants to drop.
 		- If Llama does not have an item that is allowed to be dropped, the wheel gets rerolled.
 		- Llama is not allowed to sell the item for gold.
 	- `Drop Item Chat Choice` Forces Llama to drop an equipped item of chat's choice.
@@ -16,12 +16,12 @@
 	- `Gamble/Replace X Item` Forces Llama to gamble the new item and wear the item if allowed. If Llama already has that item slot filled with an item, Llama is forced to get rid of it.
 		- Llama is allowed to sell the item for gold.
 	- `Drop 1/2 Charms` Forces Llama to drop half of his charms.
-		- If he only has one charm, he drops it.
+		- If Llama only has one charm, he drops it.
 		- If Llama has no charms, the wheel gets rerolled.
 		- Llama is not allowed to sell charms for gold.
 
 - **Llama Wheel**
-	- All options in this category stack with each other. A hand cam exists to prove he is doing these punishments.
+	- All options in this category stack with each other. A hand cam exists to prove Llama is doing these punishments.
 	- `Tiny Hand w/ Mitt` Llama has to use a tiny hand in his keyboard hand for X minutes.
 	- `Oven Mitts` Llama has to use an oven mitt on his mouse hand for X minutes.
 	- `Swap Hands` Llama has to control his keyboard with his right hand and his mouse with his left hand for X minutes.
