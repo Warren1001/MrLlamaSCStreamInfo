@@ -23,7 +23,7 @@
 10. **Press `Add` at the bottom left.**
 	- This adds a new profile to the program which will be used to launch the older version of Diablo 2.
 11. **For `Platform`, input the version you wish to play.**
-	- The available platforms to choose from are `1.00`, `1.01`,` 1.02`, `1.03`, `1.04b`, `1.04c`, `1.05`, `1.05b`, `1.06`, `1.06b`, `1.07` (first LoD version), `1.08`, `1.09` (original Runewords introduced), `1.09b`, `1.09d`, `1.10` (op Runewords introduced), `1.11`, `1.11b`, `1.12a`, `1.13c` (Respecs introduced), `1.13d`, `1.14b`, and `1.14d`.
+	- The available platforms to choose from are `1.00`, `1.01`, `1.02`, `1.03`, `1.04b`, `1.04c`, `1.05`, `1.05b`, `1.06`, `1.06b`, `1.07` (first LoD version), `1.08`, `1.09` (original Runewords introduced), `1.09b`, `1.09d`, `1.10` (op Runewords introduced), `1.11`, `1.11b`, `1.12a`, `1.13c` (Respecs introduced), `1.13d`, `1.14b`, and `1.14d`.
 	- If I wanted to play v1.00, I would simply write `1.00` into the `Platform` dialog box.
 12. **For `Path`, this will be the path to the executable to launch Diablo 2.**
 	- In almost all cases, it will simply be the Game.exe found in the Diablo 2 folder.
