@@ -22,7 +22,7 @@
 
 ### `Extremely low FPS`
 
-1. If the lag shows its tendencies around mobs and a lot of activity. Try running the game with sound disabled, using the `-ns` flag. If this fixes it, its a sound issue. Install an [audio fix](https://www.indirectsound.com/) that allows sound to work better for older games. Be sure to read the `How Does It Work?` section. Simply take the `dsound.dll` and put it into your Diablo 2 folder. This should not get you banned online, as it simply replaces the Windows `dsound.dll` with this one.
+1. If the lag shows its tendencies around mobs and a lot of activity. Try running the game with sound disabled, using the `-ns` flag. If this fixes it, its a sound issue. Install this [audio fix](https://www.indirectsound.com/) that allows sound to work better for older games. Be sure to read the `How Does It Work?` and `Is It Safe To Use?` sections. Simply take the `dsound.dll` and put it into your Diablo 2 folder. Do be warned if you use this while playing on Battle.net, this does come with some risk as Blizzard may check for a manually provided `dsound.dll` file which is often used to load hacks in games.
 2. Your modern computer does not play well with the graphics engine of the video mode you are using.
 	- If you are using Glide, be sure it is properly configured (by running the `Query OpenGL-infos` option). If this does not help, Glide probably does not work for you and you will have to play without Glide.
 		- Glide simply does not work well for some people.
