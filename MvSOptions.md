@@ -7,7 +7,7 @@
 - **Gear Wheel**
 	- `Drop X Item` Forces Llama to drop the equipped item.
 		- If Llama has more than one of that item equipped, he chooses which one he wants to drop.
-		- If Llama does not have an item that is allowed to be dropped, the wheel gets rerolled.
+		- If Llama does not have that item that is allowed to be dropped, the wheel gets rerolled.
 		- Llama is not allowed to sell the item for gold.
 	- `Drop Item Chat Choice` Forces Llama to drop an equipped item of chat's choice.
 		- Dropping the Shame Cap is not allowed.
