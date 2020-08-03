@@ -59,6 +59,9 @@ This issue happens because a game server crashed while you were in the game. As 
 ### `Gateway: None` (In the main menu)
 
 1. Somehow your realms in the registry got deleted (usually happens because of mods). [Run this](http://ftp.blizzard.com/pub/misc/BattleNet.zip).
+
+<br />
+<br />
 	
 ### Forcing your ISP to resolve a realm IP
 
