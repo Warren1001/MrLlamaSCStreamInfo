@@ -67,8 +67,8 @@ This issue happens because a game server crashed while you were in the game. As 
 
 Fzarg (06/16/2018):
 
-> @Warren1001 Found a solution to the 'Checking Versions' problem. Apparently it's only affecting certain ISP's in combination with specific DNS providers.\
-> By forcing your local hosts lookup table to resolve the name of blizzards hostname into a specific IP, it's working flawlessly.\
+> @Warren1001 Found a solution to the 'Checking Versions' problem. Apparently it's only affecting certain ISP's in combination with specific DNS providers.
+> By forcing your local hosts lookup table to resolve the name of blizzards hostname into a specific IP, it's working flawlessly.
 > Edit C:\Windows\System32\drivers\etc\hosts and add: 5.42.181.18 europe.battle.net
 
 This fix can be applied to other realms as well. There are multiple IPs you can try incase one does not solve it.
