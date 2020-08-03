@@ -1,6 +1,6 @@
 # Common Issues With Diablo 2 and How to Fix Them
 
-###### Note: If you have a Github account, you can edit this file by submitting a PR in the case more information can be provided or information given is inaccurate.
+###### Note: If you have a Github account, you can edit this file by submitting a PR in the event more information can be provided or information given is inaccurate.
 
 ### `Checking versions...` or `Disconnected from Battle.net, please reconnect` or `Battle.net is not responding, please try reconnecting in a few minutes`
 
