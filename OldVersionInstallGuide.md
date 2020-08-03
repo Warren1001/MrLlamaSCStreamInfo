@@ -11,7 +11,7 @@
 	- It should be unmodded though.
 2. [**Download Cactus**](https://github.com/fearedbliss/Cactus/archive/master.zip)**.**
 	- Cactus is a version-switcher. You can find more information about Cactus [here](https://github.com/fearedbliss/Cactus).
-3. **Open `cactus-master.zip`.**
+3. **Open `Cactus-master.zip`.**
 4. **Navigate to and open the `1. Files` folder.**
 5. **Take every file in the above folder and drag and drop it into your Diablo 2 folder.**
 6. **Open the `MpqFixer` folder now in your Diablo 2 folder.**
