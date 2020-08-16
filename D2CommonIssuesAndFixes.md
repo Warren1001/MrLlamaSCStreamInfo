@@ -15,7 +15,7 @@
 
 ### `Unhandled Exception (c000005)`
 
-1. 99% of the time this issue occurs is from a corrupted installation. Re-install the game. It is recommended to install Diablo 2 outside of any Windows folders, such as in `C:\Games\Diablo II\`.
+1. 99% of the time this issue occurs is from a corrupted installation. Re-install the game. It is recommended to install Diablo 2 outside of any Windows folders. A good place to install to would be `C:\Games\Diablo II\`.
 	- If this issue continues to happen, especially after updating the game, try [using the standalone patch](http://ftp.blizzard.com/pub/diablo2exp/patches/PC/LODPatch_114d.exe) to update the game.
 2. An improperly configured Glide can cause this issue. Be sure you run the `Query OpenGL-infos` option in the Glide program so that options your PC does not support is disabled. This only applies if you are using Glide.
 3. You're trying to launch in fullscreen and fullscreen just does not work for most people. Launch in windowed mode to see if it works.
