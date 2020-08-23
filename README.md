@@ -1,5 +1,4 @@
 # Guide to Contribute
-<br>
 
 ###### Note: edits to this file will not be accepted.
 
@@ -19,7 +18,7 @@ This will take you to a new page where you will be comparing what already exists
 
 There is more you can do with the tools on this website, however I will not make a guide for them. You can test and browse yourself, or Google various things about GitHub. You can edit your own changes again, even if you have already submitted a PR (Pull Request). Just find your edits and in the 3 dots at the top right of the viewer of your commits, there should be an edit button.
 
-### Requirements for your additions to be finalized
+## Requirements for your additions to be finalized
 
 1. It needs to have readable and understandable grammar.
 2. Any executable files that are directly linked in your guide will need to be proven they are not viruses.
