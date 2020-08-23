@@ -1,7 +1,7 @@
 # How to Install PlugY for Diablo 2 version 1.14d
 
 
-###### Note: This version of PlugY has been unofficially updated for 1.14d by a third party. It was not released or reviewed by the original PlugY author, Yohann. Be careful of bugs and backup your saves regularly! However, it has been confirmed as safe to use and all major features work as intended.
+###### Note: This version of PlugY has been unofficially updated for 1.14d by a third party. It was not released or reviewed by the original PlugY author, Yohann. Be careful of bugs and backup your saves regularly! However, it has been confirmed as safe to use and all major features work as intended. However, TCP/IP does not work with this version at this time (you can follow the issue from the GitHub link posted in the guide). If you are wanting to play TCP/IP or Open Battle.net, you should install PlugY v11.02. A guide can be [found here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/PlugY1.13InstallGuide.md).
 
 
 #### As usual, the PlugY files being in your Diablo 2 folder may risk you getting banned if you connect to the Battle.net even without PlugY loaded. As such, you should have a separate installation for PlugY if you also want to play on Battle.net.
