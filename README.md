@@ -9,7 +9,7 @@ If you would like to contribute to any of the above pages or make your own page,
 To get started, you can either:
 - Visit the page you would like to modify and press the edit button (![Edit](https://i.gyazo.com/e0befa85591c7151d9ea4a0f493c89ff.png)) which can be found at the top right and make your changes, OR
 - In the base of the repository (where you view this and can still see the other files), press `Add File` and press `Create New File`.
-	- If neither of these options are available, you need to verify your e-mail to your account. If you do not have an account, you need one.
+- If neither of these options are available, you need to verify your e-mail to your account. If you do not have an account, you need one.
 
 What this will do is it will create a clone of this repository under your account. You are free to edit it how you please.
 What actually happens by clicking these two buttons is it creates a clone of the repository, and then in that repository a new branch is made called 'patch-#'. This branch will contain whatever changes you made after you create a new file or edit an existing file. Once you're done making modifications, you can add some information in the `Propose changes` or `Propose new file` title and detail boxes, and then click `Propose changes` or `Propose new file`.
