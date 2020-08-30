@@ -105,7 +105,7 @@
 - These options are usually triggered by Llama to avoid repetitive punishments or when specifically requested. They are not actively present in any wheels or individual options.
 - `Big Spin` The Big Cursor but it spins in a 360 the entire time.
 - `Scan Cursor` The cursor is duplicated all the way horizontally and all the way vertically. The vertical bar of cursors scrolls along horizontal bar of cursors, making the actual cursor placement confusing.
-- `Shotgun Cursor` A random mess of cursors placed near the actual cursor. The position of these random cursors change very so often, so that Llama loses placement of the actual cursor.
+- `Shotgun Cursor` A random mess of cursors placed near the actual cursor. The positions of these random cursors change every so often, so that Llama loses placement of the actual cursor.
 - `RNGrid Cursor` Grid Cursor with roughly 33% of the cursors missing. Constantly randomizes which cursors are missing so that Llama loses position of the cursor.
 - `[Name Unknown] Random Cursor` Cursor is changed periodically between existing cursor options. Unsure of which cursor options and how often.
 - `Diablo 3` This overlay adds Diablo 3 elements to Diablo 2. The colors become extremely saturated. There is a pretty rainbow across the screen with Diablo 3 written in pretty font and colors. The main UI bar is changed to be more "user-friendly". Images of super cute things scroll across the screen. The background song is very happy, with a happy guitar and a happy person whistling happily. It is very cute and comforting.
