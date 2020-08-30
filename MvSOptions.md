@@ -1,4 +1,4 @@
-# Man vs Stream Options (7/31/20) (Season 6) (list in progress)
+# Man vs Stream Options (8/30/20) (Season 7) (list in progress)
 
 
 ###### Note: If you have a Github account, you can submit a PR with any edits incase of any additional information, inaccuracies, or missing options. Be sure you change the date to the current date of the edit (mm/dd/yy).
@@ -53,6 +53,7 @@
 - All overlays and chat interactions of MvS are made by evo_Demon.
 - `Slightly Intoxicated Boat Guy` Diablo 2 screen rotates and sways side to side like a boat would on the ocean with [this music](https://www.youtube.com/watch?v=0UX25HFxCoc) in the background.
 	- This one is 'slightly' because the [old version](https://youtu.be/lJy1uN0nr1w?t=480) was insane and a lot of people complained. It gets worse.
+		- As of Season 7, the original version is in the Gamble Wheel.
 - *Dog Songs*
 	- These three songs usually accompany each other. The songs are accompanied by random images or gifs of dogs overlaying Diablo 2.
 	- `Gabe-acito` Dog barking remix of Despacito by Luis Fonsi. By the famous Gabe the dog (RIP). [Original video](https://www.youtube.com/watch?v=eLrsR_0yerI).
@@ -61,7 +62,6 @@
 - `Epic Llama` A bunch of mrllamaArmy emotes chase Llama's Diablo 2 cursor. If the Llamas get to the cursor, they start growing in size. As the overlay progresses, more mrllamaArmy emotes spawn and they get faster. The background song is [Grieg - In the Hall of the Mountain King](https://www.youtube.com/watch?v=kLp_Hh6DKWc).
 - `D2 Rap (Aww Jeez)` A [Diablo 2 rap made by JeeZLawayZ](https://www.youtube.com/watch?v=_Uwr1Uplmv0) for Llama.
 - `Enhance` The entire Diablo 2 window becomes blurry except for a box around his cursor which is still clear. Videos of crime shows where they are looking at images or videos asking the tech guy to "enhance the image" are overlayed on the window.
-- `Diablo 0` An overlay replicating old film visual quality, where the colors are black and white, grainy, and has bars moving across the screen with an old song as the background music.
 - `Diablo 1` Tristram music plays during the overlay while the main UI bar is redesigned to look like Diablo 1's main UI bar. A massive image blocks Llama's view if he is running ingame during this overlay, as you can only walk in Diablo 1. The image disappears when Llama starts walking.
 - `DVD Screensaver` The Diablo 2 window bounces around like a DVD Screensaver. The speed of the window progressively gets faster. Perfect corners are possible.
 - `Flip Screen` Flips the screen on the vertical axis. Crazier than it seems.
@@ -72,6 +72,9 @@
 - `Sham Wow` Clips taken from a long Sham Wow commercial presented by Vince. Between every video segment, Llama's cursor is replaced with a Sham Wow which erases the pixels on screen by drawing white pixels over the Diablo 2 window where the cursor has been. Toward the end, when the special offer is presented for 8 Sham Wows, Llama's cursor is replaced with 8 Sham Wows that erase the pixels on screen.
 - `Half Screen` Random boxes are placed on Llama's Diablo 2 window to block half of his screen.
 - `Buzzwords` A robot speaking random English words that somehow forms grammatically correct sentences.
+
+### **Gamble Wheel**
+- This wheel contains every option possible. Every. Option. Including helps. Does not include retired options. Includes Original Boat Guy.
 
 ### **Separate Options**
 - `Slap Chop` Clips taken from the long Slap Chop commercial presented by Vince. Every time Vince uses the Slap Chop in the video, Llama's Diablo 2 is chopped. A chop is when the screen is cut in half horizontally and vertically in four even corners and then the corners are randomized. It is possible for the four corners to randomize to their original spots.
@@ -88,6 +91,7 @@
 - These are the traitor options.
 - `Guardian Angel` An overlay with background music that lasts for roughly 3 minutes. During this time, all punishments are delayed until the end of Guardian Angel. Save and Quits will not activate until after Guardian Angel ends. Llama can use skill points obtained from leveling up while Guardian Angel is active. Each time it is used, the price is increased by 5$. It is common to inflate the price early on.
 - `Help Llama` Gives Llama an option to take half a duration from the maximum time of any punishment. He can reserve these. Two Help Llamas will remove 1 punishment entirely. Rules for this vary. Llama usually only ever uses these for Wheel punishments. Llama rarely, if ever, uses them for the Separate punishments.
+- There are more options here that I am too lazy to currently figure out.
 
 ### **Time/Sum Options**
 - `Shame Cap`
@@ -108,4 +112,4 @@
 
 ### **Retired/No longer in use Options**
 - `Adopt-a-Pixel` For every 2? dollar donation, chat could adopt 4 pixels. These pixels were randomly selected from the Diablo 2 window and permanently erased (made white) for the rest of MvS. There were a lot of complaints, especially by Llama as it got to the end because he could no longer see anything. LUL
-- `DING!` It isn't removed yet, but it will be. Kappa
+- `Diablo 0` An overlay replicating old film visual quality, where the colors are black and white, grainy, and has bars moving across the screen with an old song as the background music. It was retired because of copyright claim abuse on the song that is used which is in the public domain.
