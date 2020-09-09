@@ -15,7 +15,7 @@
 		- So, if you have taken this step, your Diablo 2 folder for installing PlugY will be the original folder.
 2. **Navigate to your Diablo 2 folder.**
 	- For most users, your Diablo 2 folder will be located at `C:\Program Files (x86)\Diablo II\`.
-	- You can quickly get to it by right clicking on the newly created Diablo 2 shortcut on your Desktop and pressing `Open File Location`.
+	- You can quickly get to it by right clicking on the newly created Diablo 2 shortcut on your Desktop and pressing `Open file location`.
 3. **[Download PlugY v12.00 for Diablo 2 1.14d](https://github.com/haxifix/PlugY/raw/master/PlugY%20v12.00.zip).**
 	- In the event the above link breaks, [visit here](https://github.com/haxifix/PlugY). Look for a `PlugY v12.00.zip` file. It may have been moved to *Releases*.
 		- You can also view the current bugs with this version of PlugY [here](https://github.com/haxifix/PlugY/issues).
