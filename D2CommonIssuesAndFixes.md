@@ -60,6 +60,19 @@ This issue happens because a game server crashed while you were in the game. As 
 
 1. Somehow your realms in the registry got deleted (usually happens because of mods). [Run this](http://ftp.blizzard.com/pub/misc/BattleNet.zip).
 
+### You have a full list of Realms, but no matter which one you press, it takes you to the same specific realm (seen on the Characer Selection screen after you log into Battle.net).
+
+1. This happens somehow by having old registry keys that are not the standard anymore, however Blizzard will use those values first if they are present.
+	- You need to visit your registry and either modify or delete some keys.
+		- Press the Windows button + R to open `Run.exe`, type in `regedit`, and navigate to `Computer\HKEY_CURRENT_USER\Software\Blizzard Entertainment\Diablo II`.
+	1. You can use the old registry keys to forcefully set the realm you wish to connect to.
+		- However, you will need to modify this key each time you want to change the realm.
+		1. I cannot remember the name of the key (someone providing this information would be useful to this guide), but it will be the only key which a data point of a realm IP. For instance, if the game only lets you connect to USWest, then you will see a key with the data value `uswest.battle.net`. It is not the key called `Preferred Realm`. It is usually near the top.
+	2. You will need to delete the old registry keys so that Diablo II will use the newer more functional keys.
+		- This is untested, but it has no harm. If you delete keys that are important, Diablo II will simply place them again.
+		1. Delete every key in this folder that relates to "BNet" or "Battle.net" or "Realm" or online play EXCEPT for `Aux Battle.net` and `Preferred Realm`.
+			- This solution is untested. If this does not work for you, let Warren1001 know so that more information may be learned.
+
 <br />
 <br />
 	
