@@ -60,7 +60,7 @@ This issue happens because a game server crashed while you were in the game. As 
 
 1. Somehow your realms in the registry got deleted (usually happens because of mods). [Run this](http://ftp.blizzard.com/pub/misc/BattleNet.zip).
 
-### You have a full list of Realms, but no matter which one you press, it takes you to the same specific realm (seen on the Characer Selection screen after you log into Battle.net).
+### `You have a full list of realms, but no matter which one you press, it takes you to the same specific realm (seen on the Characer Selection screen after you log into Battle.net)`
 
 1. This happens somehow by having old registry keys that are not the standard anymore, however Blizzard will use those values first if they are present.
 	- You need to visit your registry and either modify or delete some keys.
