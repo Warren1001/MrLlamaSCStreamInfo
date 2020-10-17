@@ -16,6 +16,7 @@
 3. **Run d2modmaker.**
 	- d2modmaker comes with two executables. Use the one that your system should use.
 		- If you have no idea, use `d2modmaker-windows-386`. I had no issues using this executable on a 64-bit system.
+			- New information states that this mod may only work for 64-bit systems.
 	- This will open a web UI in your browser.
 4. **Configure the mod to your desire.**
 	- You can find information about the options at the [d2modmaker website](https://github.com/tlentz/d2modmaker).
