@@ -1,7 +1,8 @@
-# How to Install d2modmakerd (Randomizer mod) for Diablo II
+# How to Install d2modmaker (Randomizer mod) for Diablo II
 
 
 ##### This guide works for 1.13 AND 1.14, and includes optional steps to have PlugY as well.
+##### If you're a video guide type of person, [here is Llama's video guide](https://www.youtube.com/watch?v=1A5tyriB6kY).
 
 
 1. **Install your desired Diablo II version.**
