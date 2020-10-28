@@ -1,14 +1,14 @@
 # How to Install d2modmaker (Randomizer mod) for Diablo II
 
 
-##### This guide works for 1.13 AND 1.14, and includes optional steps to have PlugY as well.
+##### This guide works for 1.13 AND 1.14, and includes optional steps to have PlugY as well. However, if you want to use PlugY, you must be on a 1.13 version. I could not figure out how to have text mods work with the 1.14 PlugY.
 ##### If you're a video guide type of person, [here is Llama's video guide](https://www.youtube.com/watch?v=1A5tyriB6kY).
 
 
 1. **Install your desired Diablo II version.**
 	- The version does not matter. Diablo II 1.13x and 1.14x have both been confirmed to work. The install method used does not matter either.
 	- If you want PlugY, install PlugY first. Additional PlugY steps can be found below for mod compatibility.
-		- You can [install PlugY for D2 1.13](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/PlugY1.13InstallGuide.md) or [PlugY for D2 1.14](https://github.com/Warren1001/MrLlamaSCStreamInfo/edit/master/PlugY1.14InstallGuide.md).
+		- You can install [PlugY for D2 1.13](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/PlugY1.13InstallGuide.md) here.
 2. **Install [d2modmaker](https://github.com/tlentz/d2modmaker).**
 	- You can find the download under [Releases](https://github.com/tlentz/d2modmaker/releases).
 		- Under the image for the latest version, there is an `Assets` dropdown menu. The zip file is found there.
