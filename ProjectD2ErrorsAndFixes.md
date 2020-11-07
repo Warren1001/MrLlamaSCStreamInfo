@@ -1,4 +1,4 @@
-# How to Fix The "armor.bin"/Gateway/Patching Failed/Updater Failed Error in Project Diablo 2.
+# How to Fix The "armor.bin"/Gateway/Patching Failed/Updater Failed/Missing Resolution/Weird Inventory Error in Project Diablo 2.
 
 ### The reason this happens is because `ProjectDiablo.dll` fails to load. When this fails to load, Diablo 2 tries to automatically patch to 1.14d when the game loads. Since we are playing on a mod, we do not want this. Diablo 2 fails to update because its modded, which leaves the game in a corrupted state.
 ### The way to determine the reason why your `ProjectDiablo.dll` fails to load is as follows:
