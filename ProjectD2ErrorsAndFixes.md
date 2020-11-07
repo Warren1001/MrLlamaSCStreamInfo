@@ -3,7 +3,7 @@
 ### The reason this happens is because `ProjectDiablo.dll` fails to load. When this fails to load, Diablo 2 tries to automatically patch to 1.14d when the game loads. Since we are playing on a mod, we do not want this. Diablo 2 fails to update because its modded, which leaves the game in a corrupted state.
 ### The way to determine the reason why your `ProjectDiablo.dll` fails to load is as follows:
 
-#### Check your `ProjectD2` folder inside your `Diablo II` folder. If `ProjectDiablo.dll is there`, then it's failing to load. If `ProjectDiablo.dll` is NOT there, that means your anti-virus is quarantining it. So far, Windows Defender, McAfee, and Bitdefender have also been known to quarantine the file.
+#### Check your `ProjectD2` folder inside your `Diablo II` folder. If `ProjectDiablo.dll`, then it's failing to load. If `ProjectDiablo.dll` is NOT there, that means your anti-virus is quarantining it. So far, Windows Defender, McAfee, and Bitdefender have also been known to quarantine the file.
 #### If the file is there, you are likely missing the redistributables.
 #### If your game worked previously but doesn't now and the file is missing, Windows Defender is catching something new they added which flags more than just `ProjectDiablo.dll` it seems.
 
