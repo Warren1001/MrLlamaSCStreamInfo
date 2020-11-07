@@ -22,6 +22,7 @@
 	2. Click on Virus & threat protection.
 	3. Under 'Protection history', find `ProjectDiablo.dll` and restore it and allow it.
 		- You will have to do this every time ProjectD2 updates most likely.
+	4. The BEST fix is to add your Diablo 2 folder to the Exclusions folder for Windows Defender after performing Step 3. This will ensure you do not have to do this fix every time PD2 updates.
 2. **If the game working before doesn't apply to you, start with Step 1. anyway.**
 3. **Check your own anti-virus for quarantines. Make sure you restore the `ProjectDiablo.dll` file similarly to how Step 1. describes.**
 4. **You could just disable your anti-virus outright (real-time protection). This does not always work though which is why Step 3. is recommended.**
