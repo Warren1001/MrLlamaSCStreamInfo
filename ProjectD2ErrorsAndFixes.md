@@ -36,3 +36,64 @@
 - [Mediafire](http://www.mediafire.com/file/51r3c5s6hezsruz/DiabloII_113c_Installer.zip/file)
 - [Torrent](https://cdn.discordapp.com/attachments/157962768534863872/160784109642186753/DiabloII_113c_Installer.zip.torrent)
 
+# How to Fix the c0000005 Error in ProjectD2
+
+## Context: You press `Play` on the Launcher and you receive the error.
+
+### Possibility 1: Compatibility
+
+#### Sometimes Diablo 2 just isn't nice, especially if you're installing into a Diablo 2 version that is lower than 1.14.
+
+1. For `Game.exe` in the `ProjectD2` folder, go to its properties and set the compatibility mode to `Windows XP SP2` or `Windows XP SP3`.
+2. For both `Game.exe` and `PD2Launcher.exe` in the `ProjectD2` folder, go to their properties and set both of them to `Run as admininstrator`.
+
+### Possibility 2: DEP
+
+#### I don't know the technicalities behind it, but some people need to perform the "DEP" fix.
+
+1. **Go to your Start Menu and simply start typing `Control Panel` and click it.**
+2. **Click `System`.**
+3. **Click `Advanced system settings` on the left menu.**
+4. **Under the `Advanced` tab, under the `Performance` section, click `Settings`.**
+5. **Click the `Data Execution Prevention` (DEP) tab.**
+6. **Click `Turn on DEP for essential Windows programs and services only`.**
+7. **Restart your PC.**
+
+### Possibility 3: Cinematics Bug
+
+#### PD2 reintroduced the old Cinematics bug where if your game client has no sound (usually through `-ns`), you crash on cinematics, including the intro cinematics.
+
+1. **If you do not have sound, get sound.**
+2. **If you do have sound, try [this fix](https://www.indirectsound.com/). Place the sound dll into both your `Diablo II` and `ProjectD2` folders because I do not know which one is read from and I'm too lazy to figure it out.**
+
+### Possibility 4: Missing Dependency
+
+#### I have yet to figure out what makes this bug. Typically, it is either some form of corruption or missing a required library that is not listed anywhere.
+
+1. **Try repairing the launcher by installing again and repairing.**
+2. **Try making sure your Windows is up to date with everything a computer generally needs.**
+	1. [.NET Framework 3.5](https://docs.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows-10) and [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)
+	2. [As many Redistributables as you can](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Both x86 and x64 versions.
+	3. Make sure Windows is up-to-date.
+	4. Update your drivers, especially your audio and video card drivers.
+
+## Context: You travel to a new Act in-game.
+
+### Almost always because of -ns. See [here]().
+
+## Context: Hovering over item or skill descriptions.
+
+### You have a non-English Diablo II installation. Must be English Diablo II. Or your game is corrupted, re-install.
+
+## Context: Killed Ventar the Unholy in Baal's fourth wave.
+
+### I have yet to figure out why this happens. Other fixes have not seemed to help this issue. Usually not related to language or locale. Perhaps an issue with non-English Windows? Issue not solved, sorry.
+
+# How to Fix the Halt Error in ProjectD2
+
+## Context: Existing character joins the game.
+
+- If you are able to create a new character and join a game but cannot join a game with an existing character because your game crashes with a Halt error, your character may have been corrupted somehow. This is not proven, waiting may simply fix it. I would be worried though, especially if it's online.
+- If creating a new character still gives you a Halt error, then you likely have a bad install.
+	- Be sure your game is a completely fresh install. You cannot copy and paste. You cannot re-use files from a previously modded install. Install Diablo II and then LOD and then PD2 all into the same folder.
+
