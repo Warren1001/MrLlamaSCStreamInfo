@@ -68,7 +68,13 @@
 
 - **If you do not have sound, get sound. If you do not want sound, simply turn down the audio in-game. You can mute the main menu with `Ctrl + M`.**
 
-### Possibility 4: Missing Dependency
+### Possibility 4: Missing x86 2015/2017/2019 Redistributable.
+
+#### It seems ProjectD2 will c0000005 on `Play` if the PC has x64 installed but not x86.
+
+- You can obtain them [here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). I'd get both just to be sure you have both, as you need both. Direct links here for [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+
+### Possibility 5: Some Other Missing Dependency
 
 #### I have yet to figure out what makes this bug. Typically, it is either some form of corruption or missing a required library that is not listed anywhere.
 
