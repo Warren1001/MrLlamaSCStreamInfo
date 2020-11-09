@@ -65,8 +65,7 @@
 
 #### PD2 reintroduced the old Cinematics bug where if your game client has no sound (usually through `-ns`), you crash on cinematics, including the intro cinematics.
 
-1. **If you do not have sound, get sound.**
-2. **If you do have sound, try [this fix](https://www.indirectsound.com/). Place the sound dll into both your `Diablo II` and `ProjectD2` folders because I do not know which one is read from and I'm too lazy to figure it out.**
+- **If you do not have sound, get sound. If you do not want sound, simply turn down the audio in-game. You can mute the main menu with `Ctrl + M`.**
 
 ### Possibility 4: Missing Dependency
 
