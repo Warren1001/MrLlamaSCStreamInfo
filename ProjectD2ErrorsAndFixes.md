@@ -92,7 +92,7 @@
 
 # How to Fix the Halt Error in ProjectD2
 
-## Context: Existing character joins the game.
+## Context: Character creates or joins a game.
 
 - If you are able to create a new character and join a game but cannot join a game with an existing character because your game crashes with a Halt error, your character may have been corrupted somehow. This is not proven, waiting may simply fix it. I would be worried though, especially if it's online.
 - If creating a new character still gives you a Halt error, then you likely have a bad install.
