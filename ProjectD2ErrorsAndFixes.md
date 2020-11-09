@@ -43,6 +43,8 @@
 
 ## Context: You press `Play` on the Launcher and you receive the error.
 
+### Possibility 0: Your PC just needs a full restart. Restart it.
+
 ### Possibility 1: Compatibility
 
 #### Sometimes Diablo 2 just isn't nice, especially if you're installing into a Diablo 2 version that is lower than 1.14.
@@ -60,7 +62,8 @@
 4. **Under the `Advanced` tab, under the `Performance` section, click `Settings`.**
 5. **Click the `Data Execution Prevention` (DEP) tab.**
 6. **Click `Turn on DEP for essential Windows programs and services only`.**
-7. **Restart your PC.**
+7. **Press `Apply` and `OK`.**
+8. **Restart your PC.**
 
 ### Possibility 3: Cinematics Bug
 
