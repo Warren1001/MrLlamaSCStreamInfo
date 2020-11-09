@@ -81,7 +81,7 @@
 
 ## Context: You travel to a new Act in-game.
 
-### Almost always because of -ns. See [here]().
+### Almost always because of -ns. See [here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#possibility-3-cinematics-bug).
 
 ## Context: Hovering over item or skill descriptions.
 
