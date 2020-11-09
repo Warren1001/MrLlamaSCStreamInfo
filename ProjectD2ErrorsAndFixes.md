@@ -71,7 +71,7 @@
 
 #### I have yet to figure out what makes this bug. Typically, it is either some form of corruption or missing a required library that is not listed anywhere.
 
-1. **Try repairing the launcher by installing again and repairing.**
+1. **Try repairing the launcher by running the PD2 installer again and repairing.**
 2. **Try making sure your Windows is up to date with everything a computer generally needs.**
 	1. [.NET Framework 3.5](https://docs.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows-10) and [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)
 	2. [As many Redistributables as you can](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Both x86 and x64 versions.
