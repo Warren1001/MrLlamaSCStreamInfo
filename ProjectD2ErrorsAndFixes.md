@@ -74,7 +74,11 @@
 
 - You can obtain them [here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). I'd get both just to be sure you have both, as you need both. Direct links here for [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
-### Possibility 5: Some Other Missing Dependency
+### Possibility 5: Bad Diablo II Install
+
+- **Try launching Vanilla (unmodded) Diablo 2. If you get the error there, do a fresh re-install. If you don't, click on Battle.net to ensure you have the latest version. Then try launching PD2 again.**
+
+### Possibility 6: Some Other Missing Dependency
 
 #### I have yet to figure out what makes this bug. Typically, it is either some form of corruption or missing a required library that is not listed anywhere.
 
