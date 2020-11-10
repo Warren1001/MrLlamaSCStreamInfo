@@ -1,6 +1,6 @@
 # How to Fix The "armor.bin"/Gateway/Patching Failed/Updater Failed/Missing Resolution/Weird Inventory/Wrong Account Name/Wrong Password Error in Project Diablo 2.
 
-### The fixes here are for any error which comes from "PD2" being missing at the bottom left of the D2 main menu after you launch PD2. If your main menu only says "1.13" and not "POD 1.13" then the two fixes here apply to you.
+### The fixes here are for any error which comes from "PD2" being missing at the bottom left of the D2 main menu after you launch PD2. If your main menu only says "1.13" and not "PD2 1.13" then the two fixes here apply to you.
 
 ### The reason this happens is because `ProjectDiablo.dll` fails to load. When this fails to load, Diablo 2 tries to automatically patch to 1.14d when the game loads. Since we are playing on a mod, we do not want this. Diablo 2 fails to update because its modded, which leaves the game in a corrupted state.
 ### The way to determine the reason why your `ProjectDiablo.dll` fails to load is as follows:
