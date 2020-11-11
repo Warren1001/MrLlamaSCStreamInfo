@@ -113,7 +113,7 @@
 
 #### I have yet to figure out why this happens. Other fixes have not seemed to help this issue. Usually not related to language or locale. Perhaps an issue with non-English Windows? Issue not solved, sorry.
 
-# How to Fix the Halt Error in ProjectD2
+# How to Fix the Halt Error
 
 ## Context: Character creates or joins a game.
 
