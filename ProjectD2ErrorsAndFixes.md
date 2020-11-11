@@ -53,7 +53,7 @@
 
 ## Context: You press `Play` on the Launcher and you receive the error.
 
-### Possibility 0: Your PC just needs a full restart. Restart it.
+### Possibility 1: Your PC just needs a full restart. Restart it.
 
 ### Possibility 1: Compatibility
 
@@ -83,9 +83,9 @@
 
 ### Possibility 4: Missing x86 2015/2017/2019 Redistributable.
 
-#### It seems ProjectD2 will c0000005 on `Play` if the PC has x64 installed but not x86.
+#### ProjectD2 will c0000005 on `Play` if the PC has x64 installed but not x86.
 
-- You can obtain them [here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). I'd get both just to be sure you have both, as you need both. Direct links here for [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+- Install [this](https://aka.ms/vs/16/release/vc_redist.x86.exe).
 
 ### Possibility 5: Bad Diablo II Install
 
@@ -104,15 +104,15 @@
 
 ## Context: You travel to a new Act in-game.
 
-#### Almost always because of -ns. See [here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#possibility-3-cinematics-bug).
+- Almost always because of -ns. See [here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#possibility-3-cinematics-bug).
 
 ## Context: Hovering over item or skill descriptions.
 
-#### You have a non-English Diablo II installation. Must be English Diablo II. Or your game is corrupted, re-install.
+- You have a non-English Diablo II installation. Must be English Diablo II. Or your game is corrupted, re-install.
 
 ## Context: Killed Ventar the Unholy in Baal's fourth wave.
 
-#### I have yet to figure out why this happens. Other fixes have not seemed to help this issue. Usually not related to language or locale. Perhaps an issue with non-English Windows? Issue not solved, sorry.
+- I have yet to figure out why this happens. Other fixes have not seemed to help this issue. Usually not related to language or locale. Perhaps an issue with non-English Windows? Issue not solved, sorry.
 
 # How to Fix the Halt Error
 
@@ -124,4 +124,4 @@
 
 # How to Fix `VCRUNTIME140_1.DLL` Error
 
-#### You are missing the Redistributables needed. You need both [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe). Run them.
+- You are missing the Redistributables needed. You need both [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe). Run them.
