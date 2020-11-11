@@ -124,6 +124,6 @@
 # How to Fix `VCRUNTIME140_1.DLL` Error
 
 <ul>
-#### Simply put, you're missing the VC Runtime. You need both [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe). Simply run them both and install them once they have downloaded.
+Simply put, you're missing the VC Runtime. You need both [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe). Simply run them both and install them once they have downloaded.
 </ul>
 
