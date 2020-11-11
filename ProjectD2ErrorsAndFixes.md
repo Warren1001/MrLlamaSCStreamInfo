@@ -105,15 +105,15 @@
 
 ## Context: You travel to a new Act in-game.
 
-### Almost always because of -ns. See [here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#possibility-3-cinematics-bug).
+#### Almost always because of -ns. See [here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#possibility-3-cinematics-bug).
 
 ## Context: Hovering over item or skill descriptions.
 
-### You have a non-English Diablo II installation. Must be English Diablo II. Or your game is corrupted, re-install.
+#### You have a non-English Diablo II installation. Must be English Diablo II. Or your game is corrupted, re-install.
 
 ## Context: Killed Ventar the Unholy in Baal's fourth wave.
 
-### I have yet to figure out why this happens. Other fixes have not seemed to help this issue. Usually not related to language or locale. Perhaps an issue with non-English Windows? Issue not solved, sorry.
+#### I have yet to figure out why this happens. Other fixes have not seemed to help this issue. Usually not related to language or locale. Perhaps an issue with non-English Windows? Issue not solved, sorry.
 
 # How to Fix the Halt Error in ProjectD2
 
@@ -122,4 +122,8 @@
 - If you are able to create a new character and join a game but cannot join a game with an existing character because your game crashes with a Halt error, your character may have been corrupted somehow. This is not proven, waiting may simply fix it. I would be worried though, especially if it's online.
 - If creating a new character still gives you a Halt error, then you likely have a bad install.
 	- Be sure your game is a completely fresh install. You cannot copy and paste. You cannot re-use files from a previously modded install. Install Diablo II and then LOD and then PD2 all into the same folder.
+
+# How to Fix `VCRUNTIME140_1.DLL` Error
+
+#### Simply put, you're missing the VC Runtime. You need both [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe). Simply run them both and install them once they have downloaded.
 
