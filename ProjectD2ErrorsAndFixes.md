@@ -10,7 +10,7 @@
 | [c0000005](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-c0000005-error-in-projectd2) |
 | [VCRUNTIME140_1.dll](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-vcruntime140_1dll-error) |
 
-# How to Fix The "armor.bin" / Missing or Wrong Gateway / Patch Failed / Missing Resolution / Inventory Cut Off / Wrong Password Error.
+# How to Fix The Armor.bin / Missing or Wrong Gateway / Patch Failed / Missing Resolution / Inventory Cut Off / Wrong Password Error.
 
 ### The fixes here are for any error which comes from "PD2" being missing at the bottom left of the D2 main menu after you launch PD2. If your main menu only says "1.13" and not "PD2 1.13" then the two fixes here apply to you.
 
@@ -39,7 +39,7 @@
 	- For McAfee, the only way is to disable real-time scanning. You can do this by right-clicking the McAfee icon in your Windows taskbar, go to `Real-time scanning`, and disable it. You will probably need to keep McAfee disabled while playing PD2. Enjoy the overzealous anti-virus.
 4. **You could just disable your anti-virus outright (real-time protection). This does not always work though which is why Step 3. is recommended.**
 
-# How to Fix the "d2data.mpq" Error in ProjectD2
+# How to Fix the "d2data.mpq is corrupt" Error
 
 ### The reason this happens is because downgrading from 1.14 is finnicky and the MPQFixer doesn't work for all people. The solution is to go to the source and get the original MPQs from the older installers. Install Diablo 2 using the provided legacy installer links and install PD2 into the new install.
 - [Mega.nz](https://mega.nz/#!e9thyD6A!ExGJuZUtvRJ2c8DrxSL0ihCouh-ARbdVxODXIqVt3dc)
@@ -48,7 +48,7 @@
 - [Mediafire](http://www.mediafire.com/file/51r3c5s6hezsruz/DiabloII_113c_Installer.zip/file)
 - [Torrent](https://cdn.discordapp.com/attachments/157962768534863872/160784109642186753/DiabloII_113c_Installer.zip.torrent)
 
-# How to Fix the c0000005 Error in ProjectD2
+# How to Fix the c0000005 Error
 
 ## Context: You press `Play` on the Launcher and you receive the error.
 
