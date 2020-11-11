@@ -150,3 +150,8 @@
 	3. Set `fullscreen` to `false`.
 	4. Set `windowed` to `true`.
 	5. If applicable to you, set `maintas` to `false` to avoid the black bars.
+
+# Bugged Launcher With White Background Error
+
+- Run the Launcher as Administrator.
+
