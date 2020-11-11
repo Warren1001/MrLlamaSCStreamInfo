@@ -106,7 +106,8 @@
 
 ## Context: Hovering over item or skill descriptions.
 
-- You have a non-English Diablo II installation. Must be English Diablo II. Or your game is corrupted, re-install.
+- You have a non-English Diablo II installation. Must be English Diablo II.
+- If English Diablo II, re-install.
 
 ## Context: Killed Ventar the Unholy in Baal's fourth wave.
 
@@ -127,3 +128,10 @@
 # `Play` on Launcher Does Nothing Error
 
 - Sometimes due to an improper install. Classic, LOD, and PD2 all need to be installed into the same exact folder in the installers.
+
+# Silent Crash
+
+## Context: Hovering over item or skill descriptions.
+
+- You have a non-English Diablo II installation. Must be English Diablo II.
+- If English Diablo II, re-install.
