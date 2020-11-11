@@ -1,7 +1,14 @@
-| Issues |
+| ***Issues*** |
 | :-: |
-| [armor.bin](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbingatewaypatching-failedupdater-failedmissing-resolutionweird-inventorywrong-account-namewrong-password-error-in-project-diablo-2) |
+| [Armor.bin](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbingatewaypatching-failedupdater-failedmissing-resolutionweird-inventorywrong-account-namewrong-password-error-in-project-diablo-2) |
+| [d2data.mpq is corrupt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-d2datampq-error-in-projectd2) |
 | [Missing or Wrong Gateway](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbingatewaypatching-failedupdater-failedmissing-resolutionweird-inventorywrong-account-namewrong-password-error-in-project-diablo-2) |
+| [D2 Patch Failed](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbingatewaypatching-failedupdater-failedmissing-resolutionweird-inventorywrong-account-namewrong-password-error-in-project-diablo-2) |
+| [Missing Resolution](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbingatewaypatching-failedupdater-failedmissing-resolutionweird-inventorywrong-account-namewrong-password-error-in-project-diablo-2) |
+| [Inventory Cut Off](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbingatewaypatching-failedupdater-failedmissing-resolutionweird-inventorywrong-account-namewrong-password-error-in-project-diablo-2) |
+| [Wrong Password](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbingatewaypatching-failedupdater-failedmissing-resolutionweird-inventorywrong-account-namewrong-password-error-in-project-diablo-2) |
+| [c0000005](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-c0000005-error-in-projectd2) |
+| [Armor.bin <br /> Missing or Wrong Gateway <br /> Patch Failed <br /> Missing Resolution <br /> Inventory Cut Off <br /> Wrong Password](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbingatewaypatching-failedupdater-failedmissing-resolutionweird-inventorywrong-account-namewrong-password-error-in-project-diablo-2) |
 
 
 
