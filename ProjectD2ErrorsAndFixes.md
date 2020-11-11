@@ -36,7 +36,7 @@
 	4. The BEST fix is to add your Diablo 2 folder to the Exclusions folder for Windows Defender after performing Step 3. This will ensure you do not have to do this fix every time PD2 updates.
 2. **If the game working before doesn't apply to you, start with Step 1. anyway.**
 3. **Check your own anti-virus for quarantines. Make sure you restore the `ProjectDiablo.dll` file similarly to how Step 1. describes.**
-	- For McAfee, the only way is to disable real-time scanning. You can do this by right-clicking the McAfee icon in your Windows taskbar, go to `Real-time scanning`, and disable it. You will probably need to keep McAfee disabled while playing PD2. Enjoy the overzealous anti-virus.
+	- For McAfee, the only way is to disable real-time scanning. You can do this by right-clicking the McAfee icon in your Windows taskbar, press the top option to open the app, click `PC Security` or whatever at the top, click `Real-time scanning` or whatever on the left, then click `Turn off` on the right to disable it. You will probably need to keep McAfee disabled while playing PD2. Enjoy the overzealous anti-virus.
 4. **You could just disable your anti-virus outright (real-time protection). This does not always work though which is why Step 3. is recommended.**
 
 # How to Fix the "d2data.mpq is corrupt" Error
