@@ -1,17 +1,18 @@
 | ****Issues**** |
 | :-: |
-| [Armor.bin](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
-| [d2data.mpq is corrupt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-d2datampq-is-corrupt-error) |
-| [Missing or Wrong Gateway](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
-| [Patch Failed or Not Needed](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
-| [Missing Resolution](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
-| [Inventory Cut Off](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
-| [Wrong Password](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
-| [c0000005](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-c0000005-error) |
-| [Halt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-halt-error) |
+| [Armor.bin](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
+| [d2data.mpq is corrupt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-d2datampq-is-corrupt-error) |
+| [Missing or Wrong Gateway](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
+| [Patch Failed or Not Needed](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
+| [Missing Resolution](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
+| [Inventory Cut Off](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
+| [Wrong Password](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
+| [c0000005](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-c0000005-error) |
+| [Halt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-halt-error) |
 | [VCRUNTIME140_1.dll](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-vcruntime140_1dll-error) |
-| [Play on Launcher Does Nothing](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#play-on-launcher-does-nothing-error) |
-| [Silent Crash](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#silent-crash) |
+| [Play on Launcher Does Nothing](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-play-on-launcher-does-nothing-error) |
+| [Silent Crash](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-silent-crash) |
+| [Direct3D Error](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-a-critical-error-has-occured-while-initializing-direct3d-error) |
 
 # How to Fix Armor.bin / Missing or Wrong Gateway / Patch Failed or Not Needed / Missing Resolution / Inventory Cut Off / Wrong Password Error
 
