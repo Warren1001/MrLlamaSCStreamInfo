@@ -13,7 +13,7 @@
 | [Play on Launcher Does Nothing](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#play-on-launcher-does-nothing-error) |
 | [Silent Crash](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#silent-crash) |
 
-# How to Fix The Armor.bin / Missing or Wrong Gateway / Patch Failed or Not Needed / Missing Resolution / Inventory Cut Off / Wrong Password Error
+# How to Fix Armor.bin / Missing or Wrong Gateway / Patch Failed or Not Needed / Missing Resolution / Inventory Cut Off / Wrong Password Error
 
 ### The fixes here are for any error which comes from "PD2" being missing at the bottom left of the D2 main menu after you launch PD2. If your main menu only says "1.13" and not "PD2 1.13" then the two fixes here apply to you.
 
@@ -42,7 +42,7 @@
 	- For McAfee, the only way is to disable real-time scanning. You can do this by right-clicking the McAfee icon in your Windows taskbar, press the top option to open the app, click `PC Security` or whatever at the top, click `Real-time scanning` or whatever on the left, then click `Turn off` on the right to disable it. You will probably need to keep McAfee disabled while playing PD2. Enjoy the overzealous anti-virus.
 4. **You could just disable your anti-virus outright (real-time protection). This does not always work though which is why Step 3. is recommended.**
 
-# How to Fix the "d2data.mpq is corrupt" Error
+# How to Fix "d2data.mpq is corrupt" Error
 
 ### The reason this happens is because downgrading from 1.14 is finnicky and the MPQFixer doesn't work for all people. The solution is to go to the source and get the original MPQs from the older installers. Install Diablo 2 using the provided legacy installer links and install PD2 into the new install.
 - [Mega.nz](https://mega.nz/#!e9thyD6A!ExGJuZUtvRJ2c8DrxSL0ihCouh-ARbdVxODXIqVt3dc)
@@ -51,7 +51,7 @@
 - [Mediafire](http://www.mediafire.com/file/51r3c5s6hezsruz/DiabloII_113c_Installer.zip/file)
 - [Torrent](https://cdn.discordapp.com/attachments/157962768534863872/160784109642186753/DiabloII_113c_Installer.zip.torrent)
 
-# How to Fix the c0000005 Error
+# How to Fix c0000005 Error
 
 ## Context: You press `Play` on the Launcher and you receive the error.
 
@@ -115,7 +115,7 @@
 
 - I have yet to figure out why this happens. Other fixes have not seemed to help this issue. Usually not related to language or locale. Perhaps an issue with non-English Windows? Issue not solved, sorry.
 
-# How to Fix the Halt Error
+# How to Fix Halt Error
 
 ## Context: Character creates or joins a game.
 
@@ -127,13 +127,19 @@
 
 - You are missing the Redistributables needed. You need both [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe). Run them.
 
-# `Play` on Launcher Does Nothing Error
+# How to Fix `Play` on Launcher Does Nothing Error
 
 - Sometimes due to an improper install. Classic, LOD, and PD2 all need to be installed into the same exact folder in the installers.
 
-# Silent Crash
+# How to Fix Silent Crash
 
 ## Context: Hovering over item or skill descriptions.
 
 - You have a non-English Diablo II installation. Must be English Diablo II.
 - If English Diablo II, re-install.
+
+# How to Fix `A critical error has occured while initializing Direct3D` Error
+
+#### This error is a generic error when Diablo 2 tries to load in fullscreen which does not work for many people without special settings.
+
+- In the `Options` menu on the Launcher, enable `Windowed Mode (-w)`.
