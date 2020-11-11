@@ -144,3 +144,9 @@
 #### This error is a generic error when Diablo 2 tries to load in fullscreen which does not work for many people without special settings.
 
 - In the `Options` menu on the Launcher, enable `Windowed Mode (-w)`.
+- If you want fullscreen, disable `Windowed Mode (-w)` and follow these steps:
+	1. Go to your `ProjectD2` folder and open `ddraw.ini`.
+	2. Set `width` and `height` at the top to your desktop resolution.
+	3. Set `fullscreen` to `false`.
+	4. Set `windowed` to `true`.
+	5. If applicable to you, set `maintas` to `false` to avoid the black bars.
