@@ -123,3 +123,7 @@
 # How to Fix `VCRUNTIME140_1.DLL` Error
 
 - You are missing the Redistributables needed. You need both [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe). Run them.
+
+# `Play` on Launcher Does Nothing Error
+
+- Sometimes due to an improper install. Classic, LOD, and PD2 all need to be installed into the same exact folder in the installers.
