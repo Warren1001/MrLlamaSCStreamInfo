@@ -24,8 +24,8 @@
 
 ## If `ProjectDiablo.dll` is there:
 
-1. **99% of the time, you're [missing the Redistributables](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-vcruntime140_1dll-error) needed.**
-2. **On the chance that it is the 1%, try installing outside of the Program Files folder or running the launcher in Administrator.**
+1. **You are missing the [x86 Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) needed. Install the Redistributable and restart your PC.**
+2. **Try installing outside of the Program Files folder or running the launcher in Administrator.**
 
 ## If `ProjectDiablo.dll` is *NOT* there:
 
