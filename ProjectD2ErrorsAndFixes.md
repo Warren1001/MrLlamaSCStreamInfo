@@ -53,16 +53,20 @@
 
 ## Context: You press `Play` on the Launcher and you receive the error.
 
-### Possibility 1: Your PC just needs a full restart. Restart it.
+### Possibility 1: Missing x86 2015/2017/2019 Redistributable.
 
-### Possibility 1: Compatibility
+- Install [this](https://aka.ms/vs/16/release/vc_redist.x86.exe).
+
+### Possibility 2: Your PC just needs a full restart. Restart it.
+
+### Possibility 3: Compatibility
 
 #### Sometimes Diablo 2 just isn't nice, especially if you're installing into a Diablo 2 version that is lower than 1.14.
 
 1. For `Game.exe` in the `ProjectD2` folder, go to its properties and set the compatibility mode to `Windows XP SP2` or `Windows XP SP3`.
 2. For both `Game.exe` and `PD2Launcher.exe` in the `ProjectD2` folder, go to their properties and set both of them to `Run as admininstrator`.
 
-### Possibility 2: DEP
+### Possibility 4: DEP
 
 #### I don't know the technicalities behind it, but some people need to perform the "DEP" fix.
 
@@ -75,23 +79,17 @@
 7. **Press `Apply` and `OK`.**
 8. **Restart your PC.**
 
-### Possibility 3: Cinematics Bug
+### Possibility 5: Cinematics Bug
 
 #### PD2 reintroduced the old Cinematics bug where if your game client has no sound (usually through `-ns`), you crash on cinematics, including the intro cinematics.
 
 - **If you do not have sound, get sound. If you do not want sound, simply turn down the audio in-game. You can mute the main menu with `Ctrl + M`.**
 
-### Possibility 4: Missing x86 2015/2017/2019 Redistributable.
-
-#### ProjectD2 will c0000005 on `Play` if the PC has x64 installed but not x86.
-
-- Install [this](https://aka.ms/vs/16/release/vc_redist.x86.exe).
-
-### Possibility 5: Bad Diablo II Install
+### Possibility 6: Bad Diablo II Install
 
 - **Try launching Vanilla (unmodded) Diablo 2. If you get the error there, do a fresh re-install. If you don't, click on Battle.net to ensure you have the latest version. Then try launching PD2 again.**
 
-### Possibility 6: Some Other Missing Dependency
+### Possibility 7: Some Other Missing Dependency
 
 #### I have yet to figure out what makes this bug. Typically, it is either some form of corruption or missing a required library that is not listed anywhere.
 
@@ -104,7 +102,7 @@
 
 ## Context: You travel to a new Act in-game.
 
-- Almost always because of -ns. See [here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#possibility-3-cinematics-bug).
+- Almost always because of -ns. See [here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#possibility-5-cinematics-bug).
 
 ## Context: Hovering over item or skill descriptions.
 
