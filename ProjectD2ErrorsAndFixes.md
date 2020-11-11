@@ -8,6 +8,7 @@
 | [Inventory Cut Off](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbingatewaypatching-failedupdater-failedmissing-resolutionweird-inventorywrong-account-namewrong-password-error-in-project-diablo-2) |
 | [Wrong Password](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbingatewaypatching-failedupdater-failedmissing-resolutionweird-inventorywrong-account-namewrong-password-error-in-project-diablo-2) |
 | [c0000005](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-c0000005-error-in-projectd2) |
+| [VCRUNTIME140_1.dll](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-vcruntime140_1dll-error) |
 
 # How to Fix The "armor.bin"/Gateway/Patching Failed/Updater Failed/Missing Resolution/Weird Inventory/Wrong Account Name/Wrong Password Error in Project Diablo 2.
 
@@ -22,10 +23,7 @@
 
 ## If `ProjectDiablo.dll` is there:
 
-1. **99% of the time, you're missing the Redistributables needed.**
-	- You can obtain them [here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). You need the x86 and x64 links under 2015/2017/2019.
-		- You can find the direct links [here](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
-			- Yes, you need both.
+1. **99% of the time, you're [missing the Redistributables](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-vcruntime140_1dll-error) needed.**
 2. **On the chance that it is the 1%, try installing outside of the Program Files folder or running the launcher in Administrator.**
 
 ## If `ProjectDiablo.dll` is *NOT* there:
