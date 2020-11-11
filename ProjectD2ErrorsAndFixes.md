@@ -1,3 +1,10 @@
+| Issues |
+| :-: |
+| [armor.bin](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbingatewaypatching-failedupdater-failedmissing-resolutionweird-inventorywrong-account-namewrong-password-error-in-project-diablo-2) |
+| [Missing or Wrong Gateway](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-the-armorbingatewaypatching-failedupdater-failedmissing-resolutionweird-inventorywrong-account-namewrong-password-error-in-project-diablo-2) |
+
+
+
 # How to Fix The "armor.bin"/Gateway/Patching Failed/Updater Failed/Missing Resolution/Weird Inventory/Wrong Account Name/Wrong Password Error in Project Diablo 2.
 
 ### The fixes here are for any error which comes from "PD2" being missing at the bottom left of the D2 main menu after you launch PD2. If your main menu only says "1.13" and not "PD2 1.13" then the two fixes here apply to you.
