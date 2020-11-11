@@ -55,7 +55,7 @@
 
 ### Possibility 1: Missing x86 2015/2017/2019 Redistributable.
 
-- Install [this](https://aka.ms/vs/16/release/vc_redist.x86.exe).
+- Install [this](https://aka.ms/vs/16/release/vc_redist.x86.exe). Then restart your PC.
 
 ### Possibility 2: Your PC just needs a full restart. Restart it.
 
