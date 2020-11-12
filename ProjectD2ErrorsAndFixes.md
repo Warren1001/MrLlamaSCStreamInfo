@@ -101,7 +101,11 @@
 
 - **Try launching Vanilla (unmodded) Diablo 2. If you get the error there, do a fresh re-install. If you don't, click on Battle.net to ensure you have the latest version. Then try launching PD2 again.**
 
-### Possibility 8: Some Other Missing Dependency
+### Possibility 8: Hovered Over Bottom Right of Stash
+
+- Theres a critical bug where mousing over the bottom two slots? of the bottom-right stash forces a crash. No known fix. Just keep your cursor away from bottom right of stash.
+
+### Possibility 9: Some Other Missing Dependency
 
 #### I have yet to figure out what makes this bug. Typically, it is either some form of corruption or missing a required library that is not listed anywhere.
 
