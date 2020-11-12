@@ -135,7 +135,13 @@
 
 # How to Fix `Play` on Launcher Does Nothing Error
 
-- Sometimes due to an improper install. Classic, LOD, and PD2 all need to be installed into the same exact folder in the installers.
+### Possibility 1: The launcher is checking the wrong spot for the game and so it fails to launch.
+1. Press the Windows button and R at the same time (launch `Run.exe`).
+2. Type regedit and press `OK`.
+3. Navigate to `HKEY_CURRENT_USER\SOFTWARE\Blizzard Entertainment\Diablo II`.
+4. Double cick on the key `InstallPath`.
+5. Set the `Value data` to your D2 folder (not your PD2 folder).
+	- If your path ends in `...\ProjectD2`, delete that part.
 
 # How to Fix Silent Crash
 
@@ -160,3 +166,13 @@
 
 - Run the Launcher as Administrator.
 
+# Unable to Connect to Battle.net
+
+## Context: Main menu has the 5 characters in the background
+
+1. Press the Windows button and R at the same time (launch `Run.exe`).
+2. Type regedit and press `OK`.
+3. Navigate to `HKEY_CURRENT_USER\SOFTWARE\Blizzard Entertainment\Diablo II`.
+4. Double cick on the key `InstallPath`.
+5. Set the `Value data` to your D2 folder (not your PD2 folder).
+	- If your path ends in `...\ProjectD2`, delete that part.
