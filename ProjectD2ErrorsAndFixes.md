@@ -144,7 +144,7 @@
 5. Set the `Value data` to your D2 folder (not your PD2 folder).
 	- If your path ends in `...\ProjectD2`, delete that part.
 
-# How to Fix Silent Crash
+# How to Fix Silent Crash Error
 
 ## Context: Hovering over item or skill descriptions.
 
