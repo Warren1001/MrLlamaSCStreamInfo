@@ -197,7 +197,7 @@
 
 #### Fix found by several [Reddit users](https://www.reddit.com/r/ProjectDiablo2/comments/js8neb/glide3xdll_not_working/).
 
-# Cannot Create an Account
+# How to Fix `Cannot Create an Account` Error
 
 #### No matter what random string of text you try, all accounts cannot be made.
 
