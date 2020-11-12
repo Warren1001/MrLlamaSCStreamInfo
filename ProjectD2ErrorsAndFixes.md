@@ -191,9 +191,9 @@
 ## Context: Main menu has the 5 characters in the background
 
 1. Press the Windows button and R at the same time (launch `Run.exe`).
-2. Type regedit and press `OK`.
+2. Type `regedit` and press `OK`.
 3. Navigate to `HKEY_CURRENT_USER\SOFTWARE\Blizzard Entertainment\Diablo II`.
-4. Double cick on the key `InstallPath`.
+4. Double click on the key `InstallPath`.
 5. Set the `Value data` to your D2 folder (not your PD2 folder).
 	- If your path ends in `...\ProjectD2`, delete that part.
 
