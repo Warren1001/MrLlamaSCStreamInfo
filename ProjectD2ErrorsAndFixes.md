@@ -192,7 +192,8 @@
 1. Download [IndirectSound](https://www.indirectsound.com/downloads/IndirectSound_0_20.zip).
 2. Copy `dsound.dll` and `dsound.ini` to your `ProjectD2` folder.
 3. Ensure you have the [DX9 Runtimes](https://www.microsoft.com/en-us/download/confirmation.aspx?id=8109). Install it.
-4. Restart PC.
+4. In your `ProjectD2` folder, set `Game.exe` and `Diablo II.exe` to run in Windows 7 Compatibility mode.
+5. Restart PC.
 
 - Optional feature: Edit `dsound.ini` and change `eax2` to `true`. This will enable the ability to toggle `3D Sound and Environmental Effects` in the D2 sound menu.
 
