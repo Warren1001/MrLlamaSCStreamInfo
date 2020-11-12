@@ -196,3 +196,9 @@
 - Optional feature: Edit `dsound.ini` and change `eax2` to `true`. This will enable the ability to toggle `3D Sound and Environmental Effects` in the D2 sound menu.
 
 #### Fix found by several [Reddit users](https://www.reddit.com/r/ProjectDiablo2/comments/js8neb/glide3xdll_not_working/).
+
+# Cannot Create an Account
+
+#### No matter what random string of text you try, all accounts cannot be made.
+
+- This is because you cannot use the D2 client to make an account. You need to [make an account on the website](https://www.projectdiablo2.com/authentication/login). The Game Account you provide is your in-game account name and password. If you aren't sure if you are typing it correctly, [check here](https://www.projectdiablo2.com/pd2accountmanagement). This will tell you your account but not your password. If you lost your password, as of now you are out of luck. Simply make a new account until they implement password resetting.
