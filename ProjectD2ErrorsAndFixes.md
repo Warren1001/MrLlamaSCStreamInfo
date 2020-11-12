@@ -71,7 +71,7 @@
 
 ### Possibility 3: You need to update your Vanilla client to 1.14d and then restart your PC afterwards.
 
-#### Not sure what triggers this bug, but patching the Vanilla client from 1.14b to 1.14d fixes this issue. PC restart required to see if fix worked.
+#### Not sure what triggers this bug, but patching the Vanilla client from 1.14b to 1.14d reportedly fixes this issue for some. PC restart required to see if fix worked.
 
 ### Possibility 4: Compatibility
 
@@ -107,7 +107,15 @@
 
 - Theres a critical bug where mousing over the bottom two slots? of the bottom-right stash forces a crash. No known fix. Just keep your cursor away from bottom right of stash.
 
-### Possibility 9: Some Other Missing Dependency
+### Possibility 9: Non-English Diablo 2 Install
+
+#### This crash happens randomly when interacting with certain items, skills, and monsters.
+
+- Diablo 2 must be installed in English. Any other language will cause completely random crashes with items, skills, and monsters.
+	- Link to English [Classic](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2) and [LOD](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2lod) installers. May need to sign in.
+- If English Diablo II, re-install.
+
+### Possibility 10: Some Other Missing Dependency
 
 #### I have yet to figure out what makes this bug. Typically, it is either some form of corruption or missing a required library that is not listed anywhere.
 
@@ -155,10 +163,12 @@
 
 # How to Fix Silent Crash Error
 
-## Context: Hovering over item or skill descriptions.
+## Context: Interacting with items, skills, or monsters.
 
-- You have a non-English Diablo II installation. Must be English Diablo II.
+- Diablo 2 must be installed in English. Any other language will cause completely random crashes with items, skills, and monsters.
+	- Link to English [Classic](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2) and [LOD](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2lod) installers. May need to sign in.
 - If English Diablo II, re-install.
+- Hovering over the bottom right of the stash is a known crash bug. No fix. Avoid moving your cursor to the bottom right of the stash.
 
 # How to Fix `A critical error has occured while initializing Direct3D` Error
 
