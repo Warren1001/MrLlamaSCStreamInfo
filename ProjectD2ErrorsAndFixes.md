@@ -1,4 +1,4 @@
-##### Note: This list is not exhaustive and there are definitely unreported fixes to some of the complex issues. If none of these work, post in [the PD2 Discord #bug-chat](https://discord.gg/MgbKSmm6Mt).
+##### Note: This list is not exhaustive and there are definitely unreported fixes to some of the complex issues. If none of these work, post in the [PD2 Discord #bug-chat](https://discord.gg/MgbKSmm6Mt).
 
 | [****Issues****](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md) |
 | :-: |
