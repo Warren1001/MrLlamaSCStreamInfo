@@ -1,4 +1,4 @@
-| ****Issues**** |
+| [****Issues****](https://github.com/Warren1001/MrLlamaSCStreamInfo/edit/master/ProjectD2ErrorsAndFixes.md) |
 | :-: |
 | [Armor.bin](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
 | [d2data.mpq is corrupt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-d2datampq-is-corrupt-error) |
