@@ -1,11 +1,11 @@
 | [****Issues****](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md) |
 | :-: |
-| [Armor.bin](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
+| [Armor.bin](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--error) |
 | [d2data.mpq is corrupt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-d2datampq-is-corrupt-error) |
-| [Missing or Wrong Gateway](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
-| [Patch Failed or Not Needed](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
-| [Missing Resolution](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
-| [Inventory Cut Off](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
+| [Missing or Wrong Gateway](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--error) |
+| [Patch Failed or Not Needed](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--error) |
+| [Missing Resolution](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--error) |
+| [Inventory Cut Off](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--error) |
 | [Wrong Password](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--wrong-password-error) |
 | [c0000005](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-c0000005-error) |
 | [Halt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-halt-error) |
@@ -17,8 +17,9 @@
 | [Unable to Connect to Battle.net](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-unable-to-connect-to-battlenet-error) |
 | [Failed to Join Game](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-failed-to-join-game-error) |
 | [C000000D (Error on Close)](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-c000000d-glide3xdll--invalid-parameter-error) |
+| [Cannot Create an Account](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-cannot-create-an-account-error) |
 
-# How to Fix Armor.bin / Missing or Wrong Gateway / Patch Failed or Not Needed / Missing Resolution / Inventory Cut Off / Wrong Password Error
+# How to Fix Armor.bin / Missing or Wrong Gateway / Patch Failed or Not Needed / Missing Resolution / Inventory Cut Off
 
 ### The fixes here are for any error which comes from "PD2" being missing at the bottom left of the D2 main menu after you launch PD2. If your main menu only says "1.13" and not "PD2 1.13" then the two fixes here apply to you.
 
@@ -202,3 +203,11 @@
 #### No matter what random string of text you try, all accounts cannot be made.
 
 - This is because you cannot use the D2 client to make an account. You need to [make an account on the website](https://www.projectdiablo2.com/authentication/login). The Game Account you provide is your in-game account name and password. If you aren't sure if you are typing it correctly, [check here](https://www.projectdiablo2.com/pd2accountmanagement). This will tell you your account but not your password. If you lost your password, as of now you are out of luck. Simply make a new account until they implement password resetting.
+
+# How to Fix `Wrong Password` Error
+
+#### This is a manifest of other issues.
+
+### Possibility 1: [Fix](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off--error)
+
+### Possibility 2: [Fix]()
