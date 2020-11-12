@@ -163,11 +163,11 @@
 	4. Set `windowed` to `true`.
 	5. If applicable to you, set `maintas` to `false` to avoid the black bars.
 
-# Bugged Launcher With White Background Error
+# How to Fix Bugged Launcher With White Background Error
 
 - Run the Launcher as Administrator.
 
-# Unable to Connect to Battle.net
+# How to Fix `Unable to Connect to Battle.net` Error
 
 ## Context: Main menu has the 5 characters in the background
 
@@ -177,3 +177,20 @@
 4. Double cick on the key `InstallPath`.
 5. Set the `Value data` to your D2 folder (not your PD2 folder).
 	- If your path ends in `...\ProjectD2`, delete that part.
+
+# How to Fix `Failed to Join Game` Error
+
+- The game server you were in crashed. The realm server still thinks your character is in-game because the game server did not report you leaving the game since it crashed. Therefore, the realm doesn't let your character into another game. The only fix is to wait for the game server to restart and let your character out of the void. Patience. It could be 5 minutes or 24 hours.
+
+# How to Fix C000000D (glide3x.dll & Invalid Parameter) Error
+
+#### This error happens upon closing the game.
+
+1. Download [IndirectSound](https://www.indirectsound.com/downloads/IndirectSound_0_20.zip).
+2. Copy `dsound.dll` and `dsound.ini` to your `ProjectD2` folder.
+3. Ensure you the [DX9 Runtimes](https://www.microsoft.com/en-us/download/confirmation.aspx?id=8109). Install it.
+4. Restart PC.
+
+- Optional feature: Edit `dsound.ini` and change `eax2` to `true`. This will enable the ability to toggle `3D Sound and Environmental Effects` in the D2 sound menu.
+
+#### Fix found by several [Reddit users](https://www.reddit.com/r/ProjectDiablo2/comments/js8neb/glide3xdll_not_working/).
