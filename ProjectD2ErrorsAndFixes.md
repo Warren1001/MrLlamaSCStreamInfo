@@ -11,10 +11,12 @@
 | [Halt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-halt-error) |
 | [VCRUNTIME140_1.dll](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-vcruntime140_1dll-error) |
 | [Play on Launcher Does Nothing](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-play-on-launcher-does-nothing-error) |
-| [Silent Crash](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-silent-crash) |
+| [Silent Crash](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-silent-crash-error) |
 | [Direct3D Error](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-a-critical-error-has-occured-while-initializing-direct3d-error) |
-| [Bugged Launcher](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#bugged-launcher-with-white-background-error) |
-| [Unable to Connect to Battle.net](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#unable-to-connect-to-battlenet) |
+| [Bugged Launcher](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-bugged-launcher-with-white-background-error) |
+| [Unable to Connect to Battle.net](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-unable-to-connect-to-battlenet-error) |
+| [Failed to Join Game](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-failed-to-join-game-error) |
+| [C000000D (Error on Close)](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-c000000d-glide3xdll--invalid-parameter-error) |
 
 # How to Fix Armor.bin / Missing or Wrong Gateway / Patch Failed or Not Needed / Missing Resolution / Inventory Cut Off / Wrong Password Error
 
