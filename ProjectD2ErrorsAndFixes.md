@@ -20,6 +20,7 @@
 | [C000000D (Error on Close)](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-c000000d-glide3xdll--invalid-parameter-error) |
 | [Cannot Create an Account](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-cannot-create-an-account-error) |
 | [Wrong Password](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-wrong-password-error) |
+| [CD-ROM]() |
 
 # How to Fix Armor.bin / Missing or Wrong Gateway / Patch Failed or Not Needed / Missing Resolution / Inventory Cut Off Error
 
@@ -207,7 +208,7 @@
 
 1. Download [IndirectSound](https://www.indirectsound.com/downloads/IndirectSound_0_20.zip).
 2. Copy `dsound.dll` and `dsound.ini` to your `ProjectD2` folder.
-3. Ensure you have the [DX9 Runtimes](https://www.microsoft.com/en-us/download/confirmation.aspx?id=8109). Install it.
+3. Ensure you have the [DX9 Runtimes](https://www.microsoft.com/en-us/download/confirmation.aspx?id=35). Install it.
 4. In your `ProjectD2` folder, set `Game.exe` and `Diablo II.exe` to run in Windows 7 Compatibility mode.
 5. Restart PC.
 
@@ -228,3 +229,7 @@
 ### Possibility 1: [Try the Armor.bin fix](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off-error)
 
 ### Possibility 2: [Try the Cannot Create an Account fix](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-cannot-create-an-account-error)
+
+# How to Fix CD-ROM Error
+
+- You need [VC 2010 SP1 x86](https://www.microsoft.com/en-US/download/confirmation.aspx?id=8328). Run it then restart your PC.
