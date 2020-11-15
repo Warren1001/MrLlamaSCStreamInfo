@@ -54,11 +54,11 @@
 # How to Fix "d2data.mpq is corrupt" Error
 
 ### The reason this happens is because downgrading from 1.14 is finnicky and the MPQFixer doesn't work for all people. The solution is to go to the source and get the original MPQs from the older installers. Install Diablo 2 using the provided legacy installer links and install PD2 into the new install.
-- [Mega.nz](https://mega.nz/#!e9thyD6A!ExGJuZUtvRJ2c8DrxSL0ihCouh-ARbdVxODXIqVt3dc)
 - [Google Drive](https://drive.google.com/file/d/0BwtmRlAuN2x8X2FoWmhoR2pWQ2s/view)
 - [OneDrive](https://onedrive.live.com/redir?resid=C9512C8BBA34920C!1795&authkey=!AHKYNghIssoWWVs&ithint=file%2czip)
 - [Mediafire](http://www.mediafire.com/file/51r3c5s6hezsruz/DiabloII_113c_Installer.zip/file)
 - [Torrent](https://cdn.discordapp.com/attachments/157962768534863872/160784109642186753/DiabloII_113c_Installer.zip.torrent)
+- [Mega.nz](https://mega.nz/#!e9thyD6A!ExGJuZUtvRJ2c8DrxSL0ihCouh-ARbdVxODXIqVt3dc)
 
 # How to Fix c0000005 Error
 
