@@ -1,5 +1,5 @@
 ### **Offline Singleplayer?**
-- Seemed pretty much confirmed as yes, but it wasn't 100% explicitly stated. Probably a yes but usually a no.
+- Yup.
 
 ### **Balance changes or bug fixes or new content or any type of changes to the game at all?**
 - They have no plans to make any intentional content changes or add new content.
