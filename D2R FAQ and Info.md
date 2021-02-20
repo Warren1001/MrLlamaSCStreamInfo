@@ -11,7 +11,7 @@
 - They have a "Legacy" mode for the art/UI to play the original game in the original way still.
 
 ### **Mods?**
-- Mods aren't possible with the remake version, but the original "legacy" version still supports mods.
+- Apparently, there is official support. However, .dll injection mods that a lot of mods use (including PD2) are impossible. However, they will either no longer be necessary, or some content has been made "moddable" to avoid needing .dll injection. [Source](https://www.pcgamer.com/heres-whats-changing-in-diablo-2-resurrected-and-whats-staying-the-same/).
 
 ### **Hacks/bots/RMT/3rd party?**
 - Uses the new Battlenet system which is more secure, but hacks still exist. Official RMT was not touched upon, so none by Blizzard.
