@@ -8,7 +8,7 @@
 1. **Install your desired Diablo II version.**
 	- The version does not matter. Diablo II 1.13x and 1.14x have both been confirmed to work. The install method used does not matter either.
 	- If you want PlugY, install PlugY first. Additional PlugY steps can be found below for mod compatibility.
-		- You can install [PlugY](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/PlugYInstallGuide.md) here.
+		- You can install [PlugY](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/PlugY1.14InstallGuide.md) here. This guide works for any Diablo 2 version.
 2. **Install [d2modmaker](https://github.com/tlentz/d2modmaker).**
 	- You can find the download under [Releases](https://github.com/tlentz/d2modmaker/releases).
 		- Under the image for the latest version, there is an `Assets` dropdown menu. The zip file is found there.
@@ -20,7 +20,6 @@
 	- This will open a web UI in your browser.
 4. **Configure the mod to your desire.**
 	- You can find information about the options at the [d2modmaker website](https://github.com/tlentz/d2modmaker).
-	- **IMPORTANT NOTE: The option `Cowzzz` will crash any 1.14 game when enabled. Disable this on any 1.14 version.**
 5. **Save the configuration and generate the files for the mod.**
 	- To do this, press `Save Config` and `Run` at the top of the editor.
 6. **Add the launch arguments `-direct -txt` to the shortcut you use to launch the game.**
