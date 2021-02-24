@@ -1,4 +1,4 @@
-# How to Install PlugY for Diablo 2 version 1.14d	
+# How to Install PlugY for Diablo 2 version 1.14d (or any version, really)
 
 
 #### As usual, the PlugY files being in your Diablo 2 folder may risk you getting banned if you connect to the Battle.net even without PlugY loaded. As such, you should have a separate installation for PlugY if you also want to play on Battle.net.	
