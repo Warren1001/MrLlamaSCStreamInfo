@@ -31,4 +31,4 @@
 ##### Do know that each time you press `Run` in the editor, you will re-generate all the randomized items. If you want to modify settings but keep the same randomized items, there is a `Seed.txt` in your Diablo II folder which has the randomization seed. Use the `UseSeed` option in the editor to specify the specific seed stored in your `Seed.txt` file to keep the same randomization.
 
 
-#### If you have any issues or questions, @mention or DM Warren1001 on [MrLlama's Discord](https://discord.gg/BePVw9e).
+#### If you have any issues or questions, post in #technical-support on [MrLlama's Discord](https://discord.gg/BePVw9e).
