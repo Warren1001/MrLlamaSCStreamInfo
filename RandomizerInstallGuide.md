@@ -19,7 +19,7 @@
 			- New information states that this mod may only work for 64-bit systems.
 	- This will open a web UI in your browser.
 4. **Configure the mod to your desire.**
-	- You can find information about the options at the [d2modmaker website](https://github.com/tlentz/d2modmaker).
+	- You can find information about the options at the [d2modmaker website](https://github.com/tlentz/d2modmaker#options).
 5. **Save the configuration and generate the files for the mod.**
 	- To do this, press `Save Config` and `Run` at the top of the editor.
 6. **Add the launch arguments `-direct -txt` to the shortcut you use to launch the game.**
