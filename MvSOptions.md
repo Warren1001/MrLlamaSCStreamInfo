@@ -40,20 +40,7 @@
 - `Turn Keyboard Around` Llama has to rotate his keyboard 180 degrees for X minutes.
 - `Clap Hands` Llama has to clap his hands every two seconds.
 
-### **$15 Wheel**
-- Unknown
-
-### Previous options that are lost and need a home:
-- Need to figure out if these options are in the $15 Wheel, got retired, or moved elsewhere.
-- `Half Mouse Speed` Llama reduces the speed that his mouse moves on screen by half for X minutes.
-- `Blind Sketch` Llama has to sketch a random topic presented while his eyes are covered by the Shame Cap/Llama Hat.
-	- This option is usually put on hold until a break and he does them all at once.
-- `Bullet Chess` Llama has to play Bullet Chess until he wins 1 game.
-	- This option is usually put on hold until a break and he does several at a time.
-- `No Health Potions` Llama is not allowed to use health potions for X minutes.
-- `Last Roll Again` The wheel option of any wheel that was rolled just before this option is chosen again.
-
-### **Evo Wheel**
+### **$15 Wheel (aka Evo Wheel)**
 - The crazy overlay options. Most options do not stack with each other.
 - All overlays and chat interactions of MvS are made by evo_Demon.
 - `Slightly Intoxicated Boat Guy` Diablo 2 screen rotates and sways side to side like a boat would on the ocean with [this music](https://www.youtube.com/watch?v=0UX25HFxCoc) in the background.
@@ -105,6 +92,16 @@
 	- `Upgrade Shame Cap` From bit donations, all stats present on the Shame Cap get increased once the bar is filled. More are added eventually.
 - (Possibly Retired) `Negative Split on Timer` If Llama gets a negative split on a timer (Red in color) in comparison to the previous MvS character run, Llama must do 20 situps and pushups.
 - `Big Wheel` Every hour, the big wheel is rolled to change the prices of the Gear, Llama, and Game wheels. They will be randomly assigned $5, $8, and $12. There is one option which will set all three wheels to $5.
+
+### Previous options that are lost and need a home:
+- Need to figure out if these options are in the $15 Wheel, got retired, or moved elsewhere.
+- `Half Mouse Speed` Llama reduces the speed that his mouse moves on screen by half for X minutes.
+- `Blind Sketch` Llama has to sketch a random topic presented while his eyes are covered by the Shame Cap/Llama Hat.
+	- This option is usually put on hold until a break and he does them all at once.
+- `Bullet Chess` Llama has to play Bullet Chess until he wins 1 game.
+	- This option is usually put on hold until a break and he does several at a time.
+- `No Health Potions` Llama is not allowed to use health potions for X minutes.
+- `Last Roll Again` The wheel option of any wheel that was rolled just before this option is chosen again.
 
 ### **Unlisted Options**
 - These options are usually triggered by Llama to avoid repetitive punishments or when specifically requested. They are not actively present in any wheels or individual options.
