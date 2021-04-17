@@ -102,7 +102,7 @@
 - `Last Roll Again` The wheel option of any wheel that was rolled just before this option is chosen again.
 
 ### **Unlisted Options**
-- These options are usually triggered by Llama to avoid repetitive punishments or when specifically requested. They are not actively present in any wheels or individual options.
+- These options are usually triggered by Llama to avoid repetitive punishments or when specifically requested. Llama probably considers these retired.
 - `Big Spin` The Big Cursor but it spins in a 360 the entire time.
 - `Scan Cursor` The cursor is duplicated all the way horizontally and all the way vertically. The vertical bar of cursors scrolls along horizontal bar of cursors, making the actual cursor placement confusing.
 - `Shotgun Cursor` A random mess of cursors placed near the actual cursor. The positions of these random cursors change every so often, so that Llama loses placement of the actual cursor.
