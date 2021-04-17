@@ -90,10 +90,9 @@
 	- Shame Cap is a IRL Llama hat that looks like a Camel and an edited ingame item with negative stats. The Shame Cap takes away Run/Walk, Cast Rate, Vitality, All Resistances, and Light Radius. It gives Energy.
 	- `Wear Shame Cap` From dollar donations, which includes subscriptions, Llama is forced to wear the Shame Cap for 10 minutes once the bar is filled. If the Shame Cap is already on, the timer is increased by 10 minutes.
 	- `Upgrade Shame Cap` From bit donations, all stats present on the Shame Cap get increased once the bar is filled. More are added eventually.
-- (Possibly Retired) `Negative Split on Timer` If Llama gets a negative split on a timer (Red in color) in comparison to the previous MvS character run, Llama must do 20 situps and pushups.
 
 ### Previous options that are lost and need a home:
-- Need to figure out if these options are in the $15 Wheel, got retired, or moved elsewhere.
+- Need to figure out if these options got retired or moved elsewhere.
 - `Half Mouse Speed` Llama reduces the speed that his mouse moves on screen by half for X minutes.
 - `Blind Sketch` Llama has to sketch a random topic presented while his eyes are covered by the Shame Cap/Llama Hat.
 	- This option is usually put on hold until a break and he does them all at once.
@@ -118,3 +117,4 @@
 - `Diablo Immortal (Diablo Immobile)` An overlay of someone playing a game on a phone where a finger swipes back and forth, but Llama's Diablo 2 window is on the phone screen.
 - `Enhance` The entire Diablo 2 window becomes blurry except for a box around his cursor which is still clear. Videos of crime shows where they are looking at images or videos asking the tech guy to "enhance the image" are overlayed on the window.
 - `Big Wheel` Every hour, the big wheel is rolled to change the prices of the Gear, Llama, and Game wheels. They will be randomly assigned $5, $8, and $12. There is one option which will set all three wheels to $5.
+- `Negative Split on Timer` If Llama gets a negative split on a timer (Red in color) in comparison to the previous MvS character run, Llama must do 20 situps and pushups.
