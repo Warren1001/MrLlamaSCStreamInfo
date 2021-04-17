@@ -1,51 +1,56 @@
-# Man vs Stream Options (8/30/20) (Season 7) (list in progress)
+# Man vs Stream Options (04/17/21) (Season 9) (list in progress)
 
 
 ###### Note: If you have a Github account, you can submit a PR with any edits incase of any additional information, inaccuracies, or missing options. Be sure you change the date to the current date of the edit (mm/dd/yy).
 
+#### [Here is Llama's partially? maintained list on his website](https://mrllamasc.com/man-vs-stream/).
 
-### **Gear Wheel**
+### **$5 Wheel**
 - `Drop X Item` Forces Llama to drop the equipped item.
+	- In this Wheel, Belt, Boots, Chest, Gloves, Helmet, and Ring/Amulet are the available possibilities.
 	- If Llama has more than one of that item equipped, he chooses which one he wants to drop.
 	- If Llama does not have that item that is allowed to be dropped, the wheel gets rerolled.
 	- Llama is not allowed to sell the item for gold.
-- `Drop Item Chat Choice` Forces Llama to drop an equipped item of chat's choice.
-	- Dropping the Shame Cap is not allowed.
-	- Dropping weapons is not allowed on the Barbarian.
-	- Llama is not allowed to sell the item for gold.
-- `Gamble/Replace X Item` Forces Llama to gamble the new item and wear the item if allowed. If Llama already has that item slot filled with an item, Llama is forced to get rid of it.
-	- Llama is allowed to sell the item for gold.
-- `Drop 1/2 Charms` Forces Llama to drop half of his charms.
-	- If Llama only has one charm, he drops it.
-	- If Llama has no charms, the wheel gets rerolled.
-	- Llama is not allowed to sell charms for gold.
-
-### **Llama Wheel**
-- All options in this category stack with each other. A hand cam exists to prove Llama is doing these punishments.
-- `Tiny Hand w/ Mitt` Llama has to use a tiny hand in his keyboard hand for X minutes.
+- `Gamble/Replace X Item` Forces Llama to gamble the new item and wear the item if allowed.
+	- In this Wheel, Belt, Boots, Chest, Gloves, and Helmet are the available possibilities.
+	- If Llama already has that item slot filled with an item, Llama is forced to get rid of it.
 - `Oven Mitts` Llama has to use an oven mitt on his mouse hand for X minutes.
-- `Swap Hands` Llama has to control his keyboard with his right hand and his mouse with his left hand for X minutes.
 - `Ski Goggles` Llama has to wear Ski Goggles for X minutes.
-- `Turn Keyboard` Llama has to rotate his keyboard 180 degrees for X minutes.
-- `Turn Mouse` Llama has to rotate his mouse 180 degrees for X minutes.
-- `Half Mouse Speed` Llama reduces the speed that his mouse moves on screen by half for X minutes.
-- `Clap Hands` Llama has to clap his hands every two seconds.
-- `Blind Sketch` Llama has to sketch a random topic presented while his eyes are covered by the Shame Cap/Llama Hat.
-	- This option is usually put on hold until a break and he does them all at once.
-- `Bullet Chess` Llama has to play Bullet Chess until he wins 1 game.
-	- This option is usually put on hold until a break and he does several at a time.
-
-### **Game Wheel**
+- `Players 2` Llama has to play the game with /players 2 setting for X minutes.
 - `No Running` Llama is not allowed to run for X minutes.
 - `No Minimap` Llama is not allowed to use the minimap for X minutes.
-- `Next Stats Chat Choice` Chat gets to decide on Llama's next 5 stat points.
-- `Next Skill Chat Choice` Chat gets to decide on Llama's next skill point.
-- `No Health Potions` Llama is not allowed to use health potions for X minutes.
 - `Grid Cursor` An overlay of a grid of cursors which follow the real cursor around for X minutes.
 - `Big Cursor` An overlay of the original cursor made much bigger for X minutes.
 - `DING!` Typing 'DING' in chat plays a noise on stream for X minutes. 15 second cooldown per person. Currently, evo_Demon has control over which sound is played. It defaults to the generic Windows error sound. The Secret Cow Level Cows' moos, a device being plugged in and unplugged into the PC, and OOF are options. There may be more.
 	- This idea originated from the first Diablo 2 1.0 stream, where an application made by evo_Demon to make Diablo 2 not so buggy was glitching out, playing a Windows error noise every time Llama pressed a button on his keyboard under certain circumstances.
-- `Players 2` Llama has to play the game with /players 2 setting for X minutes.
+
+### **$10 Wheel**
+- `Drop Item Chat Choice` Forces Llama to drop an equipped item of chat's choice.
+	- Dropping the Shame Cap is not allowed.
+	- Dropping weapons is not allowed on the Barbarian.
+	- Llama is not allowed to sell the item for gold.
+- `Drop All Charms` Forces Llama to drop all of his charms.
+	- If Llama has no charms, the wheel gets rerolled.
+	- Llama is not allowed to sell charms for gold.
+- `Mouse Upside Down` Llama has to rotate his mouse 180 degrees for X minutes.
+- `Switch Hands` Llama has to control his keyboard with his right hand and his mouse with his left hand for X minutes.
+- `Next Stats Chat Choice` Chat gets to decide on Llama's next 5 stat points.
+- `Next Skill Chat Choice` Chat gets to decide on Llama's next skill point.
+- `Tiny Hand w/ Mitt` Llama has to use a tiny hand in his keyboard hand for X minutes.
+- `Turn Keyboard Around` Llama has to rotate his keyboard 180 degrees for X minutes.
+- `Clap Hands` Llama has to clap his hands every two seconds.
+
+### **$15 Wheel**
+- Unknown
+
+### Previous options have are lost and need a home:
+- Need to figure out if these options are in the $15 Wheel, got retired, or moved elsewhere.
+- `Half Mouse Speed` Llama reduces the speed that his mouse moves on screen by half for X minutes.
+- `Blind Sketch` Llama has to sketch a random topic presented while his eyes are covered by the Shame Cap/Llama Hat.
+	- This option is usually put on hold until a break and he does them all at once.
+- `Bullet Chess` Llama has to play Bullet Chess until he wins 1 game.
+	- This option is usually put on hold until a break and he does several at a time.
+- `No Health Potions` Llama is not allowed to use health potions for X minutes.
 - `Last Roll Again` The wheel option of any wheel that was rolled just before this option is chosen again.
 
 ### **Evo Wheel**
@@ -86,19 +91,22 @@
 - `Drop Stash` Forces Llama to drop every item in his stash.
 - `Drop Equipped` Forces Llama to drop every item currently equipped.
 	- With the above two options and the various drop item punishments, this means that Llama's inventory is completely safe from being targeted by item removal donations. However, this limits the amount of potions he can carry, forcing him to town more often.
+- `Guardian Angel` An overlay with background music that lasts for roughly 3 minutes. During this time, all punishments are delayed until the end of Guardian Angel. Save and Quits will not activate until after Guardian Angel ends. Llama can use skill points obtained from leveling up while Guardian Angel is active. Each time it is used, the price is increased by 5$. It is common to inflate the price early on.
 
 ### **Help Llama Options**
 - These are the traitor options.
-- `Guardian Angel` An overlay with background music that lasts for roughly 3 minutes. During this time, all punishments are delayed until the end of Guardian Angel. Save and Quits will not activate until after Guardian Angel ends. Llama can use skill points obtained from leveling up while Guardian Angel is active. Each time it is used, the price is increased by 5$. It is common to inflate the price early on.
+- (Not Confirmed) Llama gets to choose the help he wants, rather than having it roll.
 - `Help Llama` Gives Llama an option to take half a duration from the maximum time of any punishment. He can reserve these. Two Help Llamas will remove 1 punishment entirely. Rules for this vary. Llama usually only ever uses these for Wheel punishments. Llama rarely, if ever, uses them for the Separate punishments.
-- There are more options here that I am too lazy to currently figure out.
+- (Needs Work) `Runes` Llama can take some runes from PlugY stash. The runes allowed, how many, or other rules are not known.
+- (Needs Work) `Gold` Llama can take gold from PlugY stash. Each difficulty increase allows him to take more. The amount allowed to take is unknown.
+- Other options may exist that are not recorded.
 
 ### **Time/Sum Options**
 - `Shame Cap`
 	- Shame Cap is a IRL Llama hat that looks like a Camel and an edited ingame item with negative stats. The Shame Cap takes away Run/Walk, Cast Rate, Vitality, All Resistances, and Light Radius. It gives Energy.
 	- `Wear Shame Cap` From dollar donations, which includes subscriptions, Llama is forced to wear the Shame Cap for 10 minutes once the bar is filled. If the Shame Cap is already on, the timer is increased by 10 minutes.
 	- `Upgrade Shame Cap` From bit donations, all stats present on the Shame Cap get increased once the bar is filled. More are added eventually.
-- `Negative Split on Timer` If Llama gets a negative split on a timer (Red in color) in comparison to the previous MvS character run, Llama must do 20 situps and pushups.
+- (Possibly Retired) `Negative Split on Timer` If Llama gets a negative split on a timer (Red in color) in comparison to the previous MvS character run, Llama must do 20 situps and pushups.
 - `Big Wheel` Every hour, the big wheel is rolled to change the prices of the Gear, Llama, and Game wheels. They will be randomly assigned $5, $8, and $12. There is one option which will set all three wheels to $5.
 
 ### **Unlisted Options**
