@@ -43,7 +43,7 @@
 ### **$15 Wheel**
 - Unknown
 
-### Previous options have are lost and need a home:
+### Previous options that are lost and need a home:
 - Need to figure out if these options are in the $15 Wheel, got retired, or moved elsewhere.
 - `Half Mouse Speed` Llama reduces the speed that his mouse moves on screen by half for X minutes.
 - `Blind Sketch` Llama has to sketch a random topic presented while his eyes are covered by the Shame Cap/Llama Hat.
