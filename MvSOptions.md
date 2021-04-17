@@ -6,14 +6,12 @@
 #### [Here is Llama's partially? maintained list on his website](https://mrllamasc.com/man-vs-stream/).
 
 ### **$5 Wheel**
-- `Drop X Item` Forces Llama to drop the equipped item. (Combined with Gamble)
-	- In this Wheel, Belt, Boots, Chest, Gloves, Helmet, and Ring/Amulet are the available possibilities.
-	- If Llama has more than one of that item equipped, he chooses which one he wants to drop.
-	- If Llama does not have that item that is allowed to be dropped, the wheel gets rerolled.
-	- Llama is not allowed to sell the item for gold.
-- `Gamble/Replace X Item` Forces Llama to gamble the new item and wear the item if allowed. (Combined with Drop)
-	- In this Wheel, Belt, Boots, Chest, Gloves, and Helmet are the available possibilities.
-	- If Llama already has that item slot filled with an item, Llama is forced to get rid of it.
+- `Drop or Gamble X Item` Forces Llama to drop the equipped item. (Combined with Gamble)
+	- In this Wheel, Belt, Boots, Chest, Gloves, Helmet, and Ring/Amulet can be dropped.
+	- In this Wheel, Belt, Boots, Chest, Gloves, and Helmet can be gambled.
+	- (Needs Confirmation) Llama gets to choose whether he drops or gambles.
+	- If Llama has more than one of that item equipped, he chooses which one he wants to drop or gamble.
+	- If Llama does not have the item that is chosen to be dropped/gambled, he must gamble.
 - `Oven Mitts` Llama has to use an oven mitt on his mouse hand for X minutes.
 - `Ski Goggles` Llama has to wear Ski Goggles for X minutes.
 - `Players 2` Llama has to play the game with /players 2 setting for X minutes.
