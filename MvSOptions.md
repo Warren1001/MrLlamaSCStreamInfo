@@ -79,11 +79,9 @@
 
 ### **Help Llama Options**
 - These are the traitor options.
-- (Not Confirmed) Llama gets to choose the help he wants, rather than having it roll.
+- Llama gets to choose the help he wants, rather than having it roll.
 - `Help Llama` Gives Llama an option to take half a duration from the maximum time of any punishment. He can reserve these. Two Help Llamas will remove 1 punishment entirely. Rules for this vary. Llama usually only ever uses these for Wheel punishments. Llama rarely, if ever, uses them for the Separate punishments.
-- (Needs Work) `Runes` Llama can take some runes from PlugY stash. The runes allowed, how many, or other rules are not known.
 - (Needs Work) `Gold` Llama can take gold from PlugY stash. Each difficulty increase allows him to take more. The amount allowed to take is unknown.
-- Other options may exist that are not recorded.
 
 ### **Time/Sum Options**
 - `Shame Cap`
