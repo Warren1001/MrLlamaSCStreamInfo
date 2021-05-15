@@ -6,7 +6,7 @@
 #### [Here is Llama's partially? maintained list on his website](https://mrllamasc.com/man-vs-stream/).
 
 ### **$5 Wheel**
-- `Drop or Gamble X Item` Forces Llama to drop the equipped item. (Combined with Gamble)
+- `Drop or Gamble X Item` Forces Llama to drop or gamble the equipped item.
 	- In this Wheel, Belt, Boots, Chest, Gloves, Helmet, and Ring/Amulet can be dropped.
 	- In this Wheel, Belt, Boots, Chest, Gloves, and Helmet can be gambled.
 	- (Needs Confirmation) Llama gets to choose whether he drops or gambles.
