@@ -12,6 +12,7 @@
 3. The game may have failed to update properly. The version on the main menu should read 1.14d. If it does not, you need to re-install. If it does, you may want to consider re-installing anyway. This time, try [using the standalone patch](http://ftp.blizzard.com/pub/diablo2exp/patches/PC/LODPatch_114d.exe) to update Diablo 2, instead of doing it through the client. If this still does not help, try re-installing outside of any Windows folders (see #2), as Windows may be preventing the game from updating correctly.
 4. You have a zealous anti-virus that interferes with Blizzard's anti-cheat. Blizzard's anti-cheat is a bit shady so a zealous anti-virus might try quarantining the files used to prevent hacking online. As such, Blizzard thinks you are tampering with their anti-cheat and denies you entry. Disabling the anti-virus (or adding the Diablo 2 folder to a list to not be monitored) should fix this.
 5. Your ISP struggles to resolves the names of the realm IPs OR one of the realm servers that you are trying to connect to is down. This issue is unlikely and so far has happened with one reset with a few ISPs in Europe (which could suggest a realm server was not working correctly). Anyhow, if you've tried all the other suggestions, then you could [try this fix](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/D2CommonIssuesAndFixes.md#forcing-your-isp-to-resolve-a-realm-ip) (found at the bottom of this page).
+6. The realm you're trying to connect to may simply be having authentication issues.
 
 ### `Unhandled Exception (c000005)`
 
