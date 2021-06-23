@@ -2,7 +2,7 @@
 
 #### Because this is for an outdated version of Diablo 2, if you also want to play Battle.net, you will need two separate installations.
 
-#### Finally, there is [a video guide](https://www.youtube.com/watch?v=czO1LYKytG8) you can use instead of text guide, but people have reported issues with some of the steps he has shown in the guide. It is also a little over-complicated.
+#### There is [a video guide](https://www.youtube.com/watch?v=czO1LYKytG8) you can use instead of text guide, but people have reported issues with some of the steps he has shown in the guide. It is also a little over-complicated.
 
 
 1. **You will need to obtain a legacy online installer.**
