@@ -1,9 +1,6 @@
 # How to install PlugY for Diablo 2 version 1.13d
 
-
 #### Because this is for an outdated version of Diablo 2, if you also want to play Battle.net, you will need two separate installations.
-
-#### Additionally, there has been a third-party update of PlugY for 1.14d (the current latest version of Diablo 2). However, it has neither stood the test of time nor was it reviewed by the original author of PlugY, Yohann. If you are still interested in using the updated version, you can find the guide [here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/PlugY1.14InstallGuide.md).
 
 #### Finally, there is [a video guide](https://www.youtube.com/watch?v=czO1LYKytG8) you can use instead of text guide, but people have reported issues with some of the steps he has shown in the guide. It is also a little over-complicated.
 
@@ -31,9 +28,9 @@
 4. **Run the `LODPatch_113d.exe` program in administrator mode.**
 	- This will update your Diablo 2. HOWEVER, Diablo 2 will try to start immediately. If it loads successfully, it will try to connect to Battle.net and get the latest patch. Obviously, we do not want this! *If Diablo 2 begins loading, spam `Esc` until it closes!*
 	- Sometimes, Diablo 2 will not load properly, which is okay. If you suspect the Diablo 2 application hung, go to your Task Manager and force `Game.exe` to close. Or restart your computer.
-5. **Now we are at the proper Diablo 2 version, so we can begin installing PlugY. You can obtain [PlugY v11.02 here](http://plugy.free.fr/PlugY_The_Survival_Kit_v11.02.zip).**
+5. **Now we are at the proper Diablo 2 version, so we can begin installing PlugY. You can obtain [PlugY v14.02 here](http://plugy.free.fr/PlugY_The_Survival_Kit_v14.02.zip).**
 	- You can view the official PlugY site [here](http://plugy.free.fr/). We will be using the `Zip version` as the installer version tends to create more issues than it solves.
-6. **Open the `PlugY_The_Survival_Kit_v11.02.zip` file.**
+6. **Open the `PlugY_The_Survival_Kit_v14.02.zip` file.**
 7. **Drag and all the files from this file into the Diablo 2 folder.**
 	- We do not care about the any of the `.txt`, the `PatchD2File.exe`, or the `RestoreD2File.exe` files. You can get rid of them if you wish.
 8. **Perform the settings we did in Step `3.ii` to `PlugY.exe` in your Diablo 2 folder.**
