@@ -23,7 +23,7 @@
 10. **Press `Add` at the bottom left.**
 	- This adds a new profile to the program which will be used to launch the older version of Diablo 2.
 11. **For `Platform`, input the version you wish to play.**
-	- The available platforms to choose from are `1.00`, `1.01`, `1.02`, `1.03`, `1.04b`, `1.04c`, `1.05`, `1.05b`, `1.06`, `1.06b`, `1.07` (first LoD version), `1.08`, `1.09` (original Runewords introduced), `1.09b`, `1.09d`, `1.10` (op Runewords introduced), `1.10b (Beta 1)`, `1.10s (Beta 2`, `1.11`, `1.11b`, `1.12a` (Den Respecs introduced), `1.13a (Beta)` (Tokens introduced), `1.13c`, `1.13d`, `1.14a`, `1.14b`, `1.14c`, and `1.14d`.
+	- The available platforms to choose from are `1.00`, `1.01`, `1.02`, `1.03`, `1.04b`, `1.04c`, `1.05`, `1.05b`, `1.06`, `1.06b`, `1.07` (first LoD version), `1.08`, `1.09` (original Runewords introduced), `1.09b`, `1.09d`, `1.10` (op Runewords introduced), `1.10b (Beta 1)`, `1.10s (Beta 2)`, `1.11`, `1.11b`, `1.12a` (Den Respecs introduced), `1.13a (Beta)` (Tokens introduced), `1.13c`, `1.13d`, `1.14a`, `1.14b`, `1.14c`, and `1.14d`.
 	- If I wanted to play v1.00, I would simply write `1.00` into the `Platform` dialog box.
 	- If you make a typo with the `Platform` and try to edit the box, it will tell you that the `Platform` already exists. Delete the profile and make it from scratch again. It will let you specify the right `Platform` this time.
 12. **For `Path`, this will be the path to the executable to launch Diablo 2.**
