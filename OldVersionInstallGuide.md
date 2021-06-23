@@ -9,11 +9,11 @@
 1. **Install Diablo 2 as normal.**
 	- The version does not matter. It can be 1.12 or 1.13 or 1.14d.
 	- It should be unmodded though.
-2. **[Download Cactus](https://github.com/fearedbliss/Cactus/archive/master.zip) (115 MB).**
+2. **[Download Cactus](https://xyinn.org/diablo/Cactus.7z) (~27 MB).**
 	- Cactus is a version-switcher. You can find more information about Cactus [here](https://github.com/fearedbliss/Cactus).
-3. **Open `Cactus-master.zip`.**
+3. **Open `Cactus.7z`.**
 4. **Navigate to and open the `1. Files` folder.**
-5. **Take every file in the above folder and drag and drop it into your Diablo 2 folder.**
+5. **Take every file this folder and drag and drop it into your Diablo 2 folder.**
 6. **Open the `MpqFixer` folder now in your Diablo 2 folder.**
 7. **Right click `FIX_MPQS_RUN_AS_ADMIN.bat` and press *Run as administrator*.**
 	- This fixes your MPQs to work with older versions of Diablo 2.
@@ -23,8 +23,9 @@
 10. **Press `Add` at the bottom left.**
 	- This adds a new profile to the program which will be used to launch the older version of Diablo 2.
 11. **For `Platform`, input the version you wish to play.**
-	- The available platforms to choose from are `1.00`, `1.01`, `1.02`, `1.03`, `1.04b`, `1.04c`, `1.05`, `1.05b`, `1.06`, `1.06b`, `1.07` (first LoD version), `1.08`, `1.09` (original Runewords introduced), `1.09b`, `1.09d`, `1.10` (op Runewords introduced), `1.11`, `1.11b`, `1.12a`, `1.13c` (Respecs introduced), `1.13d`, `1.14b`, and `1.14d`.
+	- The available platforms to choose from are `1.00`, `1.01`, `1.02`, `1.03`, `1.04b`, `1.04c`, `1.05`, `1.05b`, `1.06`, `1.06b`, `1.07` (first LoD version), `1.08`, `1.09` (original Runewords introduced), `1.09b`, `1.09d`, `1.10` (op Runewords introduced), `1.10b (Beta 1)`, `1.10s (Beta 2`, `1.11`, `1.11b`, `1.12a` (Den Respecs introduced), `1.13a (Beta)` (Tokens introduced), `1.13c`, `1.13d`, `1.14a`, `1.14b`, `1.14c`, and `1.14d`.
 	- If I wanted to play v1.00, I would simply write `1.00` into the `Platform` dialog box.
+	- If you make a typo with the `Platform` and try to edit the box, it will tell you that the `Platform` already exists. Delete the profile and make it from scratch again. It will let you specify the right `Platform` this time.
 12. **For `Path`, this will be the path to the executable to launch Diablo 2.**
 	- In almost all cases, it will simply be the Game.exe found in the Diablo 2 folder.
 	- If you are unsure of how to do this, go back to your Diablo 2 folder. You will see [this](https://i.gyazo.com/295d5bc4add0ef430d02116dbc0f863f.png) in the Address Bar. Click on the Address Bar in empty space so that you can select the path to your Diablo 2 folder like [this](https://i.gyazo.com/67b357476cbf155b90b3c16244dbbd8d.png). Copy and paste this into the `Path` dialog box in Cactus. Then, add `\Game.exe` to the end of the dialog box.
