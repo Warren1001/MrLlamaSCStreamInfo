@@ -1,3 +1,9 @@
+### **How do I do this Twitch Drop thing for a key to the Early Access?**
+- [Link your Twitch and Blizzard accounts](https://us.battle.net/support/en/article/000066385) and watch a drop-enabled stream (like [MrLlamaSC](https://www.twitch.tv/mrllamasc)) for 2.5 hours.
+
+### **How do I see my Twitch Drop progress?**
+- Click your profile picture at the top right of the Twitch page and look under the `Drops` section, or [go here](https://www.twitch.tv/drops/inventory).
+
 ### **Is there multiplayer?**
 - It's multiplayer only.
 
@@ -6,12 +12,6 @@
 
 ### **How many Acts are available?**
 - Only Acts 1 and 2 are available still.
-
-### **How do I do this Twitch Drop thing for a key to the Early Access?**
-- Watch a drop-enabled stream (like [MrLlamaSC](https://www.twitch.tv/mrllamasc)) for 2.5 hours and [link your Twitch and Blizzard accounts](https://us.battle.net/support/en/article/000066385).
-
-### **How do I see my Twitch Drop progress?**
-- Click your profile picture at the top right of the Twitch page and look under the `Drops` section, or [go here](https://www.twitch.tv/drops/inventory).
 
 ### **How do I enable FPS/Ping ingame?**
 - Type /fps in the in-game chat.
