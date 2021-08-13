@@ -5,7 +5,7 @@
 - Click your profile picture at the top right of the Twitch page and look under the `Drops` section, or [go here](https://www.twitch.tv/drops/inventory).
 
 ### **I got the drop all setup, how do I play?**
-- Go to the Blizzard client, go to the D2:R page, and set `Game Version` at the bottom to `Beta`.
+- Go to the Blizzard client, go to the D2:R section, and set `Game Version` at the bottom to `Beta`, then begin downloading. It's 25 GB.
 
 ### **Is there multiplayer?**
 - It's multiplayer only.
