@@ -4,6 +4,9 @@
 ### **How do I see my Twitch Drop progress?**
 - Click your profile picture at the top right of the Twitch page and look under the `Drops` section, or [go here](https://www.twitch.tv/drops/inventory).
 
+### **I got the drop all setup, how do I play?**
+- Go to the Blizzard client, go to the D2:R page, and set `Game Version` at the bottom to `Beta`.
+
 ### **Is there multiplayer?**
 - It's multiplayer only.
 
