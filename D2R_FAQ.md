@@ -1,13 +1,10 @@
-### **How do I do this Twitch Drop thing for a key to the Early Access?**
-- [Link your Twitch and Blizzard accounts](https://us.battle.net/support/en/article/000066385) and watch a drop-enabled stream (like [MrLlamaSC](https://www.twitch.tv/mrllamasc)) for 2.5 hours.
-
-### **How do I see my Twitch Drop progress?**
-- Click your profile picture at the top right of the Twitch page and look under the `Drops` section, or [go here](https://www.twitch.tv/drops/inventory).
-
-### **I got the drop all setup, how do I play?**
+### **I got the Beta all setup, how do I play?**
 - Go to the Blizzard client, go to the D2:R section, and set `Game Version` at the bottom to `Beta`, then begin downloading. It's 25 GB.
 
 ### **Is there multiplayer?**
+- It's multiplayer only.
+
+### **Is there singleplayer?**
 - It's multiplayer only.
 
 ### **What classes are available?**
@@ -24,3 +21,9 @@
 
 ### **PvP?**
 - Yes, you can PvP.
+
+### **Can the /players X command be used?**
+- No, this is a singleplayer only feature. The Beta is online only.
+
+### **Will the Beta progress be reset on full release?**
+- Yes, everyone will start completely fresh once the game releases.
