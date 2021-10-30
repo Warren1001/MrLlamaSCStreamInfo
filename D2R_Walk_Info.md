@@ -24,7 +24,7 @@ There are third party tools you can use to process-eliminate and make it easier 
 
 ## I'm on the right subnet but do not see the SOJs sold message
 
-Now how it works. The entire xxx.xxx.xxx.xxx IP has to match for you to be on the right server. Even though you've blocked 75% of possible servers to join, there are still many servers on each subnet. The chances to get in are extremely low regardless of you blocking all the other subnets.
+Not how it works. The entire xxx.xxx.xxx.xxx IP has to match for you to be on the right server. Even though you've blocked 75% of possible servers to join, there are still many servers on each subnet. The chances to get in are extremely low regardless of you blocking all the other subnets.
 
 ## "Llama is a duper/scammer"
 
