@@ -4,7 +4,7 @@ SOJ = Stone of Jordan
 
 ## How Diablo Clone Works
 
-Diablo Clone works by selling 75-125 SOJs to one particular server. Each region consists of many game servers, all of which have their own SOJ sold counter. For Diablo Clone to be able to spawn in a game, the game must be made in Hell difficulty on the server that the SOJs are being sold in. The entire IP (all four octets) has to match for it to be considered the same server. As SOJs are sold, every game on that server (even Normal games, but Diablo Clone will only spawn in Hell games) will see "x SOJs sold" in the chat box. Once the SOJs sold reach the randomly chosen number between 75 and 125, Diablo Clone spawns in every game on that server and the SOJ sold number is reset and randomly chosen between 75 and 125 again.
+Diablo Clone works by selling 75-125 SOJs to one particular server. Each region consists of many game servers, all of which have their own SOJ sold counter. For Diablo Clone to be able to spawn in a game, the game must be made in Hell difficulty on the server that the SOJs are being sold in. The entire IP (all four octets) has to match for it to be considered the same server. As SOJs are sold, every game on that server (even Normal games, but Diablo Clone will only spawn in Hell games) will see "x SOJs sold" in the chat box. Once the SOJs sold reach the randomly chosen number between 75 and 125, Diablo Clone spawns in every game on that server and the SOJ sold number is reset and randomly chosen between 75 and 125 again. Once Diablo Clone walks, he will spawn at the next superunique monster you encounter.
 
 ## How Does Llama Run His Events?
 
