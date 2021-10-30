@@ -26,6 +26,10 @@ There are third party tools you can use to process-eliminate and make it easier 
 
 Not how it works. The entire xxx.xxx.xxx.xxx IP has to match for you to be on the right server. Even though you've blocked 75% of possible servers to join, there are still many servers on each subnet. The chances to get in are extremely low regardless of you blocking all the other subnets.
 
+## I can't find the game
+
+Yup, there are only 200 games allowed on each server. Once people start finding the right server, the chances to get into the server get extremely low, as the load balancer of D2R starts pushing people onto other servers. It is purely luck. >95% of people will not find the right server.
+
 ## "Llama is a duper/scammer"
 
 Join the next walk event and you can see that none of the SOJs were duped or RMT'd, nor has he scammed. If you are unwilling to prove your claims of Llama duping/RMT/scamming, then you're full of crap.
