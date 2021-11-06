@@ -620,7 +620,7 @@ function berechneBreakpoints() {
                 AnimSpeed = 208;
             }
             for (i = 0; i <= 24; i++) {
-                for (j = 0; j <= 14; j++) {
+                for (j = 0; j <= 24; j++) {
                     if (document.myform.skill.value == 26) {
                         breakpoints[breakpoints.length] = Math.ceil(256 * 7 / Math.floor(Math.floor(256 * 9 / Math.floor(256 * frames / Math.floor((100 + 5 * i - WSMprimaer) * 256 / 100))) * Math.min(Math.max(100 - WSMprimaer + SIAS + Math.floor(120 * (5 * i + 5 * j) / (120 + (5 * i + 5 * j))), 15), 175) / 100)) + Math.ceil((256 * 13 - Math.floor(Math.floor(256 * 9 / Math.floor(256 * frames / Math.floor((100 + 5 * i - WSMprimaer) * 256 / 100))) * Math.min(Math.max(100 - WSMprimaer + SIAS + Math.floor(120 * (5 * i + 5 * j) / (120 + (5 * i + 5 * j))), 15), 175) / 100) * Math.ceil(256 * 7 / Math.floor(Math.floor(256 * 9 / Math.floor(256 * frames / Math.floor((100 + 5 * i - WSMprimaer) * 256 / 100))) * Math.min(Math.max(100 - WSMprimaer + SIAS + Math.floor(120 * (5 * i + 5 * j) / (120 + (5 * i + 5 * j))), 15), 175) / 100))) / (2 * Math.floor(Math.floor(256 * 9 / Math.floor(256 * frames / Math.floor((100 + 5 * i - WSMprimaer) * 256 / 100))) * Math.min(Math.max(100 - WSMprimaer + SIAS + Math.floor(120 * (5 * i + 5 * j) / (120 + (5 * i + 5 * j))), 15), 175) / 100))) - 1;
                         if ((OIAS > 70) && (j == 0)) {
@@ -628,7 +628,7 @@ function berechneBreakpoints() {
                         }
                     }
                     if (document.myform.skill.value == 29) {
-                        temp = (Math.ceil(256 * 7 / Math.floor(Math.floor(256 * 9 / Math.floor(256 * frames / Math.floor((100 + 5 * i - WSMprimaer) * 256 / 100))) * Math.min(Math.max(100 - WSMprimaer + SIAS + Math.floor(120 * (5 * i + 5 * j) / (120 + (5 * i + 5 * j))), 15), 175) / 100)) * 4 + Math.ceil(256 * 13 / Math.floor(Math.floor(256 * 9 / Math.floor(256 * frames / Math.floor((100 + 5 * i - WSMprimaer) * 256 / 100))) * Math.min(Math.max(100 - WSMprimaer + SIAS + Math.floor(120 * (5 * i + 5 * j) / (120 + (5 * i + 5 * j))), 15), 175) / 100)) - 1) / 5;
+                        temp = (Math.ceil(256 * 7 /Math.floor(Math.floor(256 * 9 /Math.floor(256 * frames /Math.floor((100 + 5 * i - WSMprimaer) * 256 / 100 ) ) ) * Math.min( Math.max(100 - WSMprimaer + SIAS + Math.floor(120 * (5 * i + 5 * j) / (120 +(5 * i + 5 * j))), 15), 700)/100)) * 4 +Math.ceil(256 * 13 /Math.floor(Math.floor(256 * 9 /Math.floor(256 * frames / Math.floor((100 + 5 * i - WSMprimaer)* 256 / 100)))* Math.min(Math.max(100 - WSMprimaer + SIAS + Math.floor(120 * (5 * i + 5 * j)/ (120 + (5 * i + 5 * j))), 15), 700)/ 100)) - 1)/ 5
                         if (parseInt(temp) == parseFloat(temp)) {
                             temp = temp + ".0";
                         }
@@ -658,7 +658,7 @@ function berechneBreakpoints() {
                     }
                 }
             }
-            for (k = 0; k <= 14; k++) {
+            for (k = 0; k <= 24; k++) {
                 if ((parseInt(WIAS / 5) != parseFloat(WIAS / 5)) && (document.myform.skill.value == 26)) {
                     breakpoints[breakpoints.length] = Math.ceil(256 * 7 / Math.floor(Math.floor(256 * 9 / Math.floor(256 * frames / Math.floor((100 + parseInt(WIAS) - WSMprimaer) * 256 / 100))) * Math.min(Math.max(100 - WSMprimaer + SIAS + Math.floor(120 * (parseInt(WIAS) + 5 * k) / (120 + (parseInt(WIAS) + 5 * k))), 15), 175) / 100)) + Math.ceil((256 * 13 - Math.floor(Math.floor(256 * 9 / Math.floor(256 * frames / Math.floor((100 + parseInt(WIAS) - WSMprimaer) * 256 / 100))) * Math.min(Math.max(100 - WSMprimaer + SIAS + Math.floor(120 * (parseInt(WIAS) + 5 * k) / (120 + (parseInt(WIAS) + 5 * k))), 15), 175) / 100) * Math.ceil(256 * 7 / Math.floor(Math.floor(256 * 9 / Math.floor(256 * frames / Math.floor((100 + parseInt(WIAS) - WSMprimaer) * 256 / 100))) * Math.min(Math.max(100 - WSMprimaer + SIAS + Math.floor(120 * (parseInt(WIAS) + 5 * k) / (120 + (parseInt(WIAS) + 5 * k))), 15), 175) / 100))) / (2 * Math.floor(Math.floor(256 * 9 / Math.floor(256 * frames / Math.floor((100 + parseInt(WIAS) - WSMprimaer) * 256 / 100))) * Math.min(Math.max(100 - WSMprimaer + SIAS + Math.floor(120 * (parseInt(WIAS) + 5 * k) / (120 + (parseInt(WIAS) + 5 * k))), 15), 175) / 100))) - 1;
                 }
@@ -677,7 +677,7 @@ function berechneBreakpoints() {
             SchreibeDaten();
             TabFenster.document.write('</table><p align="center">Your primary weapon&rsquo;s WIAS is plotted vertically, your equipment&rsquo;s IAS is plotted horizontally.</p>');
             TabFenster.document.write('<table style="border-collapse:collapse" align="center" border="1" cellpadding="0" cellspacing="0"><tr><td style="border-width:1px; border-style:solid; border-color:#FFFFFF" class="wertitle" width="60" align="center">---</td>');
-            for (i = 0; i <= 14; i++) {
+            for (i = 0; i <= 24; i++) {
                 TabFenster.document.write('<td style="border-width:1px; border-style:solid; border-color:#FFFFFF" class="wertitle" width="40" align="center">' + 5 * i + '</td>');
             }
             if (OIAS > 70) {
@@ -686,11 +686,11 @@ function berechneBreakpoints() {
             TabFenster.document.write('</tr><tr>');
             for (j = 0; j <= 24; j++) {
                 TabFenster.document.write('<td style="border-width:1px; border-style:solid; border-color:#FFFFFF" class="wertitle" align="center">' + 5 * j + '</td>');
-                for (i = 15 * j; i <= 15 * (j + 1) - 1; i++) {
-                    if ((OIAS == (i - 15 * j) * 5) && (WIAS == j * 5)) {
+                for (i = 25 * j; i <= 25 * (j + 1) - 1; i++) {
+                    if ((OIAS == (i - 25 * j) * 5) && (WIAS == j * 5)) {
                         TabFenster.document.write('<td style="border-width:1px; border-style:solid; border-color:#FFFFFF" class="auswahl" align="center"><b>' + breakpoints[i] + '</b></td>');
                     } else {
-                        if ((OIAS == (i - 15 * j) * 5) || (WIAS == j * 5)) {
+                        if ((OIAS == (i - 25 * j) * 5) || (WIAS == j * 5)) {
                             TabFenster.document.write('<td style="border-width:1px; border-style:solid; border-color:#FFFFFF" class="iaswahl" align="center">' + breakpoints[i] + '</td>');
                         } else {
                             TabFenster.document.write('<td style="border-width:1px; border-style:solid; border-color:#FFFFFF" align="center">' + breakpoints[i] + '</td>');
@@ -705,11 +705,11 @@ function berechneBreakpoints() {
                 }
                 if ((parseInt(WIAS / 5) != parseFloat(WIAS / 5)) && (WIAS > j * 5) && (WIAS < (j + 1) * 5)) {
                     TabFenster.document.write('<td style="border-width:1px; border-style:solid; border-color:#FFFFFF" class="wertitle" align="center">' + WIAS + '</td>');
-                    for (k = 0; k <= 14; k++) {
+                    for (k = 0; k <= 24; k++) {
                         if (OIAS == k * 5) {
-                            TabFenster.document.write('<td style="border-width:1px; border-style:solid; border-color:#FFFFFF" class="auswahl" align="center"><b>' + breakpoints[breakpoints.length - 15 + k] + '</b></td>');
+                            TabFenster.document.write('<td style="border-width:1px; border-style:solid; border-color:#FFFFFF" class="auswahl" align="center"><b>' + breakpoints[breakpoints.length - 25 + k] + '</b></td>');
                         } else {
-                            TabFenster.document.write('<td style="border-width:1px; border-style:solid; border-color:#FFFFFF" class="iaswahl" align="center">' + breakpoints[breakpoints.length - 15 + k] + '</td>');
+                            TabFenster.document.write('<td style="border-width:1px; border-style:solid; border-color:#FFFFFF" class="iaswahl" align="center">' + breakpoints[breakpoints.length - 25 + k] + '</td>');
                         }
                     }
                     TabFenster.document.write('</tr><tr>');
