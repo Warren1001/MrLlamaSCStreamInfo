@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html class=ingameBar--is-delivered>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width, user-scalable=0">
+<title>Diablo 2 Bugged Attack Speed Calculator</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="calculator.js"></script>
+<body>
+  <article class="item box cf">
+    <h1>Diablo 2 Resurrected Bugged Attack Speed Calculator</h1>
+    <p>Currently in D2R the artifical EIAS cap does not exist, so breakpoints that were otherwise unobtainable are now obtainable. All skills are impacted, though not all are affected.</p>
+    <form name=myform>
+      <table>
+        <tr>
+          <th colspan=2>
+            <h3>Calculation</h3>
+          </th>
+        </tr>
+        <tr>
+          <td class=w50>Character</td>
+          <td class=w50>
+            <select class=w50-10 name=char size=1 onChange="neuChar()">
+              <option value=0>Amazon</option>
+              <option value=1>Assassin</option>
+              <option value=2>Barbarian</option>
+              <option value=3>Druid</option>
+              <option value=4>Necromancer</option>
+              <option value=5 selected>Paladin</option>
+              <option value=6>Sorceress</option>
+              <option value=7>A1 Merc - Rogue</option>
+              <option value=8>A2 Merc - Town Guard</option>
+              <option value=9>A5 Merc - Barbarian</option>
+            </select>
+            <select class=w50-10 name=charform size=1 onChange="neuCharform()"></select>
+          </td>
+        </tr>
+        <tr>
+          <td>Primary Weapon<br><small><input type=radio name=primaerwaffe checked onChange="berechneWerte()"> left weapon slot</small></td>
+          <td>
+            <select class=w50-10 name=waffe size=1 onChange="neuWaffe()"></select>
+            <select class=w50-10 name=barbschwert size=1 onChange="neuBarbschwert()"></select>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <input type=text name=infoWaffe1 size=32 value="Waffenlos [0]" readonly>
+          </td>
+        </tr>
+        <tr>
+          <td>Weapon-IAS<br><small>in %, only useful for Wereforms and possibly dual-wielded attacking breakpoint tables.</small></td>
+          <td>
+            <select name=wIAS1 size=1 onChange="berechneWerte()"></select>
+          </td>
+        </tr>
+        <tr>
+          <td>Secondary Weapon<br><small><input type=radio name=primaerwaffe checked onChange="berechneWerte()"> left weapon slot</small>
+          <td>
+            <select name=zweitwaffe size=1 onChange="neuZweitwaffe()"></select>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <input class=info type=text name=infoWaffe2 size=32 readonly>
+          </td>
+        </tr>
+        <tr>
+          <td>Weapon-IAS<br><small>in %, only useful for Wereforms and possibly dual-wielded attacking breakpoint tables.</small></td>
+          <td><select name=wIAS2 size=1 onChange="berechneWerte()"></select></td>
+        </tr>
+        <tr>
+          <td>IAS<br><small>in %, useless for the breakpoint tables.</small></td></th>
+          <td>
+            <select name=IAS size=1 onChange="berechneWerte()"></select>
+            <input type=checkbox name=IASstufen onChange="setzeIASstufen()">change interval
+          </td>
+        </tr>
+        <tr>
+          <td>Skill</td>
+          <td>
+            <select name=skill size=1 onChange="berechneWerte()"></select>
+          </td>
+        </tr>
+        <tr>
+          <td>Fanaticism<br><small>Level</small></td>
+          <td>
+            <select name=fana size=1 onChange="berechneWerte()">
+              <option value=0 selected>-</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>Frenzy<br><small>Level</small></td>
+          <td>
+            <select name=frenzy size=1 onChange="berechneWerte()">
+              <option value=0 selected>-</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+        <td>Werewolf<br><small>Level</small></td>
+          <td>
+            <select name=wolf size=1 onChange="berechneWerte()">
+              <option value=0 selected>-</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+        <td>Burst of Speed<br><small>Level</small></td>
+          <td>
+            <select name=tempo size=1 onChange="berechneWerte()">
+              <option value=0 selected>-</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>Holy Freeze<br><small>Level</small></td>
+          <td>
+            <select name=holyfrost size=1 onChange="berechneWerte()">
+              <option value=0 selected>-</option>
+            </select>
+          <input type=checkbox name=altern onChange="berechneWerte()">Decrepify</td>
+        </tr>
+        <tr>
+          <td>
+            <button onclick="berechneBreakpoints()" class="btn">Show IAS Table</button>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <th colspan=2>
+            <h3>Results</h3>
+          </th>
+        </tr>
+        <tr>
+          <td>Speed</td>
+          <td><input class=w50-10 type=text name=AnzFPA size=32 maxlength="" readonly></td>
+        </tr>
+        <tr>
+          <td>Frequenzy</td>
+          <td><input class=daten type=text name=AnzFre size=32 maxlength="" readonly></td>
+        </tr>
+      </table>
+    </form>
+    <script>neuChar(document.myform);</script> <!-- required for all the boxes to populate on first generation -->
+    <i>credit to ingame.de for the calc.</i>
+  </article>
+</body>
+</html>
