@@ -1163,12 +1163,6 @@ function berechneFPA(FramesPerDirection, Acceleration, StartingFrame) {
         FPA = Math.ceil(256 * 7 / Math.floor(AnimationSpeed * Acceleration / 100)) + Math.ceil((256 * 13 - Math.floor(AnimationSpeed * Acceleration / 100) * Math.ceil(256 * 7 / Math.floor(AnimationSpeed * Acceleration / 100))) / (2 * Math.floor(AnimationSpeed * Acceleration / 100))) - 1;
         FPAmax = Math.ceil(256 * 7 / Math.floor(AnimationSpeed * 175 / 100)) + Math.ceil((256 * 13 - Math.floor(AnimationSpeed * 175 / 100) * Math.ceil(256 * 7 / Math.floor(AnimationSpeed * 175 / 100))) / (2 * Math.floor(AnimationSpeed * 175 / 100))) - 1;
     }
-    if (cap == 1) {
-        document.myform.AnzMax.value = "";
-        if ((fertigkeiten[document.myform.skill.value][4] == 100) && (fertigkeiten[document.myform.skill.value][2] != 1) && (FPA <= FPAmax)) {
-            document.myform.AnzMax.value = "further IAS useless";
-        }
-    }
     return FPA;
 }
 
@@ -1224,9 +1218,6 @@ function berechneWerte() {
             }
             ergebnis = (ergebnis + temp) / 2;
         }
-        if (grenze == 1) {
-            document.myform.AnzMax.value = "further IAS useless";
-        }
         grenze = 1;
     }
     if ((fertigkeiten[document.myform.skill.value][2] >= 2) && (fertigkeiten[document.myform.skill.value][2] <= 5) && (fertigkeiten[document.myform.skill.value][4] == 100)) {
@@ -1281,7 +1272,6 @@ function berechneWerte() {
         }
         if (document.myform.waffe.value == 0) {
             ergebnis = 10;
-            document.myform.AnzMax.value = "further IAS useless";
         }
         if (document.myform.zweitwaffe.value > 0) {
             temp2 = ergebnis;
@@ -1297,9 +1287,6 @@ function berechneWerte() {
             }
             ergebnis = (ergebnis + temp2) / 4;
         }
-        if (grenze == 1) {
-            document.myform.AnzMax.value = "further IAS useless";
-        }
         grenze = 1;
     }
     if (fertigkeiten[document.myform.skill.value][4] == 0) {
@@ -1307,9 +1294,6 @@ function berechneWerte() {
             rollback1 = berechneFPA(4, acceleration, 0);
             rollback1++;
             rollback3 = berechneFPA(13, acceleration, 0);
-            if (rollback3 == 7) {
-                document.myform.AnzMax.value = "further IAS useless";
-            }
             document.myform.AnzFPA.value = rollback1 + "/" + rollback1 + "/" + rollback1 + "/" + rollback1 + "/" + rollback3 + " frames per attack";
             document.myform.AnzFre.value = parseInt(100 * 25 / ((rollback1 * 4 + rollback3) / 5)) / 100 + " attacks per second";
         }
@@ -1323,9 +1307,6 @@ function berechneWerte() {
             rollback3 = berechneFPA(frames, acceleration, 1);
             if (rollback3 > berechneFPA(frames, 175, 1)) {
                 grenze = 0;
-            }
-            if (grenze == 1) {
-                document.myform.AnzMax.value = "further IAS useless";
             }
             grenze = 1;
             document.myform.AnzFPA.value = rollback1 + "/" + rollback1 + "/" + rollback1 + "/" + rollback1 + "/" + rollback3 + " frames per attack";
@@ -1353,9 +1334,6 @@ function berechneWerte() {
             rollback3 = berechneFPA(frames, acceleration, 0);
             if (rollback3 > berechneFPA(frames, 175, 0)) {
                 grenze = 0;
-            }
-            if (grenze == 1) {
-                document.myform.AnzMax.value = "further IAS useless";
             }
             grenze = 1;
             document.myform.AnzFPA.value = rollback1 + "/" + rollback2 + "/" + rollback2 + "/" + rollback2 + "/" + rollback3 + " frames per attack";
@@ -1402,9 +1380,6 @@ function berechneWerte() {
             rollback3 = 5;
             rollback5 = 13;
         }
-        if (grenze == 1) {
-            document.myform.AnzMax.value = "further IAS useless";
-        }
         grenze = 1;
         document.myform.AnzFPA.value = rollback1 + "/" + rollback2 + "/" + rollback3 + "/" + rollback4 + "/" + rollback5 + " frames per attack";
         document.myform.AnzFre.value = parseInt(100 * 25 / ((rollback1 + rollback2 + rollback3 * 4 + rollback4 * 3 + rollback5) / 10)) / 100 + " attacks per second";
@@ -1427,9 +1402,6 @@ function berechneWerte() {
         rollback3 = berechneFPA(frames, acceleration, rollbackframe);
         if (rollback3 > berechneFPA(frames, 175, rollbackframe)) {
             grenze = 0;
-        }
-        if (grenze == 1) {
-            document.myform.AnzMax.value = "further IAS useless";
         }
         grenze = 1;
         document.myform.AnzFPA.value = rollback1 + "/" + rollback2 + "/" + rollback3 + " frames per attack";
@@ -3282,10 +3254,7 @@ var waffen = [
     </tr>
     <tr>
     <td>Speed</td>
-    <td>
-    <input class=w50-10 type=text name=AnzFPA size=32 maxlength="" readonly>
-    <input class=w50-10 type=text name=AnzMax size=32 maxlength="" readonly>
-    </td>
+    <td><input class=w50-10 type=text name=AnzFPA size=32 maxlength="" readonly></td>
     </tr>
     <tr>
     <td>Frequenzy</td>
@@ -3294,7 +3263,7 @@ var waffen = [
     </table>
     </form>
     <script>neuChar(document.myform);</script>
-<i>credit to ingame.de for the calc. ignore "further IAS useless"</i>
+<i>credit to ingame.de for the calc.</i>
                   </article>
                 </div>
               </div>
