@@ -234,7 +234,7 @@ table {
   -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#8a2825,endColorstr=#72211e)";
   cursor: pointer;
   display: block;
-  width: 50%;
+  width: 100%;
   border: none;
   background-color: #04AA6D;
   padding: 14px 28px;
