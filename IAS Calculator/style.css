@@ -232,7 +232,14 @@ table {
   -webkit-box-sizing: border-box;
   background: -webkit-linear-gradient(top, #8a2825 0, #72211e 100%);
   -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#8a2825,endColorstr=#72211e)";
-  cursor: pointer
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #04AA6D;
+  padding: 14px 28px;
+  font-size: 16px;
+  text-align: center
 }
 
 .btn:hover {
