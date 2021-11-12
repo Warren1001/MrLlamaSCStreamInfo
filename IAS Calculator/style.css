@@ -602,7 +602,7 @@ article.box:not(.preview) {
 
 @media all and (min-width:990px) {
   article.box:not(.preview) {
-    padding: 0px 80px
+    padding: 0px 20px
   }
 }
 
