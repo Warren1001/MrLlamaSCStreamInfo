@@ -15,7 +15,7 @@
     <p>Everything should be accurate except: all Wereform animations except Druid's Fury, and some dual wielding skills might be wrong (Barbarian's Whirlwind is confirmed correct).</p>
     <p>I manually updated Fury itself. I tested Fury as a Druid with a Phase Blade, Demon Crossbow, and Cryptic Axe and it looks good. I cannot confirm it is correct for Barbarian Wolf or non-Phase Blade options, but I believe it will still be correct for non-Phase Blade options on a Druid.</p>
     <p>I tested Werebear Druid Normal attack. It is correct for Phase Blade with the exception for the skill IAS options. Likely correct in the same regard for other weapons. I am lazy to update.</p>
-    <p>Per Amazon Basin: The calculator shows the attack speed for Frenzy as if the hit were to miss (and to what I assume does not apply the Frenzy speedup bonus on that hit).</p>
+    <p>Per Amazon Basin for Frenzy: Attack Speed Calculator only calculates attack rate breakpoints accurately when first attack in sequence is unsuccessful, or when both weapons have the same weapon speed and Increased Attack Speed.</p>
     <form name=myform>
       <table>
         <tr>
@@ -55,9 +55,10 @@
           </td>
         </tr>
         <tr>
-          <td>Weapon-IAS<br><small>in %, useless if you are using "Show IAS Table"</small></td>
+          <td>Weapon-IAS<br><small>in %, only used for dual-wielding required skills (Frenzy, Dragon Claw)</small></td>
           <td>
             <select name=wIAS1 size=1 onChange="berechneWerte()"></select>
+            <input type=checkbox name=IASstufen onChange="setzeIASstufen()">change interval
           </td>
         </tr>
         <tr>
@@ -73,14 +74,13 @@
           </td>
         </tr>
         <tr>
-          <td>Weapon-IAS<br><small>in %, useless if you are using "Show IAS Table"</small></td>
+          <td>Weapon-IAS<br><small>in %, only used for dual-wielding required skills (Frenzy, Dragon Claw)</small></td>
           <td><select name=wIAS2 size=1 onChange="berechneWerte()"></select></td>
         </tr>
         <tr>
-          <td>IAS<br><small>in %, useless if you are using "Show IAS Table"</small></td></th>
+          <td>IAS<br><small>in %, pretty sure this is useless</small></td></th>
           <td>
             <select name=IAS size=1 onChange="berechneWerte()"></select>
-            <input type=checkbox name=IASstufen onChange="setzeIASstufen()">change interval
           </td>
         </tr>
         <tr>
