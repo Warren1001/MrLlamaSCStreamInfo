@@ -240,11 +240,7 @@ table {
   padding: 14px 28px;
   font-size: 32px;
   height: 50px;
-  text-align: center;
-  position: absolute;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%)
+  text-align: center
 }
 
 .btn:hover {
