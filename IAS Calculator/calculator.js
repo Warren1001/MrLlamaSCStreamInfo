@@ -31,6 +31,7 @@ var breakpoints = new Array();
 var breakpoints1 = new Array();
 var breakpoints2 = new Array();
 var breakpointsAPS = new Array();
+var TabFenster;
 
 function berechneFPA(FramesPerDirection, Acceleration, StartingFrame) {
     var Acceleration;
@@ -320,13 +321,10 @@ function berechneBreakpoints() {
     var temp1;
     var OIAS = document.myform.IAS.value;
     var WIAS = document.myform.wIAS1.value;
-    if (fenster == false) {
-        TabFenster.close();
-    }
-    fenster = false;
-    if ((document.myform.charform.value > 0) && ((document.myform.waffe.value == 0) || ((document.myform.zweitwaffe.value > 0) && (document.myform.skill.value == 0)))) {
+    if (TabFenster != null) TabFenster.close();
+    /*if ((document.myform.charform.value > 0) && ((document.myform.waffe.value == 0) || ((document.myform.zweitwaffe.value > 0) && (document.myform.skill.value == 0)))) {
         fenster = true;
-    }
+    }*/
     cap = 0;
     if (document.myform.charform.value == 0) {
         while (breakpoints.length > 0) {
@@ -546,7 +544,7 @@ function berechneBreakpoints() {
         }
         TabFenster = window.open("", "Tabelle", "width=420,height=520,screenX=80,screenY=150,dependent=yes,scrollbars=yes,resizable=no")
         SchreibeDaten();
-        TabFenster.document.write('</table><br><table align="center" cellpadding="0" cellspacing="0"><tr class="title"><td height="30" width="70" align="center">IAS</td><td width="150" align="center">attack speed [ticks]</td><td width="180" align="center">attacks per second</td></tr>');
+        TabFenster.document.write('</table><br><table align="center" cellpadding="0" cellspacing="0"><tr class="title"><td height="30" width="70" align="center">Gear IAS</td><td width="180" align="center">attack speed [frames]</td><td width="180" align="center">attacks per second</td></tr>');
         var aidel = 0;
         if (document.myform.char.value > 6) {
             aidel = 2;
