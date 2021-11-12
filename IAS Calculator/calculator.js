@@ -210,8 +210,6 @@ function berechneWerte() {
             rollback1 = berechneFPA(4, acceleration, 0);
             rollback1++;
             rollback3 = berechneFPA(13, acceleration, 0);
-            document.myform.AnzFPA.value = rollback1 + "/" + rollback1 + "/" + rollback1 + "/" + rollback1 + "/" + rollback3 + " frames per attack";
-            document.myform.AnzFre.value = parseInt(100 * 25 / ((rollback1 * 4 + rollback3) / 5)) / 100 + " attacks per second";
         }
         if (document.myform.skill.value == 29) {
             frames = waffengattung[waffen[document.myform.waffe.value][2]][document.myform.char.value][0];
@@ -225,8 +223,6 @@ function berechneWerte() {
                 grenze = 0;
             }
             grenze = 1;
-            document.myform.AnzFPA.value = rollback1 + "/" + rollback1 + "/" + rollback1 + "/" + rollback1 + "/" + rollback3 + " frames per attack";
-            document.myform.AnzFre.value = parseInt(100 * 25 / ((rollback1 * 4 + rollback3) / 5)) / 100 + " attacks per second";
         }
         if (document.myform.skill.value == 24) {
             frames = aktionsframe[waffen[document.myform.waffe.value][2]][document.myform.char.value];
@@ -252,10 +248,6 @@ function berechneWerte() {
                 grenze = 0;
             }
             grenze = 1;
-            document.myform.AnzFPA.value = rollback1 + "/" + rollback2 + "/" + rollback2 + "/" + rollback2 + "/" + rollback3 + " frames per attack";
-            if (document.myform.skill.value == 24) {
-                document.myform.AnzFre.value = parseInt(100 * 25 / ((rollback1 + rollback2 * 3 + rollback3) / 5)) / 100 + " attacks per second";
-            }
         }
     }
     if (fertigkeiten[document.myform.skill.value][4] == 50) {
@@ -297,8 +289,6 @@ function berechneWerte() {
             rollback5 = 13;
         }
         grenze = 1;
-        document.myform.AnzFPA.value = rollback1 + "/" + rollback2 + "/" + rollback3 + "/" + rollback4 + "/" + rollback5 + " frames per attack";
-        document.myform.AnzFre.value = parseInt(100 * 25 / ((rollback1 + rollback2 + rollback3 * 4 + rollback4 * 3 + rollback5) / 10)) / 100 + " attacks per second";
     }
     if (fertigkeiten[document.myform.skill.value][4] == 40) {
         frames = aktionsframe[waffen[document.myform.waffe.value][2]][document.myform.char.value];
@@ -320,22 +310,6 @@ function berechneWerte() {
             grenze = 0;
         }
         grenze = 1;
-        document.myform.AnzFPA.value = rollback1 + "/" + rollback2 + "/" + rollback3 + " frames per attack";
-        document.myform.AnzFre.value = parseInt(100 * 25 / ((rollback1 + rollback2 + rollback3) / 2)) / 100 + " attacks per second";
-    }
-    if (fertigkeiten[document.myform.skill.value][4] == 100) {
-        document.myform.AnzFPA.value = ergebnis + " frames per attack";
-        document.myform.AnzFre.value = parseInt(100 * 25 / ergebnis) / 100 + " attacks per second";
-        if (document.myform.char.value > 6) {
-            document.myform.AnzFre.value = parseInt(100 * 25 / (ergebnis + 2)) / 100 + " attacks per second";
-        }
-        if (((document.myform.char.value == 8) && (document.myform.skill.value == 3)) || ((document.myform.char.value == 9) && (document.myform.skill.value == 0))) {
-            document.myform.AnzFre.value = parseInt(100 * 25 / (ergebnis + 1)) / 100 + " attacks per second";
-        }
-        if ((document.myform.charform.value > 0) && (document.myform.zweitwaffe.value > 0) && (document.myform.skill.value == 0)) {
-            document.myform.AnzFPA.value = "Calculation makes no sense";
-            document.myform.AnzFre.value = "";
-        }
     }
 }
 
