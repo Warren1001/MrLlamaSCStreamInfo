@@ -147,25 +147,19 @@ a:not(.btn):hover {
 }
 
 p {
-  margin: 0 0 1em 0
+  margin: 0 0 0.25em 0
 }
 
 .h1,
 h1:not(.unstyled) {
   font-size: 3.5rem;
-  font-weight: 700;
-  line-height: 4.2rem;
-  margin-bottom: 2.8rem;
-  margin-top: 7rem
+  font-weight: 700
 }
 
 .h3,
 h3:not(.unstyled) {
   font-size: 2.625rem;
-  font-weight: 700;
-  line-height: 3.15rem;
-  margin-bottom: 2.1rem;
-  margin-top: 5.25rem
+  font-weight: 700
 }
 
 ul {
@@ -262,7 +256,6 @@ table {
   font-style: normal;
   font-variant: normal;
   font-weight: 400;
-  line-height: 1em;
   speak: none;
   text-align: center;
   text-decoration: none;
@@ -546,14 +539,14 @@ select {
 
 .box {
   display: block;
-  margin-bottom: 10px
+  margin-bottom: 0px
 }
 
 .box:not(.unstyled) {
   -webkit-box-shadow: inset 0 0 0 1px #121010;
   box-shadow: inset 0 0 0 1px #121010;
   background-color: #121010;
-  padding: 20px
+  padding: 0px
 }
 
 .spacer {
@@ -609,7 +602,7 @@ article.box:not(.preview) {
 
 @media all and (min-width:990px) {
   article.box:not(.preview) {
-    padding: 60px 80px
+    padding: 0px 80px
   }
 }
 
@@ -670,7 +663,7 @@ article.box:not(.preview) table:not(.unstyled):not([width*="%"]) {
 
 article.box:not(.preview) form {
   zoom: 1;
-  margin-bottom: 20px
+  margin-bottom: 0px
 }
 
 article.box:not(.preview) form:after,
