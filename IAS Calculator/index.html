@@ -14,6 +14,7 @@
     <p>Currently in D2R the artifical EIAS cap does not exist, so breakpoints that were otherwise unobtainable are now obtainable. All skills are impacted, though not all are affected.</p>
     <p>Everything should be accurate. Assassins wielding two claws and Barbarian's wielding two weapons may not see correct frames for various skills. Do be sure and test. Whirlwind is confirmed correct for Barbarian.</p>
     <p>Per Amazon Basin for Frenzy: Attack Speed Calculator only calculates attack rate breakpoints accurately when first attack in sequence is unsuccessful, or when both weapons have the same weapon speed and Increased Attack Speed.</p>
+    <p>I fixed the form reseting when pressing 'Show IAS Table'.</p>
     <form name=myform>
       <table>
         <tr>
@@ -124,7 +125,7 @@
         </tr>
         <tr>
           <td colspan=2>
-            <button colspan=2 onclick="berechneBreakpoints()" class="btn">Show IAS Table</button>
+            <button colspan=2 onclick="berechneBreakpoints(event)" class="btn">Show IAS Table</button>
           </td>
         </tr>
       </table>
