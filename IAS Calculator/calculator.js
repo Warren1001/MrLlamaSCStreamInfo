@@ -317,7 +317,7 @@ function berechneWerte() {
 var horizontalPlotLength = 32;
 var verticalPlotLength = 25;
 
-function berechneBreakpoints() {
+function berechneBreakpoints(event) {
     var ergebnis;
     var RBframe;
     var temp;
@@ -695,6 +695,7 @@ function berechneBreakpoints() {
         }
     }
     cap = 1;
+    event.preventDefault();
 }
 
 function SchreibeDaten() {
