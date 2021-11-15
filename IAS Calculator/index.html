@@ -36,7 +36,7 @@
           </td>
         </tr>
         <tr>
-          <td>Primary Weapon<br><small><input type=radio name=primaerwaffe checked onChange="berechneWerte()"> left weapon slot</small></td>
+          <td>Primary Weapon<br><small><input type=checkbox name=autowsm onChange="toggleAutoWSM()"> Auto-WSM Bugged</small></td>
           <td>
             <select class=w50-10 name=waffe size=1 onChange="neuWaffe()"></select>
             <select class=w50-10 name=barbschwert size=1 onChange="neuBarbschwert()"></select>
@@ -49,14 +49,14 @@
           </td>
         </tr>
         <tr>
-          <td>Weapon IAS<br><small>in %, only used for dual-wielding required skills (Frenzy, Dragon Claw, etc)</small></td>
+          <td>Weapon IAS<br><small>in %, pretty sure this is useless</small></td>
           <td>
             <select name=wIAS1 size=1 onChange="berechneWerte()"></select>
             <input type=checkbox name=IASstufen onChange="setzeIASstufen()">change interval
           </td>
         </tr>
         <tr>
-          <td>Secondary Weapon<br><small><input type=radio name=primaerwaffe onChange="berechneWerte()"> left weapon slot</small>
+          <td>Secondary Weapon</td>
           <td>
             <select name=zweitwaffe size=1 onChange="neuZweitwaffe()"></select>
           </td>
@@ -68,7 +68,7 @@
           </td>
         </tr>
         <tr>
-          <td>Weapon IAS<br><small>in %, only used for dual-wielding required skills (Frenzy, Dragon Claw, etc)</small></td>
+          <td>Weapon IAS<br><small>in %, pretty sure this is useless</small></td>
           <td><select name=wIAS2 size=1 onChange="berechneWerte()"></select></td>
         </tr>
         <tr>
