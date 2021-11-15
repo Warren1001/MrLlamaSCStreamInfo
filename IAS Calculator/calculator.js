@@ -32,6 +32,17 @@ var breakpoints1 = new Array();
 var breakpoints2 = new Array();
 var breakpointsAPS = new Array();
 var TabFenster;
+var autoWSM = false;
+
+function toggleAutoWSM() { // too lazy to see if javascript has a faster way to do this
+    console.log("hello");
+    if (autoWSM == true) {
+        autoWSM = false;
+    } else {
+        autoWSM = true;
+    }
+    berechneWerte();
+}
 
 function berechneFPA(FramesPerDirection, Acceleration, StartingFrame) {
     var Acceleration;
@@ -578,10 +589,10 @@ function berechneBreakpoints(event) {
         while (breakpoints2.length > 0) {
             breakpoints2.length = breakpoints2.length - 1;
         }
-        if ((document.myform.waffe.value == 0)/* || ((document.myform.zweitwaffe.value > 0) && (document.myform.skill.value == 0))*/) {
-            /*if ((document.myform.skill.value == 0) && (document.myform.zweitwaffe.value > 0)) {
-                alert("There is a problem calculating the standard attack while using two weapons in wereform, so that calculation will not be performed. I suspect it uses whatever it considers main hand and ignores the off hand. It does not seem you can auto-WSM bug in Werebear form.");
-            }*/
+        if ((document.myform.waffe.value == 0) || ((document.myform.zweitwaffe.value > 0) && (document.myform.skill.value == 0))) {
+            if ((document.myform.skill.value == 0) && (document.myform.zweitwaffe.value > 0)) {
+                alert("There is a bug (likely from Vanilla LOD) where dual wielding in Werebear form prevents you from attacking whatsoever. You will have to remove the off-hand weapon.");
+            }
             if (document.myform.waffe.value == 0) {
                 alert("Please choose a weapon to use.");
             }
@@ -702,13 +713,15 @@ function SchreibeDaten() {
     TabFenster.document.write('<html><head><style type="text/css">');
     TabFenster.document.write('body { background-color:#000000; color:#FFFFFF; } .title { background-color:#45070E; color:#FFFFFF; font-weight:bold; } .wertitle { background-color:EBBE00; color:FFFFFF; font-weight:bold; } .auswahl { background-color:#BEBEBE; color:#FFFFFF; } .iaswahl { background-color:#45070E; color:#FFFFFF; }');
     TabFenster.document.write('</style></head><body><br><table align="center" border="0" cellpadding="0" cellspacing="5">');
-    TabFenster.document.write('<tr><td class="title" colspan="2" align="center"><b>Data:</b></td></tr><tr><td width="130">Character:</td><td>' + document.myform.char.options[document.myform.char.selectedIndex].text + '</td></tr>');
+    TabFenster.document.write('<tr><td class="title" colspan="2" align="center"><b>Data:</b></td></tr><tr><td width="160">Character:</td><td>' + document.myform.char.options[document.myform.char.selectedIndex].text + '</td></tr>');
     if (document.myform.charform.value > 0) {
         TabFenster.document.write('<tr><td>Wereform:</td><td>' + document.myform.charform.options[document.myform.charform.selectedIndex].text + '</td></tr>');
     }
     TabFenster.document.write('<tr><td>Primary Weapon:</td><td>' + document.myform.waffe.options[document.myform.waffe.selectedIndex].text + '</td></tr>');
     if (document.myform.zweitwaffe.value > 0) {
         TabFenster.document.write('<tr><td>Secondary Weapon:</td><td>' + document.myform.zweitwaffe.options[document.myform.zweitwaffe.selectedIndex].text + '</td></tr>');
+        console.log('<tr><td>Auto-WSM Bugged:</td><td>' + autoWSM + '</td></tr>');
+        TabFenster.document.write('<tr><td>Auto-WSM Bugged:</td><td>' + autoWSM + '</td></tr>');
     }
     TabFenster.document.write('<tr><td>Skill:</td><td>' + document.myform.skill.options[document.myform.skill.selectedIndex].text + '</td></tr>');
     TabFenster.document.write('<tr><td>IAS:</td><td>' + document.myform.IAS.options[document.myform.IAS.selectedIndex].text + '</td></tr>');
@@ -764,10 +777,12 @@ function berechneWSM() {
         WSMprimaer = waffen[document.myform.waffe.value][1];
     }
     if (((document.myform.char.value == 1) || (document.myform.char.value == 2)) && (document.myform.zweitwaffe.value > 0)) {
-        if (document.myform.primaerwaffe[0].checked == true) {
+        if (autoWSM == false) {
+            console.log("it was false");
             WSMprimaer = parseInt((waffen[document.myform.waffe.value][1] + waffen[document.myform.zweitwaffe.value][1]) / 2);
             WSMsekundaer = parseInt((waffen[document.myform.waffe.value][1] + waffen[document.myform.zweitwaffe.value][1]) / 2) + waffen[document.myform.zweitwaffe.value][1] - waffen[document.myform.waffe.value][1];
         } else {
+            console.log("it was true");
             WSMprimaer = parseInt((waffen[document.myform.waffe.value][1] + waffen[document.myform.zweitwaffe.value][1]) / 2) + waffen[document.myform.waffe.value][1] - waffen[document.myform.zweitwaffe.value][1];
             WSMsekundaer = parseInt((waffen[document.myform.waffe.value][1] + waffen[document.myform.zweitwaffe.value][1]) / 2);
         }
