@@ -578,10 +578,10 @@ function berechneBreakpoints(event) {
         while (breakpoints2.length > 0) {
             breakpoints2.length = breakpoints2.length - 1;
         }
-        if ((document.myform.waffe.value == 0) || ((document.myform.zweitwaffe.value > 0) && (document.myform.skill.value == 0))) {
-            if ((document.myform.skill.value == 0) && (document.myform.zweitwaffe.value > 0)) {
+        if ((document.myform.waffe.value == 0)/* || ((document.myform.zweitwaffe.value > 0) && (document.myform.skill.value == 0))*/) {
+            /*if ((document.myform.skill.value == 0) && (document.myform.zweitwaffe.value > 0)) {
                 alert("There is a problem calculating the standard attack while using two weapons in wereform, so that calculation will not be performed. I suspect it uses whatever it considers main hand and ignores the off hand. It does not seem you can auto-WSM bug in Werebear form.");
-            }
+            }*/
             if (document.myform.waffe.value == 0) {
                 alert("Please choose a weapon to use.");
             }
