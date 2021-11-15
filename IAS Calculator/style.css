@@ -337,7 +337,7 @@ h3 {
 a {
   -webkit-transition: color .25s ease 0s;
   transition: color .25s ease 0s;
-  color: #76221f;
+  color: #ffd700;
   cursor: pointer
 }
 
@@ -346,7 +346,7 @@ a:not([href]):not([onclick]) {
 }
 
 a:not(.btn):hover {
-  color: #9e2d2a;
+  color: #daa520;
   text-decoration: none
 }
 
