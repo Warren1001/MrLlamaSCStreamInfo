@@ -35,7 +35,6 @@ var TabFenster;
 var autoWSM = false;
 
 function toggleAutoWSM() { // too lazy to see if javascript has a faster way to do this
-    console.log("hello");
     if (autoWSM == true) {
         autoWSM = false;
     } else {
@@ -720,7 +719,6 @@ function SchreibeDaten() {
     TabFenster.document.write('<tr><td>Primary Weapon:</td><td>' + document.myform.waffe.options[document.myform.waffe.selectedIndex].text + '</td></tr>');
     if (document.myform.zweitwaffe.value > 0) {
         TabFenster.document.write('<tr><td>Secondary Weapon:</td><td>' + document.myform.zweitwaffe.options[document.myform.zweitwaffe.selectedIndex].text + '</td></tr>');
-        console.log('<tr><td>Auto-WSM Bugged:</td><td>' + autoWSM + '</td></tr>');
         TabFenster.document.write('<tr><td>Auto-WSM Bugged:</td><td>' + autoWSM + '</td></tr>');
     }
     TabFenster.document.write('<tr><td>Skill:</td><td>' + document.myform.skill.options[document.myform.skill.selectedIndex].text + '</td></tr>');
@@ -778,11 +776,9 @@ function berechneWSM() {
     }
     if (((document.myform.char.value == 1) || (document.myform.char.value == 2)) && (document.myform.zweitwaffe.value > 0)) {
         if (autoWSM == false) {
-            console.log("it was false");
             WSMprimaer = parseInt((waffen[document.myform.waffe.value][1] + waffen[document.myform.zweitwaffe.value][1]) / 2);
             WSMsekundaer = parseInt((waffen[document.myform.waffe.value][1] + waffen[document.myform.zweitwaffe.value][1]) / 2) + waffen[document.myform.zweitwaffe.value][1] - waffen[document.myform.waffe.value][1];
         } else {
-            console.log("it was true");
             WSMprimaer = parseInt((waffen[document.myform.waffe.value][1] + waffen[document.myform.zweitwaffe.value][1]) / 2) + waffen[document.myform.waffe.value][1] - waffen[document.myform.zweitwaffe.value][1];
             WSMsekundaer = parseInt((waffen[document.myform.waffe.value][1] + waffen[document.myform.zweitwaffe.value][1]) / 2);
         }
