@@ -378,7 +378,9 @@ function berechneBreakpoints(event) {
                 if (document.myform.char.value == 9) {
                     ergebnis = ergebnis / 2;
                 }
-                if ((temp1 != ergebnis) && (i - 100 - SIAS + WSMprimaer < 120)) {
+                var abc = i - 100 - SIAS + WSMprimaer;
+                console.log(abc);
+                if ((temp1 != ergebnis) && (abc < 120)) {
                     breakpoints[breakpoints.length] = [Math.ceil(120 * (i - 100 - SIAS + WSMprimaer) / (120 - (i - 100 - SIAS + WSMprimaer))), ergebnis];
                     temp1 = ergebnis;
                 }
@@ -397,7 +399,9 @@ function berechneBreakpoints(event) {
                 }
                 temp = berechneFPA(frames, i, 0);
                 ergebnis = (ergebnis + temp) / 2;
-                if ((temp1 != ergebnis) && (i - 100 - SIAS + WSMprimaer < 120)) {
+                var abc = i - 100 - SIAS + WSMprimaer;
+                console.log(abc);
+                if ((temp1 != ergebnis) && (abc < 120)) {
                     breakpoints1[breakpoints1.length] = [Math.ceil(120 * (i - 100 - SIAS + WSMprimaer) / (120 - (i - 100 - SIAS + WSMprimaer))) - IASprimaer, ergebnis];
                     temp1 = ergebnis;
                 }
@@ -503,14 +507,16 @@ function berechneBreakpoints(event) {
                 rollback3 = berechneFPA(frames, i, 0);
                 ergebnis = rollback1 + rollback2 + rollback3;
                 if ((temp1 != ergebnis) && (i - 100 - SIAS + WSMprimaer < 120)) {
-                    breakpoints[breakpoints.length] = [Math.ceil(120 * (i - 100 - SIAS + WSMprimaer) / (120 - (i - 100 - SIAS + WSMprimaer))), rollback1 + "/" + rollback2 + "/" + rollback2 + "/" + rollback2 + "/" + rollback3];
+                    var bp = Math.ceil(120 * (i - 100 - SIAS + WSMprimaer) / (120 - (i - 100 - SIAS + WSMprimaer)));
+                    if (bp < 0) break;
+                    breakpoints[breakpoints.length] = [bp, rollback1 + "/" + rollback2 + "/" + rollback2 + "/" + rollback2 + "/" + rollback3];
                     breakpointsAPS[breakpointsAPS.length] = parseInt(2500 / ((rollback1 + rollback2 * 3 + rollback3) / 5)) / 100;
                     temp1 = ergebnis;
                 }
             }
         }
         if (fertigkeiten[document.myform.skill.value][4] == 50) {
-            for (i = Math.max(100 + SIAS - WSMprimaer, 15); i <= 149; i++) {
+            for (i = Math.max(100 + SIAS - WSMprimaer, 15); i <= 175000; i++) {
                 frames = aktionsframe[waffen[document.myform.waffe.value][2]][document.myform.char.value];
                 rollback1 = berechneFPA(frames, i, start);
                 rollback1++;
@@ -530,7 +536,9 @@ function berechneBreakpoints(event) {
                     ergebnis = rollback1 + rollback2 + rollback3 + rollback4 + rollback5;
                 }
                 if (temp1 != ergebnis) {
-                    breakpoints[breakpoints.length] = [Math.ceil(120 * (i - 100 - SIAS + WSMprimaer) / (120 - (i - 100 - SIAS + WSMprimaer))), rollback1 + "/" + rollback2 + "/" + rollback3 + "/" + rollback4 + "/" + rollback5];
+                    var bp = Math.ceil(120 * (i - 100 - SIAS + WSMprimaer) / (120 - (i - 100 - SIAS + WSMprimaer)));
+                    if (bp < 0) break;
+                    breakpoints[breakpoints.length] = [bp, rollback1 + "/" + rollback2 + "/" + rollback3 + "/" + rollback4 + "/" + rollback5];
                     breakpointsAPS[breakpointsAPS.length] = parseInt(2500 / ((rollback1 + rollback2 + rollback3 * 4 + rollback4 * 3 + rollback5) / 10)) / 100;
                     temp1 = ergebnis;
                 }
@@ -549,7 +557,9 @@ function berechneBreakpoints(event) {
                 rollback3 = berechneFPA(frames, i, RBframe);
                 ergebnis = rollback1 + rollback2 + rollback3;
                 if (temp1 != ergebnis) {
-                    breakpoints[breakpoints.length] = [Math.ceil(120 * (i - 100 - SIAS + WSMprimaer) / (120 - (i - 100 - SIAS + WSMprimaer))), rollback1 + "/" + rollback2 + "/" + rollback3];
+                    var bp = Math.ceil(120 * (i - 100 - SIAS + WSMprimaer) / (120 - (i - 100 - SIAS + WSMprimaer)));
+                    if (bp < 0) break;
+                    breakpoints[breakpoints.length] = [bp, rollback1 + "/" + rollback2 + "/" + rollback3];
                     breakpointsAPS[breakpointsAPS.length] = parseInt(2500 / ((rollback1 + rollback2 + rollback3) / 3)) / 100;
                     temp1 = ergebnis;
                 }
@@ -557,7 +567,7 @@ function berechneBreakpoints(event) {
         }
         TabFenster = window.open("", "Tabelle", "width=420,height=520,screenX=80,screenY=150,dependent=yes,scrollbars=yes,resizable=no")
         SchreibeDaten();
-        TabFenster.document.write('</table><br><table align="center" cellpadding="0" cellspacing="0"><tr class="title"><td height="30" width="70" align="center">Gear IAS</td><td width="180" align="center">attack speed [frames]</td><td width="180" align="center">attacks per second</td></tr>');
+        TabFenster.document.write('</table><br><table align="center" cellpadding="0" cellspacing="0"><tr class="title"><td height="30" width="70" align="center">IAS</td><td width="180" align="center">attack speed [frames]</td><td width="180" align="center">attacks per second</td></tr>');
         var aidel = 0;
         if (document.myform.char.value > 6) {
             aidel = 2;
