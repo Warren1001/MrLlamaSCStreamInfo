@@ -379,7 +379,7 @@ function berechneBreakpoints(event) {
                     ergebnis = ergebnis / 2;
                 }
                 var abc = i - 100 - SIAS + WSMprimaer;
-                console.log(abc);
+                //console.log(abc);
                 if ((temp1 != ergebnis) && (abc < 120)) {
                     breakpoints[breakpoints.length] = [Math.ceil(120 * (i - 100 - SIAS + WSMprimaer) / (120 - (i - 100 - SIAS + WSMprimaer))), ergebnis];
                     temp1 = ergebnis;
@@ -400,7 +400,7 @@ function berechneBreakpoints(event) {
                 temp = berechneFPA(frames, i, 0);
                 ergebnis = (ergebnis + temp) / 2;
                 var abc = i - 100 - SIAS + WSMprimaer;
-                console.log(abc);
+                //console.log(abc);
                 if ((temp1 != ergebnis) && (abc < 120)) {
                     breakpoints1[breakpoints1.length] = [Math.ceil(120 * (i - 100 - SIAS + WSMprimaer) / (120 - (i - 100 - SIAS + WSMprimaer))) - IASprimaer, ergebnis];
                     temp1 = ergebnis;
