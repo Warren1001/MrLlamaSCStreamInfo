@@ -4,7 +4,7 @@ SOJ = Stone of Jordan
 
 ## What is the IP?
 
-The IP will never be announced. You do not need to know the IP if you are looking for SOJs sold. Not sharing the IP gives everyone in chat a fair chance to randomly get in. Please do not ask for the IP or accuse Llama of being a scammer because he did not give you the IP for free.
+Unless Llama has put the IP on stream, the IP will never be announced. You do not need to know the IP if you are looking for SOJs sold. Not sharing the IP gives everyone in chat a fair chance to randomly get in. Please do not ask for the IP or accuse Llama of being a scammer because he did not give you the IP for free.
 
 ## How Diablo Clone Works
 
@@ -16,7 +16,7 @@ At the time of writing, Llama has been asking PapaChrisTV to organize the event 
 
 ## If I am not participating, how do I get a chance to join the server?
 
-At the time of writing, Llama and PapaChris have been running the event on Asia region. The full IP will ***NEVER*** be announced. You will need to load your game onto the proper region (Click the Globe icon above the Play button on the Battle.net Launcher and choose the correct region) and begin making games in ***HELL DIFFICULTY***. You will be able to see the "x SOJs sold" message in Normal games, but Diablo Clone will NOT spawn in a Normal game. Then wait for Llama to sell an SOJ on stream (sometimes PapaChris sells them instead, make sure to keep up to date on stream). Once you see him sell one, look at the chat in your game. If you see the "x SOJs sold" message, you are in the right game! Now you just have to be patient. If you do not see the message, you will have to create a new game. The message will appear INSTANTLY after Llama sells the SOJ. The Twitch Stream will be delayed, so you will see the "x SOJs sold" message a few seconds before he actually sells it on stream. You will have to keep trying until you see this message. It is an EXTREMELY low chance for you to get in the right server, so please keep that in mind before raging at Llama or chat that you cannot find the game. Please do not rage at Llama or chat, you are not entitled to a game since you did not spend anything to get in.
+At the time of writing, Llama and PapaChris have been running the event on Asia region. The full IP is usually never announced. You will need to load your game onto the proper region (Click the Globe icon above the Play button on the Battle.net Launcher and choose the correct region) and begin making games in ***HELL DIFFICULTY***. You will be able to see the "x SOJs sold" message in Normal games, but Diablo Clone will NOT spawn in a Normal game. Then wait for Llama to sell an SOJ on stream (sometimes PapaChris sells them instead, make sure to keep up to date on stream). Once you see him sell one, look at the chat in your game. If you see the "x SOJs sold" message, you are in the right game! Now you just have to be patient. If you do not see the message, you will have to create a new game. The message will appear INSTANTLY after Llama sells the SOJ. The Twitch Stream will be delayed, so you will see the "x SOJs sold" message a few seconds before he actually sells it on stream. You will have to keep trying until you see this message. It is an EXTREMELY low chance for you to get in the right server, so please keep that in mind before raging at Llama or chat that you cannot find the game. Please do not rage at Llama or chat, you are not entitled to a game since you did not spend anything to get in.
 
 ## Llama keeps saying "subnet" / How to Block IPs
 
