@@ -10,7 +10,7 @@
 	- The version does not matter. It can be 1.12 or 1.13 or 1.14d.
 	- It should be unmodded though.
 2. **[Download Cactus](https://xyinn.org/diablo/Cactus.7z) (~27 MB).**
-	- Cactus is a version-switcher. You can find more information about Cactus [here](https://github.com/fearedbliss/Cactus).
+	- Cactus is a version-switcher. You can find more information about Cactus [here](https://codeberg.org/fearedbliss/Cactus).
 3. **Open `Cactus.7z`.**
 4. **Navigate to and open the `1. Files` folder.**
 5. **Take every file this folder and drag and drop it into your Diablo 2 folder.**
