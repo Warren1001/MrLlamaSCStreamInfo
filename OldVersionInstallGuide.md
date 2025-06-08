@@ -16,7 +16,7 @@
 5. **Take every file in this folder and drag and drop it into your Diablo 2 folder.**
 6. **Navigate to and open the `3. Other` folder.**
 7. **Take every file in this folder and drag and drop it into your Diablo 2 folder.**
-8. **Run the two 'Other' exes, `MSVC_..` and `NET_Framework_..`.**
+8. **Run the two 'Other' .exes, `MSVC_..` and `NET_Framework_..`.**
 9. **Open the `MpqFixer` folder now in your Diablo 2 folder.**
 10. **Right click `FIX_MPQS_RUN_AS_ADMIN.bat` and press *Run as administrator*.**
 	- This fixes your MPQs to work with older versions of Diablo 2.
