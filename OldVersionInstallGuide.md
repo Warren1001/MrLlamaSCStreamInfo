@@ -30,9 +30,7 @@
 	- If I wanted to play v1.00, I would simply write `1.00` into the `Platform` dialog box.
 	- If you make a typo with the `Platform` and try to edit the box, it will tell you that the `Platform` already exists. Delete the profile and make it from scratch again. It will let you specify the right `Platform` this time.
 15. **For `Path`, this will be the path to the executable to launch Diablo 2.**
-	- In almost all cases, it will simply be the Game.exe found in the Diablo 2 folder.
-	- If you are unsure of how to do this, go back to your Diablo 2 folder. You will see [this](https://i.gyazo.com/295d5bc4add0ef430d02116dbc0f863f.png) in the Address Bar. Click on the Address Bar in empty space so that you can select the path to your Diablo 2 folder like [this](https://i.gyazo.com/67b357476cbf155b90b3c16244dbbd8d.png). Copy and paste this into the `Path` dialog box in Cactus. Then, add `\Game.exe` to the end of the dialog box.
-	- Most users' paths will read `C:\Program Files (x86)\Diablo II\Game.exe`. If you installed Diablo 2 elsewhere, then this will not be your path.
+	- This path is relative to where the Cactus program is, so if you installed it inside the Diablo II folder (which you should have), most people will simply write `Game.exe` here. If you have another exe to use, like PlugY or something else, then you would use that exe instead.
 16. **For `Flags`, this is where you input your startup arguments.**
 	- Flags consist of `-w`, `-ns`, `-3dfx`, and so forth.
 	- Choose what you want. Most users will just want `-w`.
